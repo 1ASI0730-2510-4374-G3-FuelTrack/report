@@ -252,7 +252,33 @@ Feature Assumptions
 - Creemos que al incluir reportes automatizados y visualización de métricas, facilitaremos la toma de decisiones y la optimización operativa de los proveedores.
 
 ##### 1.2.2.3 Lean UX Hypothesis Statements
-<!-- Hipótesis validables del proyecto -->
+
+Hypothesis Statement 01  
+**Creemos que** la centralización de los pedidos en nuestra plataforma reducirá considerablemente los errores en la coordinación entre las empresas solicitantes y los proveedores.  
+**Sabremos que hemos tenido éxito**  
+**Cuando** luego de los primeros tres meses de uso se reporte una disminución del 50% en el número de quejas en relación a pedidos incorrectos y un 70% de los pedidos sean confirmados sin necesidad de correcciones posteriores.
+
+---
+
+Hypothesis Statement 02  
+**Creemos que** ofrecer más herramientas para el control y visualización de los pedidos mejorará la satisfacción de los clientes solicitantes.  
+**Sabremos que hemos tenido éxito**  
+**Cuando** se observe una reducción del 30% en llamadas de seguimiento.
+
+---
+
+Hypothesis Statement 03  
+**Creemos que** la plataforma permitirá a los proveedores optimizar el proceso de gestión de los pedidos y reducir el tiempo que toma cumplir con cada uno.  
+**Sabremos que hemos tenido éxito**  
+**Cuando** los proveedores logren reducir en un 20% el tiempo promedio entre confirmación y entrega de pedidos.
+
+---
+
+Hypothesis Statement 04  
+**Creemos que** las notificaciones automáticas sobre el estado de los pedidos reducirán la necesidad de una gran cantidad de operadores comerciales de alta disponibilidad.  
+**Sabremos que hemos tenido éxito**  
+**Cuando** las solicitudes de información por parte de clientes disminuyan en un 40% y el tiempo promedio de atención se reduzca en un 60% tras el primer trimestre de uso.
+
 
 ##### 1.2.2.4 Lean UX Canvas
 <!-- Imagen o tabla del Lean UX Canvas -->
