@@ -22,7 +22,17 @@ La plataforma permite a las empresas solicitantes registrar sus pedidos, validar
 Su diseño busca facilitar la operación diaria tanto para solicitantes como para proveedores, mejorando la transparencia y reduciendo errores humanos.
 
 ### 1.2.1. Antecedentes y problemática
+### Análisis 5W2H de FuelTrack
 
+| Pregunta   | Descripción |
+|------------|-------------|
+| **What?** <br>¿Cuál es el problema? | La gestión de pedidos de combustible entre empresas que se realiza mediante canales informales como llamadas telefónicas, correos electrónicos o mensajes por WhatsApp, generando desorden, errores en la información, demoras y falta de trazabilidad en el proceso. |
+| **When?** <br>¿Cuándo sucede el problema? | Este problema ocurre en el día a día de la operación logística, especialmente durante la planificación y solicitud de abastecimiento de combustible. Las empresas que operan en sectores que requieren un suministro constante (como minería o construcción) enfrentan estos inconvenientes cada vez que necesitan hacer un nuevo pedido, validar pagos o resolver conflictos logísticos. |
+| **Where?** <br>¿Dónde sucede el problema? | Se presenta en empresas de distintos sectores que requieren combustible constantemente, y en las proveedoras que lo distribuyen. Las áreas más afectadas son logística, finanzas y abastecimiento, donde se concentra el intercambio de información no estructurada. |
+| **Why?** <br>¿Por qué sucede el problema? | Debido a la ausencia de herramientas digitales específicas para este proceso. Las empresas no cuentan con soluciones integradas que les permitan registrar, controlar y auditar sus operaciones de forma ordenada, segura y transparente. |
+| **Who?** <br>¿Quién está involucrado? | Participan tanto los solicitantes de combustible como los proveedores. Esto incluye personal de logística, compras, finanzas, operadores de planta y choferes. Todos se ven afectados por la falta de control y coordinación. |
+| **How?** <br>¿Cómo se va a llevar a cabo? | FuelTrack digitaliza y automatiza todo el flujo de gestión: desde la solicitud, validación de pago, control de inventario, hasta la confirmación de entrega. La plataforma centraliza la información, reduce errores y mejora la eficiencia a través de una interfaz intuitiva y trazable. |
+| **How much?** <br>¿Cuánto costará o qué recursos se necesitarán? | Se requerirán recursos técnicos como un equipo de desarrollo, servidores en la nube, y sistemas de seguridad e integración. A nivel humano, personal para soporte, ventas y atención al cliente. También se considerarán inversiones en marketing, relaciones comerciales, y análisis del sector energético para adaptar la solución al mercado. |
 
 ### 1.2.2. Lean UX Process
 
