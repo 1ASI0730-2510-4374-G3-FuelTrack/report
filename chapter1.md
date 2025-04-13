@@ -37,6 +37,45 @@ Su diseño busca facilitar la operación diaria tanto para solicitantes como par
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+### Solicitantes de Combustible (Empresas Compradoras)
+
+Las empresas de los sectores industriales, mineros y de construcción enfrentan dificultades significativas al coordinar sus pedidos de combustible, debido al uso de canales informales como llamadas telefónicas, correos electrónicos y aplicaciones de mensajería.
+
+Esta falta de formalidad genera desorganización, errores en los pedidos y una notable ausencia de trazabilidad, lo que provoca incertidumbre sobre el estado de los despachos y posibles interrupciones en sus operaciones.
+
+Nuestra solución propone una plataforma digital centralizada que permite a estas empresas registrar y monitorear sus pedidos en tiempo real, asegurando transparencia y eficiencia en todo el proceso.
+
+Sin embargo, la adopción de nuevas tecnologías puede ser un desafío para algunos usuarios si la plataforma no es lo suficientemente intuitiva y alineada con sus procesos actuales.
+
+> **¿Cómo podemos diseñar una experiencia de usuario que facilite una gestión de pedidos rápida, eficiente y accesible para todos los usuarios, independientemente de su familiaridad con la tecnología?**
+
+---
+
+### Proveedores de Combustible (Empresas Distribuidoras)
+
+Las empresas distribuidoras de combustible gestionan diariamente múltiples pedidos, conciliaciones bancarias y despachos, lo que representa una carga administrativa considerable y aumenta el riesgo de errores logísticos.
+
+La dependencia de procesos manuales y herramientas dispersas dificulta la eficiencia operativa y la satisfacción del cliente.
+
+Nuestra solución ofrece una plataforma integral que automatiza la gestión de pedidos, desde la solicitud hasta la entrega, incluyendo funciones como conciliación bancaria automática, asignación inteligente de combustible y manejo eficiente de reprogramaciones logísticas.
+
+No obstante, la implementación de un nuevo sistema puede encontrar resistencia si los beneficios no son evidentes y medibles en el corto plazo.
+
+> **¿Cómo podemos demostrar de manera efectiva a los proveedores que la adopción de nuestra plataforma resultará en una mejora tangible de su eficiencia operativa y en una reducción significativa de errores?**
+
+---
+
+### Visión Estratégica y del Producto
+
+El mercado latinoamericano de distribución de combustibles carece actualmente de una solución SaaS especializada que ofrezca una gestión integral y trazabilidad completa de los pedidos entre empresas compradoras y proveedoras.
+
+Esta ausencia crea una brecha significativa entre las prácticas operativas actuales, caracterizadas por su informalidad, y la necesidad creciente de procesos más modernos, eficientes y transparentes.
+
+FuelTrack aspira a cerrar esta brecha proporcionando una plataforma escalable y adaptable que se convierta en el estándar digital para la gestión de pedidos de combustible en la región.
+
+Sin embargo, dada la complejidad del ecosistema y la diversidad de actores involucrados, es esencial una estrategia de introducción al mercado cuidadosamente planificada.
+
+> **¿Cómo podemos identificar y abordar un segmento inicial que nos permita validar nuestra propuesta de valor, generar tracción en el mercado y establecer una base sólida para una expansión escalable?**
 
 #### 1.2.2.2. Lean UX Assumptions
 
