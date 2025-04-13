@@ -82,6 +82,16 @@ Sin embargo, dada la complejidad del ecosistema y la diversidad de actores invol
 
 #### 1.2.2.4. Lean UX Canvas
 
+| **Elemento**            | **Descripción**                                                                 |
+|-------------------------|---------------------------------------------------------------------------------|
+| Usuarios                | Empresas solicitantes y proveedores de combustible                             |
+| Necesidades del usuario | Rapidez, transparencia, orden y eficacia en la gestión de pedidos              |
+| Solución                | Plataforma web (web/móvil) de facilitación, seguimiento y confirmación         |
+| Supuestos               | Los métodos actuales son informales e ineficientes                             |
+| Beneficios esperados    | Reducción de tiempos de espera y errores                                       |
+| Métricas clave          | Satisfacción de usuarios, reducción de errores y número de errores             |
+| Hipótesis a validar     | Las empresas preferirán nuestra plataforma sobre un medio informal             |
+
 ## 1.3. Segmentos objetivo
 ## 1. Empresas solicitantes de combustible
 
