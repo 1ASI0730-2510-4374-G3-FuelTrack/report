@@ -15,6 +15,12 @@
 
 ## 1.2. Solution Profile
 
+**FuelTrack** es una plataforma digital diseñada para mejorar y automatizar el proceso de pedidos de combustible entre empresas solicitantes y proveedoras. Su objetivo principal es reemplazar los canales informales como llamadas, correos y mensajes por WhatsApp, mediante una solución que centraliza y ordena todo el flujo de gestión: desde la solicitud hasta la entrega del combustible.
+
+La plataforma permite a las empresas solicitantes registrar sus pedidos, validar pagos, hacer seguimiento en tiempo real y confirmar entregas, todo desde un solo lugar. Esta plataforma ha sido pensada para ofrecer trazabilidad, eficiencia y control operativo, integrando funciones como conciliación bancaria automática, asignación inteligente de combustible, validación de inventario y generación de reportes históricos.
+
+Su diseño busca facilitar la operación diaria tanto para solicitantes como para proveedores, mejorando la transparencia y reduciendo errores humanos.
+
 ### 1.2.1. Antecedentes y problemática
 
 
