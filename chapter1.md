@@ -79,6 +79,15 @@ Sin embargo, dada la complejidad del ecosistema y la diversidad de actores invol
 
 #### 1.2.2.2. Lean UX Assumptions
 
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+| Nº | Hipótesis                                | Supuesto                                                                                      |
+|----|-------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 1  | Plataforma digital para gestión de pedidos | Creemos que la eficiencia podría mejorar si las empresas cuentan con una plataforma para registrar y dar seguimiento a sus pedidos. |
+| 2  | Seguimiento en tiempo real del pedido     | Consideramos que mejorar la experiencia del cliente es posible si puede seguir su pedido con actualizaciones en tiempo real.         |
+| 3  | Panel de gestión para proveedores         | Estimamos que los proveedores podrían optimizar su logística si tienen acceso a un panel de control de pedidos y entregas.           |
+| 4  | Registro histórico y trazabilidad de pedidos | Proponemos que reducir errores y facilitar auditorías sería posible con un historial digital accesible para ambas partes.           |
+| 5  | Comunicación interna integrada            | Creemos que la coordinación mejorará si existe un canal de mensajería dentro de la plataforma, evitando medios externos.             |
 
 #### 1.2.2.4. Lean UX Canvas
 
