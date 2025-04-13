@@ -83,3 +83,25 @@ Sin embargo, dada la complejidad del ecosistema y la diversidad de actores invol
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
+## 1. Empresas solicitantes de combustible
+
+Son organizaciones que necesitan combustible de forma constante para el desarrollo de sus operaciones. Utilizan este recurso para alimentar maquinaria, vehículos o equipos, y buscan procesos más ágiles, ordenados y confiables para su gestión de pedidos.
+
+### Necesidades:
+- Asegurar el abastecimiento oportuno de combustible.
+- Mejorar la trazabilidad y el control de pedidos.
+- Reducir errores derivados de la informalidad en los procesos.
+- Agilizar la comunicación con proveedores.
+- Obtener reportes y registros digitales para auditoría o planificación.
+
+---
+
+## 2. Proveedores de combustible
+Son empresas dedicadas a la distribución de combustibles, atendiendo principalmente a clientes corporativos o industriales. Buscan herramientas que les permitan profesionalizar su servicio, optimizar sus operaciones y diferenciarse en un mercado cada vez más competitivo.
+
+### Motivaciones:
+- Incrementar la eficiencia operativa en la recepción y gestión de pedidos.
+- Mejorar la experiencia del cliente mediante canales digitales.
+- Reducir errores en la entrega por información incompleta o mal gestionada.
+- Optimizar la planificación logística y distribución.
+- Obtener métricas claras sobre el desempeño comercial.
