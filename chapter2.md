@@ -29,9 +29,36 @@ Oracle NetSuite es una plataforma ERP en la nube que incluye módulos de gestió
 | **Oportunidades** | Alta informalidad en el sector, digitalización creciente en logística, necesidad de trazabilidad y control. | Expansión hacia empresas y flotas, integración con proveedores. | Nuevos mercados industriales con enfoque en seguridad y control. | Empresas que buscan consolidar operaciones bajo un mismo sistema. |
 | **Amenazas**  | Aparición de soluciones similares, resistencia al cambio en empresas tradicionales, competencia ERP. | Nuevas apps más completas en el mercado entre empresas. | SaaS ágiles y sin hardware físico, que ofrecen soluciones más accesibles. | Soluciones verticales más específicas y asequibles en ciertos sectores. |
 
-### 2.1.2. Estrategias y tácticas frente a competidores. 
-## 2.2. Entrevistas. 
-### 2.2.1. Diseño de entrevistas. 
+### 2.1.2. Estrategias y tácticas frente a competidores.
+
+#### a. Diferenciación a través de especialización
+Una de las principales estrategias de **FuelTrack** es la **especialización en el flujo completo de pedido de combustible**. A diferencia de soluciones como **PetroApp**, que se centra en la experiencia del consumidor final más que en las empresas que gestionan pedidos a gran escala, nuestra plataforma se enfoca en las interacciones B2B (empresa a empresa). Esto nos permite ofrecer un **control dedicado del pedido**, **gestión de la logística**, y **reportes detallados de consumo**, lo cual no está presente en la mayoría de las plataformas competidoras.
+
+- **Táctica**: Desarrollar funcionalidades para la **validación automática de pagos**, **gestión de stock en tiempo real** y la **optimización del transporte** logrando la automatización de procesos que solo eran logrados de forma manual. Esto crea una ventaja frente a competidores como **FuelCloud**, que se centran más en el control físico del combustible y menos en la administración a nivel operativo.
+
+#### b. Innovación en la interfaz de usuario y experiencia
+
+El sistema de **FuelTrack** está diseñado para ofrecer una **experiencia de usuario optimizada**, algo que **Oracle NetSuite**, **FuelCloud** y la propia **OSINERGMIN** no abordan en sus plataformas. Al ser una solución especializada y dirigida a una tarea específica, podemos dedicar más recursos en crear una interfaz intuitiva y procesos bien definidos brindando comodidad y seguridad a nuestros usuarios.
+
+- **Táctica**: Diseñar una **interfaz intuitiva y consistente** que permita a los usuarios acceder a reportes de consumo, validar pedidos y coordinar logística con facilidad. Además, ofrecer **soporte y formación continua** para asegurar que los usuarios aprovechen al máximo todas las funcionalidades del sistema.
+
+#### c. Flexibilidad en precios y modelo SaaS escalable
+El modelo de precios de **FuelTrack** ofrece **planes escalables basados en suscripción**, lo que hace que sea más accesible para medianas y grandes empresas. Esto es más competitivo frente a **Oracle NetSuite**y sus altos costos de implementación y licencias, y **FuelCloud**, que requiere una inversión significativa para hardware y mantenimiento.
+
+- **Táctica**: Ofrecer un modelo de suscripción flexible y **precios competitivos**, con **múltiples niveles de suscripción** adaptados a las necesidades de diferentes empresas. Esto permitirá que empresas de menor tamaño puedan acceder a la plataforma sin comprometer su presupuesto, a la vez que se asegura el crecimiento a largo plazo a medida que la empresa crece.
+
+#### d. Aprovechamiento de la digitalización en la logística
+El sector de la logística está experimentando una transformación digital acelerada. **FuelTrack** se aprovechará de esta tendencia buscando la integración de la plataforma con otras soluciones logísticas (como los sistemas de gestión de vehículos o flotas). De esta forma podemos ofrecer una solución más completa y eficiente.
+
+- **Táctica**: Colaborar con empresas de **gestión de flotas** para optimizar el proceso de asignación de vehículos, cisternas y choferes. También se considerará la posibilidad de integrar **sensores IoT** en los camiones de reparto para un control más preciso sobre el combustible transportado y la entrega.
+
+#### e. Expansión hacia mercados internacionales
+Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo de negocio y la flexibilidad de la plataforma la hacen ideal para expandirse a **mercados internacionales**. Competidores como **Oracle NetSuite** ya tienen presencia en mercados globales, pero su enfoque en empresas grandes y sus altos costos de implementación pueden ser una barrera para empresas de menor tamaño, limitando su alcance.
+
+- **Táctica**: Iniciar la expansión en mercados emergentes donde la digitalización en la logística es una necesidad creciente. Esto incluirá la **localización de la plataforma** (idioma, moneda, regulaciones locales) para facilitar la adaptabilidad de los nuevos mercados.
+
+## 2.2. Entrevistas.
+### 2.2.1. Diseño de entrevistas.
 ### 2.2.2. Registro de entrevistas. 
 ### 2.2.3. Análisis de entrevistas. 
 ## 2.3. Needfinding. 
