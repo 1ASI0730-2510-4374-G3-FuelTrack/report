@@ -212,12 +212,11 @@ En el contexto actual donde crece cada vez más la demanda por servicios logíst
 
 Business Assumptions
 
-- Las empresas proveedoras tienen interés en automatizar el proceso de gestión de pedidos con el fin de tener un servicio más eficiente y reducir el número de operadores comerciales que necesitan.  
-- Los proveedores de combustible necesitan una herramienta centralizada que les permita visualizar y organizar los pedidos entrantes en tiempo real.  
+- Las empresas proveedoras tienen en la adopción de nuevas tecnologías para automatizar multiples procesos de gestión con el fin de tener un servicio más eficiente y reducir el número de operadores comerciales que necesitan.   
 - Las empresas están buscando formas de reducir errores y retrasos logísticos para optimizar sus costos operativos.  
 - Los proveedores estan dispuestos a invertir para mejorar su nivel de servicio y aumentar su competitividad en el mercado.  
 - Las empresas usuarias apreciarán tener un mayor control de sus órdenes y ser capaces de seguirlas en una plataforma centralizada.  
-- La baja trazabilidad y la posibilidad de errores humanos hace que dejar los métodos informales sea una necesidad crítica para el sector en general.
+- La dificil trazabilidad de los pedidos y la posibilidad de fallas en la comunicación hace que dejar los métodos informales sea una necesidad crítica para el sector en general.
 
 ---
 
@@ -249,19 +248,19 @@ Feature Assumptions
 - Creemos que al ofrecer una interfaz clara y rápida con funciones de seguimiento, aumentaremos la adopción entre proveedores y solicitantes.  
 - Creemos que al automatizar la gestión de pedidos, los usuarios reducirán su dependencia de métodos informales y ganarán en control y visibilidad.  
 - Creemos que al integrar notificaciones en tiempo real sobre estados de pedido, mejoraremos la coordinación entre actores y reduciremos los retrasos.  
-- Creemos que al incluir reportes automatizados y visualización de métricas, facilitaremos la toma de decisiones y la optimización operativa de los proveedores.
+- Creemos que al incluir visualización de métricas, facilitaremos la toma de decisiones y la optimización operativa de los proveedores.
 
 ##### 1.2.2.3 Lean UX Hypothesis Statements
 
 Hypothesis Statement 01  
-**Creemos que** la centralización de los pedidos en nuestra plataforma reducirá considerablemente los errores en la coordinación entre las empresas solicitantes y los proveedores.  
+**Creemos que** la centralización de los pedidos en nuestra plataforma reducirá el ratio de errores causados por problemas de coordinación entre las empresas solicitantes y los proveedores.  
 **Sabremos que hemos tenido éxito**  
-**Cuando** luego de los primeros tres meses de uso se reporte una disminución del 50% en el número de quejas en relación a pedidos incorrectos y un 70% de los pedidos sean confirmados sin necesidad de correcciones posteriores.
+**Cuando** luego de los primeros tres meses de uso se reporte que más de un 70% de los pedidos realizados fueron confirmados sin necesidad de correcciones posteriores.
 
 ---
 
 Hypothesis Statement 02  
-**Creemos que** ofrecer más herramientas para el control y visualización de los pedidos mejorará la satisfacción de los clientes solicitantes.  
+**Creemos que** ofrecer más herramientas para el control y seguimiento de pedidos mejorará la satisfacción de los clientes solicitantes.  
 **Sabremos que hemos tenido éxito**  
 **Cuando** se observe una reducción del 30% en llamadas de seguimiento.
 
