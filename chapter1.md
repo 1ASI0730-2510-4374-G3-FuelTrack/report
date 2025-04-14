@@ -30,8 +30,8 @@
       <td>Bryan Ronald Espejo Gamarra</td>
     </tr>
     <tr>
-      <td>Inserte código aquí</td>
-      <td>Inserte nombre aquí</td>
+      <td>u201817507</td>
+      <td>Manuel Angel Sanchez Arenas</td>
     </tr>
     <tr>
       <td>Inserte código aquí</td>
@@ -93,12 +93,10 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 | **Integrante**     | **Usuario GitHub**  | **Aportaciones destacadas**                     |
 |--------------------|---------------------|-------------------------------------------------|
 | Bryan Espejo       | @SaeBryxn            | Inicialización del repositorio y configuración inicial del proyecto. |
+| Manuel Sanchez      | @manuels7anchez      | Por colocar aporte |
 | Inserte nombre aquí| @UsuarioGitHub       | Aportación destacada aquí.                     |
 | Inserte nombre aquí| @UsuarioGitHub       | Aportación destacada aquí.                     |
 | Inserte nombre aquí| @UsuarioGitHub       | Aportación destacada aquí.                     |
-| Inserte nombre aquí| @UsuarioGitHub       | Aportación destacada aquí.                     |
-
-*(Puedes agregar capturas de GitHub Insights o historial de commits como evidencia visual.)*
 
 ---
 
@@ -129,10 +127,10 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 
 > *Cada participante del equipo debe colaborar a fin de que se redacte como grupo los sustentos y evidencias de las actividades realizadas en el trabajo final que han ayudado a desarrollar cómo las dimensiones del student outcome. Por ello en esta sección debe quedar descrito por escrito, la relación entre el outcome, sus dimensiones y el trabajo que han realizado.*
 
-| **Criterio Específico**                                      | **Acciones Realizadas**                                                                                                   | **Conclusiones**                                                                                                                                              |
-|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**  |
+|---|---|---|
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Bryan Espejo**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
-|                                                              | **Inserte nombre aquí**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
+|                                                              | **Manuel Sanchez**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Bryan Espejo**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
 |                                                              | **Inserte nombre aquí**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
 | **Desarrollo de habilidades técnicas y de gestión**          | **Inserte nombre aquí**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
@@ -156,8 +154,8 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 
 | Foto                                | Nombre completo   | Código       | Carrera            | Habilidades técnicas y rol                  |
 |-------------------------------------|-------------------|--------------|--------------------|---------------------------------------------|
-| ![Bryan Espejo](img/foto_bryan.jpg) | Bryan Espejo      | u202213278   | Ingeniería Software| Desarrollo Backend, Gestión de Base de Datos|
-| ![Inserte foto aquí](img/foto_compañero1.jpg) | [Nombre Completo] | [Código]     | [Carrera]          | [Habilidades técnicas y rol]               |
+| ![Bryan Espejo](img/foto_bryan.jpg) | Bryan Espejo  | u202213278   | Ingeniería Software| Desarrollo Backend, Gestión de Base de Datos|
+| ![Inserte foto aquí](img/foto_manuel.jpg) | Manuel Sanchez | u201817507 | Ingeniería de Software          | [Habilidades técnicas y rol]               |
 | ![Inserte foto aquí](img/foto_compañero2.jpg) | [Nombre Completo] | [Código]     | [Carrera]          | [Habilidades técnicas y rol]               |
 | ![Inserte foto aquí](img/foto_compañero3.jpg) | [Nombre Completo] | [Código]     | [Carrera]          | [Habilidades técnicas y rol]               |
 | ![Inserte foto aquí](img/foto_compañero4.jpg) | [Nombre Completo] | [Código]     | [Carrera]          | [Habilidades técnicas y rol]               |
