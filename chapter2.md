@@ -119,9 +119,32 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 ### 2.2.2. Registro de entrevistas.
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
-### 2.3.1. User Personas. 
-### 2.3.2. User Task Matrix. 
+### 2.3.1. User Personas.
+
+a. User Persona 1: Empresas solicitantes de combustible
+![userpersona_segmento1](img/userpersona_segmento1.png)
+
+b. User Persona 2: Proveedores de combustible
+![userpersona_segmento2](img/userpersona_segmento2.png)
+
+### 2.3.2. User Task Matrix.
+
+| **Tarea**                                      | **David Miller – Frecuencia** | **David Miller – Importancia** | **Ana Pérez – Frecuencia** | **Ana Pérez – Importancia** |
+|------------------------------------------------|-------------------------------|---------------------------------|-----------------------------|------------------------------|
+| Revisar nivel de stock de combustible          | Alta | Alta | Baja | Baja |
+| Realizar pedido de combustible                 | Media | Alta | Alta | Alta |
+| Validar confirmación de pedido                 | Alta | Alta | Alta | Alta |
+| Hacer seguimiento a la entrega                 | Alta | Alta | Alta | Alta |
+| Supervisar descarga y recepción                | Media | Alta | Media | Media |
+| Evaluar proceso post-servicio                  | Baja | Media | Alta | Alta |
+| Gestionar atención al cliente                  | Media | Alta | Alta | Alta |
+| Revisar encuestas o feedback                   | Baja | Media | Media | Alta |
+
 ### 2.3.3. User Journey Mapping. 
 ### 2.3.4. Empathy Mapping. 
+
+![empathymap_segmento1](img/empathymap_segmento1.png)
+![empathymap_segmento1](img/empathymap_segmento2.png)
+
 ### 2.3.5. As-is Scenario Mapping. 
 ## 2.4. Ubiquitous Language. 
