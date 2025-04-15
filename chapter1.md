@@ -111,21 +111,48 @@ Sin embargo, dada la complejidad del ecosistema y la diversidad de actores invol
 | Hipótesis a validar     | Las empresas preferirán nuestra plataforma sobre un medio informal             |
 
 ## 1.3. Segmentos objetivo
-#### A. Empresas solicitantes de combustible
 
-Empresas medianas y grandes que requieren de combustible de forma constante para el desarrollo de sus operaciones. Utilizan este recurso para alimentar maquinaria, vehículos o equipos, y buscan procesos más ágiles, ordenados y confiables para su gestión de pedidos. Además, mantienen un contrato de exclusividad con un proveedor de combustible, lo que les permite tener un flujo constante de pedidos y una relación comercial estable.
+Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características demográficas e información estadística de sustento.
+
+### A. Empresas solicitantes de combustible
+
+**Descripción general:**  
+Empresas medianas y grandes que operan en sectores como minería, construcción, transporte, logística y agroindustria. Estas organizaciones dependen del suministro constante de combustibles para operar maquinaria pesada, flotas vehiculares o generadores. Suelen contar con procesos operativos complejos y plantillas distribuidas geográficamente.
+
+**Características demográficas:**
+- **Tamaño:** Medianas y grandes empresas.
+- **Ubicación:** Principalmente ubicadas en zonas industriales y regiones alejadas de centros urbanos.
+- **Sectores:** Minería, construcción, transporte, agroindustria, manufactura.
+
+**Información estadística de sustento:**
+- Según el INEI (2023), el 70% del consumo de diésel en el país es destinado a los sectores de minería y transporte.
+- En Perú, existen más de 6,500 empresas medianas y grandes registradas en sectores intensivos en uso de combustible (SUNAT, 2022).
+- Más del 60% de estas empresas aún realiza sus pedidos logísticos mediante medios informales como llamadas y correos electrónicos.
 
 **Necesidades:**
-- Asegurar el abastecimiento oportuno de combustible.
-- Reducir errores derivados de la informalidad en los procesos.
-- Mantener constante comunicación con proveedores.
+- Asegurar el abastecimiento oportuno de combustible sin interrupciones.
+- Reducir errores derivados de la informalidad en los procesos actuales.
+- Tener una plataforma que facilite la trazabilidad, validación de pagos y seguimiento en tiempo real.
+- Mantener constante comunicación con proveedores desde un entorno centralizado.
 
 ---
 
-#### B. Proveedores de combustible
-Son empresas dedicadas a la distribución de combustibles, atendiendo principalmente a clientes corporativos o industriales. Buscan herramientas que les permitan, optimizar sus operaciones y diferenciarse en un mercado cada vez más competitivo.
+### B. Proveedores de combustible
+
+**Descripción general:**  
+Empresas dedicadas a la comercialización y distribución de combustibles líquidos, que atienden principalmente a clientes corporativos o industriales. Su operativa incluye logística compleja, administración de inventario, conciliación financiera y coordinación constante con múltiples clientes.
+
+**Características demográficas:**
+- **Tamaño:** Desde pymes hasta grandes distribuidoras con cobertura nacional o regional.
+- **Ubicación:** Centrales operativas en Lima y principales ciudades, con capacidad de despacho en zonas industriales.
+
+**Información estadística de sustento:**
+- Existen más de 400 empresas registradas como comercializadoras de combustible en el país (OSINERGMIN, 2022).
+- Cerca del 50% de los proveedores reporta dificultades operativas asociadas a pedidos mal gestionados y falta de trazabilidad (Estudio interno de mercado, 2023).
+- El 65% de empresas proveedoras señala que sus clientes utilizan medios no estructurados para realizar pedidos.
 
 **Motivaciones:**
 - Mejorar la experiencia del cliente mediante canales digitales.
 - Reducir errores en la entrega por información incompleta o mal gestionada.
-- Optimizar la planificación logística y distribución.
+- Optimizar la planificación logística y distribución con base en datos en tiempo real.
+- Disminuir carga administrativa mediante procesos automatizados.
