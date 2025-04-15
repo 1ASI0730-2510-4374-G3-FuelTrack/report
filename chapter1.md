@@ -112,8 +112,6 @@ Sin embargo, dada la complejidad del ecosistema y la diversidad de actores invol
 
 ## 1.3. Segmentos objetivo
 
-Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características demográficas e información estadística de sustento.
-
 ### A. Empresas solicitantes de combustible
 
 **Descripción general:**  
