@@ -78,12 +78,12 @@ Sin embargo, dada la complejidad del ecosistema y la diversidad de actores invol
 > **¿Cómo podemos identificar y abordar un segmento inicial que nos permita validar nuestra propuesta de valor, generar tracción en el mercado y establecer una base sólida para una expansión escalable?**
 
 #### 1.2.2.2. Lean UX Assumptions
-## Business Outcomes Assumptions
+### Business Outcomes Assumptions
 - Las empresas proveedoras y solicitantes mejorarán su eficiencia operativa al reemplazar los canales informales por una solución digital como FuelTrack.
 - La plataforma permitirá una trazabilidad completa del estado de cada pedido, disminuyendo errores operativos y pérdidas de inventario.
 - Al centralizar el flujo de pedidos y entregas, FuelTrack reducirá la dependencia de operadores humanos, minimizando errores manuales.
 
-## Suppliers Assumptions
+### Suppliers Assumptions
 - Las empresas proveedoras aumentarán su capacidad de respuesta y podrán atender más pedidos en menos tiempo gracias a la automatización.
 - Los proveedores esperan poder acceder al historial de pedidos, reportes descargables y métricas clave para evaluar su desempeño operativo.
 - Si la plataforma les ayuda a ahorrar tiempo, reducir errores o integrar sus sistemas actuales (como contabilidad o GPS), estarán dispuestos a pagar por funciones premium.
