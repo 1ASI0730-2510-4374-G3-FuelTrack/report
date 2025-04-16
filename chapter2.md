@@ -140,7 +140,12 @@ b. User Persona 2: Proveedores de combustible
 | Gestionar atención al cliente                  | Media | Alta | Alta | Alta |
 | Revisar encuestas o feedback                   | Baja | Media | Media | Alta |
 
-### 2.3.3. User Journey Mapping. 
+### 2.3.3. User Journey Mapping.
+
+![userjourney_userpersona1](img/userjourney_userpersona1.png)
+![userjourney_userpersona2](img/userjourney_userpersona2.png)
+
+
 ### 2.3.4. Empathy Mapping. 
 
 ![empathymap_segmento1](img/empathymap_segmento1.png)
