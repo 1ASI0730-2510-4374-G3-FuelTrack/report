@@ -88,6 +88,7 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 - ¿Qué tipo de dispositivo usa en el trabajo? (PC, tablet, celular)
 - ¿Qué aplicaciones o herramientas digitales usa en su día a día?
 - ¿Cómo describiría su nivel de habilidad con la tecnología?
+
 ---
 
 #### B. Empresas Solicitantes
@@ -117,7 +118,147 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 ---
 
 ### 2.2.2. Registro de entrevistas.
+
+#### Entrevista 1 – Segmento: Empresa Solicitante
+![entrevista_segmento1](img/entrevista1_segmento1.png) 
+- Nombres: Nombre inventado
+- Apellidos: Apellido inventado
+- Edad: … años
+- Distrito: Lima
+- Acerca de la entrevista:<br>
+    
+- URL de Entrevista: 
+- Duración:
+- Resumen:<br>
+    Martín explicó que actualmente los pedidos de combustible se realizan principalmente por WhatsApp o llamadas, recurriendo al correo solo en situaciones excepcionales o programadas. La empresa no cuenta con un sistema formal para esto; han intentado usar una hoja de Excel compartida, pero no siempre está actualizada, generando inconsistencias.<br>
+    La validación de entregas se realiza de forma manual. El encargado de patio compara el volumen entregado con lo solicitado usando una guía de despacho, aunque señaló que en zonas alejadas muchas veces no coinciden los valores exactos.<br>
+    Uno de los principales problemas mencionados es la frecuencia de entregas tardías o incompletas, especialmente en regiones remotas como la sierra o selva, lo que repercute directamente en la operación diaria.<br>
+    Sobre reportes, el área operativa requiere información semanal y la gerencia mensualmente. Todo esto se realiza en Excel, consolidando reportes enviados por los jefes de zona: un proceso lento y propenso a errores. Para reprogramaciones, las coordinaciones se hacen por teléfono y se pierde el registro de esos cambios.<br>
+    Cuando se le consultó por mejoras, Martín fue claro: desean una plataforma que les permita hacer el pedido, hacerle seguimiento, confirmar la entrega, generar reportes y validar el consumo —todo en un solo lugar. También expresó que le gustaría tener visibilidad en tiempo real del estado del pedido.
+
+---
+
+#### Entrevistado N°2
+![entrevista_segmento1](img/entrevista2_segmento1.png) 
+- Nombres: Nombre inventado
+- Apellidos: Apellido inventado
+- Edad: … años
+- Distrito: Lima
+- Acerca de la entrevista:<br>
+    
+- URL de Entrevista: 
+- Duración:
+- Resumen:<br>
+    
+
+---
+
+#### Entrevistado N°3
+![entrevista_segmento1](img/entrevista3_segmento1.png) 
+- Nombres: Nombre inventado
+- Apellidos: Apellido inventado
+- Edad: … años
+- Distrito: Lima
+- Acerca de la entrevista:<br>
+    
+- URL de Entrevista: 
+- Duración:
+- Resumen:<br>
+    
+
+---
+
+#### Entrevistado N°4
+![entrevista_segmento1](img/entrevista4_segmento2.png) 
+- Nombres: Nombre inventado
+- Apellidos: Apellido inventado
+- Edad: … años
+- Distrito: Lima
+- Acerca de la entrevista:<br>
+    _Nombre inventado_ es supervisor operativo en una empresa distribuidora de combustibles que atiende pedidos corporativos a nivel regional. Tiene más de 15 años de experiencia en logística. Maneja los pedidos a través de WhatsApp, llamadas telefónicas y hojas Excel. Le preocupa el tiempo que toma organizar la información y los errores por duplicidad. Considera que una solución como FuelTrack sería útil si se adapta bien a su flujo de trabajo.
+- URL de Entrevista: 
+- Duración:
+- Resumen:<br>
+    _Nombre inventado_ indica que los pedidos de empresas clientes se gestionan mediante llamadas, WhatsApp y correos electrónicos.<br>No utilizan ningún sistema digital centralizado; todo se registra manualmente en hojas Excel. Desde que reciben el pedido, se valida la disponibilidad en almacén, se programa la entrega y se despacha.<br>
+    SEl control de lo entregado se hace comparando guías físicas, y los reportes de volúmenes y entregas se elaboran a fin de mes de forma manual. No cuentan con un sistema automático para validar stock y no ofrecen seguimiento en tiempo real al cliente. Los problemas más comunes son confusiones en las direcciones, pedidos mal registrados o falta de confirmación de pago a tiempo. La conciliación se hace por correo y muchas veces demora. Estaría dispuesto a integrar su proceso a una plataforma SaaS si ésta es simple, rápida y confiable. Usa principalmente celular en el trabajo, se apoya en WhatsApp y Excel, y considera que tiene un nivel medio de habilidad tecnológica.
+
+---
+
+#### Entrevistado N°5
+![entrevista_segmento1](img/entrevista5_segmento2.png) 
+- Nombres: Nombre inventado
+- Apellidos: Apellido inventado
+- Edad: … años
+- Distrito: Lima
+- Acerca de la entrevista:<br>
+    
+- URL de Entrevista: 
+- Duración:
+- Resumen:<br>
+    
+
+---
+
+#### Entrevistado N°6
+![entrevista_segmento1](img/entrevista6_segmento2.png) 
+- Nombres: Nombre inventado
+- Apellidos: Apellido inventado
+- Edad: … años
+- Distrito: Lima
+- Acerca de la entrevista:<br>
+    
+- URL de Entrevista: 
+- Duración:
+- Resumen:<br>
+    
+
+---
+
 ### 2.2.3. Análisis de entrevistas.
+
+#### <u>SEGMENTO 1: Empresas solicitantes de combustible</u>
+
+#### Características objetivas:
+
+| Variable | Porcentaje | Observaciones |
+|----------|------------|---------------|
+| Edad entre 30 y 45 años | 100% | Todos los entrevistados tienen entre 33 y 45 años. |
+| Cargo relacionado a logística | 100% | Los tres pertenecen a áreas de operaciones o logística. |
+| Usa computadora y celular | 100% | Todos usan laptop/PC y móvil para sus actividades. |
+| Utiliza WhatsApp para coordinar | 66% | 2 de 3 lo usan como canal principal con el proveedor. |
+| Manejo de hojas Excel o Google | 100% | Todos gestionan sus pedidos manualmente en planillas. |
+| Nivel medio de familiaridad digital | 100% | Dominan software básico (Drive, correo, hojas de cálculo). |
+
+#### Características subjetivas:
+
+| Variable | Porcentaje | Observaciones |
+|----------|------------|---------------|
+| Necesita trazabilidad del pedido | 100% | Todos demandan claridad en el estado y avance del pedido. |
+| Frustración por depósitos no validados | 66% | 2 de 3 se quejan de retrasos debido a validación manual. |
+| Deseo de un sistema unificado | 100% | Los 3 expresaron querer centralizar todo el proceso. |
+| Receptividad positiva a tecnología | 100% | Todos están abiertos a soluciones digitales con buena UX. |
+
+#### <u>SEGMENTO 2: Proveedores de combustible</u>
+
+#### Características objetivas:
+
+| Variable | Porcentaje | Observaciones |
+|----------|------------|---------------|
+| Edad entre 39 y 48 años | 100% | Todos en este rango. |
+| Cargo en operaciones/logística | 100% | Incluye jefes de planta, despacho o ventas. |
+| Utiliza laptop/PC y celular | 100% | Equipamiento estándar en planta o administración. |
+| Nivel de digitalización medio | 66% | 2 de 3 usan sistemas propios o ERPs básicos. |
+| Gestión mediante correo y llamadas | 100% | El proceso actual es altamente manual. |
+
+#### Características subjetivas:
+
+| Variable | Porcentaje | Observaciones |
+|----------|------------|---------------|
+| Problemas con conciliación bancaria | 100% | Todos mencionan validación lenta de pagos como cuello de botella. |
+| Necesidad de validar stock antes de liberar | 66% | 2 de 3 destacaron esto como un punto crítico. |
+| Dificultades en la asignación de vehículos | 66% | Errores de programación y disponibilidad afectan la entrega. |
+| Deseo de automatización de procesos | 100% | Todos visualizan mejoras en eficiencia si se digitalizan etapas clave. |
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 
@@ -142,11 +283,17 @@ b. User Persona 2: Proveedores de combustible
 
 ### 2.3.3. User Journey Mapping.
 
-![userjourney_userpersona1](img/userjourney_userpersona1.png)
-![userjourney_userpersona2](img/userjourney_userpersona2.png)
+En el caso del **solicitante**, el recorrido empieza con la generación de un pedido por correo o llamada, seguido por la validación manual del depósito, la espera de aprobación por parte del proveedor, la coordinación del despacho, y finalmente el registro manual de la entrega.
 
+En el caso del **proveedor**, el flujo parte desde la recepción del pedido, luego incluye la verificación del estado de cuenta, la aprobación manual, la asignación de planta y vehículo, y en muchos casos, la reprogramación por problemas de disponibilidad.
 
-### 2.3.4. Empathy Mapping. 
+a. User Persona 1: Empresas solicitantes de combustible
+![userjourneymap_userpersona1](img/userjourneymap_userpersona1.png)
+
+b. User Persona 2: Proveedores de combustible
+![userjourneymap_userpersona2](img/userjourneymap_userpersona2.png)
+
+### 2.3.4. Empathy Mapping.
 
 ![empathymap_segmento1](img/empathymap_segmento1.png)
 ![empathymap_segmento1](img/empathymap_segmento2.png)
@@ -154,10 +301,24 @@ b. User Persona 2: Proveedores de combustible
 ### 2.3.5. As-is Scenario Mapping. 
 ### As-Is Scenario Mapping
 
-| FASES             | Comunicación                                 | Solicitar pedido                                 | Seguimiento                                     | Entrega                                      |
-|-------------------|----------------------------------------------|--------------------------------------------------|------------------------------------------------|---------------------------------------------|
-| **DOING**         | Llamadas, correos, WhatsApp sin orden.       | El solicitante explica los datos del pedido a mano. | Se hacen llamadas para preguntar por el estado. | Se confirma por llamada o mensaje.           |
-| **THINKING**      | "¿Habrán recibido mi mensaje?"               | "¿Me habrán entendido bien?"                     | "¿Dónde estará nuestro pedido?"                | "¿Ya habrán llegado?"                        |
-| **FEELING**       | Frustración, desorganización.                | Incertidumbre, falta de confianza.               | Ansiedad, impaciencia.                         | Duda, estrés.                                |
+| FASES | Comunicación | Solicitar pedido | Seguimiento | Entrega |
+|-------|--------------|------------------|-------------|---------|
+| **DOING** | Llamadas, correos, WhatsApp sin orden. | El solicitante explica los datos del pedido a mano. | Se hacen llamadas para preguntar por el estado. | Se confirma por llamada o mensaje. |
+| **THINKING** | "¿Habrán recibido mi mensaje?" | "¿Me habrán entendido bien?" | "¿Dónde estará nuestro pedido?" | "¿Ya habrán llegado?" |
+| **FEELING** | Frustración, desorganización. | Incertidumbre, falta de confianza. | Ansiedad, impaciencia. | Duda, estrés. |
 
 ## 2.4. Ubiquitous Language. 
+
+| Término | Definición | Segmentos relacionados |
+|---------|------------|------------------------|
+| **Requester (Solicitante)** | Usuario representante de una empresa requiere abastecimiento de combustible | Solicitante |
+| **Supplier (Proveedor)** | Empresa que ofrece combustibles al por mayor y compite mediante precios, descuentos y promociones. | Proveedor |
+| **Fuel (Combustible)** | Recurso energético que es ofertado por los proveedores. Ejemplos: gasohol, diésel, GNV. | Solicitante, Proveedor |
+| **Plant (Planta)** | Punto de distribución del combustible perteneciente a al proveedor. | Solicitante, Proveedor |
+| **Price per gallon (Precio por galón)** | Valor económico que el proveedor establece por cada galón de combustible. Puede variar según planta, tipo de combustible, etc. | Solicitante, Proveedor |
+| **Discount (Descuento)** | Reducción aplicada sobre el precio ofrecido, ya sea por volumen, fidelización u otras condicioens. | Solicitante, Proveedor |
+| **Quotation (Cotización)** | Propuesta formal que un proveedor genera detallando precios, productos, entre otras condiciones | Solicitante, Proveedor |
+| **Price Table (Tabla de precios)** | Grilla o tabla que muestra los precios ofrecidos por planta, proveedor y tipo de combustible. | Solicitante |
+| **Negotiation (Negociación)**   | Intercambio de condiciones entre solicitante y proveedor para alcanzar un acuerdo favorable para ambas partes. | Solicitante, Proveedor |
+| **Consumption Volume (Volumen de consumo)** | Cantidad de combustible estimada que una empresa solicita regularmente en un periodo determinado. | Solicitante |
+| **Purchase History (Historial de compras)** | Registro de cotizaciones y compras o pedidos previos hechos por el solicitante dentro del sistema. | Solicitante |
