@@ -34,8 +34,8 @@
       <td>Manuel Angel Sanchez Arenas</td>
     </tr>
     <tr>
-      <td>Inserte código aquí</td>
-      <td>Inserte nombre aquí</td>
+      <td>U202110373</td>
+      <td>Juan Diego Javier Mondoñedo Rodriguez</td>
     </tr>
     <tr>
       <td>Inserte código aquí</td>
