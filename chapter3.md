@@ -25,4 +25,21 @@
 |US11 | Acceso restringido por roles | Como administrador de la plataforma, Quiero que los usuarios solo accedan a las secciones según su tipo de cuenta, Para evitar errores en el sistema | Dado que un usuario acceda a la plataforma, Cuando vea las secciones que tiene disponible, Entonces verá únicamente las que son correspondientes a su rol. | EP03|
 |US12 | Autenticación MFA para realizar pedidos | Como empresa solicitante, Quiero que se me solicite una autenticación multifactor al momento de realizar un pedido, Para asegurar que solo personal autorizado pueda emitir órdenes de compra | Dado que el cliente quiera registrar un pedido, Cuando complete los datos del formulario de registro, Entonces deberá recibir un código de autenticación y solo podrá finalizar el pedido tras ingresarlo correctamente. | EP03|
 ## 3.3 Impact Mapping
+![IM](img/Impact-Map.png)
+
 ## 3.4 Product backlog
+
+| #Orden |   ID   | User Story | Story Points |
+|:------:|:------:|:-----------|:-------------:|
+| 01 | US-01 | Crear nuevo pedido | 5 |
+| 02 | US-02 | Consultar historial de pedidos | 3 |
+| 03 | US-03 | Editar pedidos | 5 |
+| 04 | US-04 | Confirmar pedido recibido | 3 |
+| 05 | US-05 | Actualización de un pedido | 5 |
+| 06 | US-06 | Notificaciones a clientes sobre cambios | 5 |
+| 07 | US-07 | Cancelación o rechazo de pedidos | 3 |
+| 08 | US-08 | Inicio de sesión | 3 |
+| 09 | US-09 | Registro de cuenta nueva | 3 |
+| 10 | US-10 | Recuperación de contraseña | 3 |
+| 11 | US-11 | Acceso restringido por roles | 2 |
+| 12 | US-12 | Autenticación MFA para realizar pedidos | 5 |
