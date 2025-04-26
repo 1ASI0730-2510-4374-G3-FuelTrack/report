@@ -121,3 +121,6 @@ Este bounded context sirve para alojar el feature de ordenes que se realicen, es
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
 
+## 4.8. Database Design
+### 4.8.1. Database Diagram
+![DD](img/databasediagram.png)
