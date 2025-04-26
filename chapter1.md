@@ -34,12 +34,12 @@
       <td>Manuel Angel Sanchez Arenas</td>
     </tr>
     <tr>
-      <td>Inserte código aquí</td>
-      <td>Inserte nombre aquí</td>
+      <td>U202110373</td>
+      <td>Juan Diego Javier Mondoñedo Rodriguez</td>
     </tr>
     <tr>
-      <td>Inserte código aquí</td>
-      <td>Inserte nombre aquí</td>
+      <td>u202412591</td>
+      <td>Diego Vicente Seminario Castillo</td>
     </tr>
     <tr>
       <td>Inserte código aquí</td>
@@ -90,13 +90,13 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 
 **Participación del equipo:**
 
-| **Integrante**     | **Usuario GitHub**  | **Aportaciones destacadas**                     |
-|--------------------|---------------------|-------------------------------------------------|
-| Bryan Espejo       | @SaeBryxn            | Inicialización del repositorio y configuración inicial del proyecto. |
-| Manuel Sanchez      | @manuels7anchez      | Por colocar aporte |
-| Inserte nombre aquí| @UsuarioGitHub       | Aportación destacada aquí.                     |
-| Inserte nombre aquí| @UsuarioGitHub       | Aportación destacada aquí.                     |
-| Inserte nombre aquí| @UsuarioGitHub       | Aportación destacada aquí.                     |
+| **Integrante**      | **Usuario GitHub** | **Aportaciones destacadas**                     |
+|---------------------|--------------------|-------------------------------------------------|
+| Bryan Espejo        | @SaeBryxn          | Inicialización del repositorio y configuración inicial del proyecto. |
+| Manuel Sanchez      | @manuels7anchez    | Por colocar aporte |
+| Diego Seminario     | @DiegoSeminario    | Aportación destacada aquí.                     |
+| Inserte nombre aquí | @UsuarioGitHub     | Aportación destacada aquí.                     |
+| Inserte nombre aquí | @UsuarioGitHub     | Aportación destacada aquí.                     |
 
 ---
 
@@ -152,13 +152,13 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 ---
 #### 1.1.2 Perfiles de integrantes del equipo
 
-| Foto                                | Nombre completo   | Código       | Carrera            | Habilidades técnicas y rol                  |
-|-------------------------------------|-------------------|--------------|--------------------|---------------------------------------------|
-| ![Bryan Espejo](img/foto_bryan.jpg) | Bryan Espejo  | u202213278   | Ingeniería Software| Desarrollo Backend, Gestión de Base de Datos|
-| ![Inserte foto aquí](img/foto_manuel.jpg) | Manuel Sanchez | u201817507 | Ingeniería de Software          | [Habilidades técnicas y rol]               |
-| ![Inserte foto aquí](img/foto_compañero2.jpg) | [Nombre Completo] | [Código]     | [Carrera]          | [Habilidades técnicas y rol]               |
-| ![Inserte foto aquí](img/foto_compañero3.jpg) | [Nombre Completo] | [Código]     | [Carrera]          | [Habilidades técnicas y rol]               |
-| ![Inserte foto aquí](img/foto_compañero4.jpg) | [Nombre Completo] | [Código]     | [Carrera]          | [Habilidades técnicas y rol]               |
+| Foto                                          | Nombre completo | Código     | Carrera                | Habilidades técnicas y rol                  |
+|-----------------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
+| ![Bryan Espejo](img/foto_bryan.jpg)           | Bryan Espejo    | u202213278 | Ingeniería Software    | Desarrollo Backend, Gestión de Base de Datos|
+| ![Inserte foto aquí](img/foto_manuel.jpg)     | Manuel Sanchez  | u201817507 | Ingeniería de Software | [Habilidades técnicas y rol]               |
+| ![Diego Seminario](img/diego.jpeg)            | Diego Seminario | u202412591 | Ingenieria de Software | [Habilidades técnicas y rol]               |
+| ![Inserte foto aquí](img/foto_compañero3.jpg) | [Nombre Completo] | [Código]   | [Carrera]              | [Habilidades técnicas y rol]               |
+| ![Inserte foto aquí](img/foto_compañero4.jpg) | [Nombre Completo] | [Código]   | [Carrera]              | [Habilidades técnicas y rol]               |
 
 ---
 
