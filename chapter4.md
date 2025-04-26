@@ -83,3 +83,37 @@ Busqueda por categoris: El usuario se le brindará un sistema automatico de filt
 ### 4.4.3. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 
+## 4.6. Domain-Driven Software Architecture
+Esta sección expone la arquitectura de software orientada al dominio, una metodología que enfoca el diseño y desarrollo del sistema en el conocimiento profundo del entorno de negocio. Este enfoque busca lograr una mayor coherencia entre el software y los procesos empresariales, promoviendo una comunicación más efectiva entre los desarrolladores y los especialistas del dominio. Seguidamente, se describen los distintos diagramas y contextos delimitados que estructuran la arquitectura del proyecto.
+
+### 4.6.1. Software Architecture Context Diagram
+El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.
+
+![SACD](img/Software-Architecture-Context-Diagram.png)
+
+### 4.6.2. Software Architecture Container Diagrams
+Los diagramas de contenedores representan los distintos elementos que conforman el sistema, como aplicaciones web, bases de datos o microservicios, y muestran cómo se relacionan entre ellos. Ofrecen una perspectiva general de la arquitectura, resaltando las funciones de cada contenedor y la forma en que interactúan.
+
+![SACD](img/Software-Architecture-Container-Diagrams.png)
+
+### 4.6.3. Software Architecture Components Diagrams
+En esta sección, se presentan los diagramas de componentes de la arquitectura de software. Estos diagramas detallan los diferentes componentes que conforman el sistema, sus responsabilidades y cómo interactúan entre sí.
+
+#### Bounded Context: Analytics
+
+![Analytics](img/BoundedContext_Analytics.png)
+
+Este bounded context contiene todo lo relacionado al control y seguimiento de los pedidos, asimismo como el estados de los pedidos
+
+#### Bounded Context: Control
+
+![Analytics](img/BoundedContext_Control.png)
+
+Este bounded context separa todo lo relacionado con el control de producto que en este caso es combustible de los diferentes proveedores, por lo que el feature de inventario de los proveedores está considerado dentro de este bounded context.
+
+#### Bounded Context: Planning
+
+![Analytics](img/BoundedContext_Planning.png)
+
+Este bounded context sirve para alojar el feature de ordenes que se realicen, este feature requiere de instrucciones y analisis de recursos por lo cual está alojado dentro de este bounded context.
+
