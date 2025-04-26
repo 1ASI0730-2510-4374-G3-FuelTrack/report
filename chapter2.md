@@ -1,7 +1,6 @@
 # Capítulo II: Requirements Elicitation & Analysis 
 ## 2.1. Competidores.
 
-Zavgar Online es una solución SaaS orientada a la gestión eficiente del consumo de combustible en flotas empresariales. No requiere hardware adicional, lo que facilita su implementación en diversas industrias. Permite controlar gastos de combustible, vincular tarjetas de abastecimiento, integrar GPS y generar reportes detallados sobre el uso y eficiencia del recurso. Aunque no aborda directamente el flujo completo del pedido entre proveedor y cliente, ofrece funcionalidades clave para monitorear y optimizar el consumo, lo que la convierte en un competidor parcial pero relevante para FuelTrack.
 
 FuelCloud es una solución tecnológica centrada en el control del despacho de combustible mediante una combinación de hardware y software. Este ofrece monitoreo en tiempo real, control de acceso al combustible, reportes detallados de consumo y ubicación, lo que la hace ideal para empresas con tanques propios. Además, se enfoca más en el control físico del combustible que en la gestión administrativa o logística del pedido entre proveedor y cliente.
 
@@ -18,7 +17,6 @@ Wialon es una plataforma global de gestión de flotas que incluye funcionalidade
 | ------------- |----------------- |------------------|------------------|------------------------|
 | **Overview** | Plataforma web que digitaliza y estructura el proceso completo de pedido de combustible entre empresas y proveedores. | SaaS para la gestión de consumo de combustible de flotas, con enfoque en eficiencia, monitoreo y costos. | Solución con hardware/software para el control físico del despacho de combustible.| Plataforma de gestión de flotas con control de combustible, GPS y reportes operativos. |
 | **Ventaja competitiva** | Especialización en el flujo completo de pedido, despacho y análisis; integración de pagos y logística; UI intuitiva. | No requiere hardware; ofrece métricas, control de gastos y reportes sobre consumo. | Control físico preciso del combustible, monitoreo en tiempo real. | Seguimiento en tiempo real, visualización de rutas, integración con sensores de combustible. |
-| **¿Qué valor ofrece al cliente?** | Trazabilidad total, eficiencia operativa, reportes de consumo y validación segura de pedidos. | Optimización de costos y control sobre el uso de combustible en flotas. | Trazabilidad de flotas, alertas automáticas, análisis de rutas y consumo de combustible. |
 | **Mercado objetivo** | Empresas que solicitan combustible a proveedores. | Empresas con flotas vehiculares que desean monitorear y reducir el consumo de combustible. | Empresas con tanques de combustible propios. | Empresas logísticas, distribuidoras y de transporte de combustible. |
 | **Estrategias de marketing**| Alianzas con proveedores, demostraciones de ahorro, marketing de contenido enfocado en eficiencia. | Enfoque digital, contenido técnico, integración con proveedores de tarjetas de combustible. | Ferias industriales, distribuidores, venta consultiva entre empresas. | Alianzas con distribuidores de GPS, marketing técnico, ferias de transporte. |
 | **Productos & Servicios** | Plataforma para gestión completa de pedidos, seguimiento, reportes, validación y alertas. | Plataforma web con módulo de abastecimiento, reportes de consumo, integración GPS y tarjetas. | Hardware IoT y software para gestión, y control de combustible. | Plataforma SaaS + app móvil con monitoreo, alertas, mapas y módulos personalizables. |
@@ -88,6 +86,7 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 - ¿Qué tipo de dispositivo usa en el trabajo? (PC, tablet, celular)
 - ¿Qué aplicaciones o herramientas digitales usa en su día a día?
 - ¿Cómo describiría su nivel de habilidad con la tecnología?
+
 ---
 
 #### B. Empresas Solicitantes
@@ -117,11 +116,3 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 ---
 
 ### 2.2.2. Registro de entrevistas.
-### 2.2.3. Análisis de entrevistas.
-## 2.3. Needfinding.
-### 2.3.1. User Personas. 
-### 2.3.2. User Task Matrix. 
-### 2.3.3. User Journey Mapping. 
-### 2.3.4. Empathy Mapping. 
-### 2.3.5. As-is Scenario Mapping. 
-## 2.4. Ubiquitous Language. 
