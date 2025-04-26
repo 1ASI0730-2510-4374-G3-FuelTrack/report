@@ -13,7 +13,7 @@
 
   <h3>Informe de Trabajo Final</h3>
 
-  <p><strong>Startup:</strong> FuelTrack</p>gi
+  <p><strong>Startup:</strong> FuelTrack</p>
   <p><strong>Nombre del Producto:</strong> FuelTrack Pro</p>
 </div>
 
@@ -152,11 +152,11 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 ---
 #### 1.1.2 Perfiles de integrantes del equipo
 
-| Foto                                | Nombre completo | Código     | Carrera                | Habilidades técnicas y rol                  |
-|-------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
-| ![Bryan Espejo](img/foto_bryan.jpg) | Bryan Espejo    | u202213278 | Ingeniería Software    | Desarrollo Backend, Gestión de Base de Datos|
-| ![Inserte foto aquí](img/foto_manuel.jpg) | Manuel Sanchez  | u201817507 | Ingeniería de Software | [Habilidades técnicas y rol]               |
-| ![Inserte foto aquí](img/foto_compañero2.jpg) | Diego Seminario | u202412591 | Ingenieria de Software | [Habilidades técnicas y rol]               |
+| Foto                                          | Nombre completo | Código     | Carrera                | Habilidades técnicas y rol                  |
+|-----------------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
+| ![Bryan Espejo](img/foto_bryan.jpg)           | Bryan Espejo    | u202213278 | Ingeniería Software    | Desarrollo Backend, Gestión de Base de Datos|
+| ![Inserte foto aquí](img/foto_manuel.jpg)     | Manuel Sanchez  | u201817507 | Ingeniería de Software | [Habilidades técnicas y rol]               |
+| ![Diego Seminario](img/diego.jpeg)            | Diego Seminario | u202412591 | Ingenieria de Software | [Habilidades técnicas y rol]               |
 | ![Inserte foto aquí](img/foto_compañero3.jpg) | [Nombre Completo] | [Código]   | [Carrera]              | [Habilidades técnicas y rol]               |
 | ![Inserte foto aquí](img/foto_compañero4.jpg) | [Nombre Completo] | [Código]   | [Carrera]              | [Habilidades técnicas y rol]               |
 
