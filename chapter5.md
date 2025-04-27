@@ -147,9 +147,51 @@ During this Sprint, the team successfully implemented and deployed the initial v
 
 **Commits Table:**
 
+### 5.2.X.X Commits Table
+
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
 |:-----------|:-------|:-----------|:---------------|:--------------------|:--------------------|
-| SaeBryxn/LandigPageFuelTrack | main | a6919063b377e88e43fa04460407149b66800b6e | add: initial up landing page | Initial deployment of the Landing Page including basic sections (hero, features, contact). | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | main | 4024b94 | Initial commit | - | 09/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | develop | 4024b94 | Initial commit | - | 09/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 4024b94 | Initial commit | - | 09/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 4024b94 | docs: add initial version of chapter1.md | - | 09/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 521cd4f | docs: add initial version of chapter1.md | - | 09/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | develop | e1767e7 | Merge pull request #1 from feature/chapter1-introduction | - | 09/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | develop | 15dd9e2 | Merge pull request #2 from feature/chapter1-introduction | - | 09/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | c96c7bf | docs: update introduction with project description and team member profiles | - | 10/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 1edda67 | feat(assets): add company logo to the report | - | 10/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | f3d3494 | Update chapter1.md | Added Lean UX Problem Statement | 12/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 565cf3e | Update chapter1.md | Added Lean UX Assumptions | 12/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 6782a2d | Update chapter1.md | Added Lean UX Hypothesis statements | 12/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | b2b4e93 | Update chapter1.md | Added Lean UX Hypothesis statements | 13/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | b64269b | chapter1 - profile and personal data | - | 13/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 6aaeb8d | update - added chapter 2 (competitors/competitive analysis/strategies and tactics against competitors/interview design) | - | 13/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 5850634 | docs: refine Lean UX Process with clearer structure and aligned template | - | 15/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter2-Requirements-Elicitation-&-Analysis | 38aee6c | 3.1 To-Be Scenario | Added To-Be Scenario | 18/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter2-Requirements-Elicitation-&-Analysis | 1e1693f | 3.2 User stories | Added section 3.2, with 3 Epics and 12 User Stories. | 18/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter3-Requirements-Specifications | b2fcfde | docs: Add Impact Map image | - | 20/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter3-Requirements-Specifications | 32e7c56 | docs: Update chapter3 Add Impact Map/Product Backlog.md | - | 20/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter3-Requirements-Specifications | 75af16d | add: interviews | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 146b38c | docs: Create chapter4.md | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | ac37eb8 | docs: Create chapter5.md | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 6cc5367 | docs: created asset directory and added database.erd | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | b8859e6 | docs: add Style Guidelines for landing page and branding | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 3e1fe98 | docs: add Information Architecture and navigation systems | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 4bd79dd | docs: add initial structure for Landing Page UI Design | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | a15affe | docs: add initial structure for Web Applications UX/UI Design | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | c2c2a26 | docs: add initial structure for Web Applications Prototyping | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 89a0dcb | docs: add Domain-Driven Software Architecture and C4 diagrams | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 145e64b | docs: add structure for Software Object-Oriented Design | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 09d785c | docs: add Database Design and relational diagram | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | dd94d03 | docs: added section 4.2.2 | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | c2169d0 | feat(docs): add full Chapter 5 structure (Software Configuration Management and Implementation) | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | 153ae34 | feat(docs): add Sprint Backlog 1 with assigned tasks | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | a1532b8 | feat(docs): update software configuration and development environment description | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | 1d5d90c | feat(docs): add Execution Evidence with Landing Page screenshots | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | 0c8998d | feat(docs): add Sprint Planning 1 and Aspect Leaders table | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | 693b39e | fix(docs): complete Aspect Leaders and Collaborators table with GitHub usernames | - | 26/04/2025 |
+| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | a523d83 | fix(docs): minor corrections and cleanup | - | 26/04/2025 |
+
 
 
 
