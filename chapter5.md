@@ -152,7 +152,6 @@ During this Sprint, the team successfully implemented and deployed the initial v
 | SaeBryxn/LandigPageFuelTrack | main | a6919063b377e88e43fa04460407149b66800b6e | add: initial up landing page | Initial deployment of the Landing Page including basic sections (hero, features, contact). | 26/04/2025 |
 
 
-*(You should replace commit ID and date with your real commit info from GitHub.)*
 
 ---
 
@@ -191,7 +190,7 @@ The main features of the FuelTrack Landing Page were developed and deployed succ
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-*(Not applicable yet: No backend services developed in this Sprint.)*
+
 
 ---
 
