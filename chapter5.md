@@ -119,11 +119,24 @@
 
 
 ### 5.2.1.3. Sprint Backlog 1
+**Sprint Objective:**
+Implementar funcionalidades básicas para el registro, gestión de pedidos y autenticación de usuarios en FuelTrack.
 
-- Creación del repositorio y configuración inicial.
-- Diseño de wireframes del Landing Page.
-- Desarrollo del Landing Page en Vue 3 + Vite.
-- Hosting en GitHub Pages.
-- Redacción inicial del informe en Markdown.
+
+**Sprint Backlog Table:**
+
+| User Story | Work-Item / Task | Description | Estimation (Hours) | Assigned To | Status |
+|:----------|:-----------------|:------------|:-------------------|:------------|:-------|
+| US01 | Implement Create New Order Page | Crear la interfaz de formulario para registrar nuevos pedidos de combustible | 6 | Bryan Ronald Espejo Gamarra | In-Process |
+| US02 | Develop Order History Page | Crear pantalla donde se pueda consultar historial de pedidos con filtros | 5 | Manuel Angel Sanchez Arenas | In-Process |
+| US03 | Add Edit Order Functionality | Permitir edición/cancelación de pedidos antes de ser confirmados | 5 | Juan Diego Javier Mondoñedo Rodriguez | In-Process |
+| US04 | Create Order Confirmation Panel (Provider) | Vista donde proveedores confirmen o rechacen pedidos recibidos | 4 | Diego Vicente Seminario Castillo | In-Process |
+| US05 | Enable Order Status Update | Permitir actualizar el estado de pedidos en panel del proveedor | 4 | Bryan Ronald Espejo Gamarra | In-Process |
+| US06 | Configure Client Notifications | Implementar envío de notificaciones al cliente en cambios de pedidos | 3 | Manuel Angel Sanchez Arenas | In-Process |
+| US08 | Implement Login Page | Construir vista de inicio de sesión para usuarios | 4 | Juan Diego Javier Mondoñedo Rodriguez | In-Process |
+| US09 | Develop User Registration Page | Implementar registro de cuenta (cliente o proveedor) con validaciones | 5 | Diego Vicente Seminario Castillo | In-Process |
+| US10 | Add Password Recovery Functionality | Crear flujo de recuperación de contraseña vía correo electrónico | 3 | Bryan Ronald Espejo Gamarra | In-Process |
+| US11 | Apply Role-Based Access Control | Asegurar restricciones de acceso según el rol de usuario | 3 | Manuel Angel Sanchez Arenas | In-Process |
+| US12 | Setup MFA Authentication for Orders | Añadir autenticación de segundo factor en el envío de pedidos | 6 | Juan Diego Javier Mondoñedo Rodriguez | In-Process |
 
 ### 5.2.1.4 a 5.2.1.8
