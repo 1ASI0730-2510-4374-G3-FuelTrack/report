@@ -87,32 +87,38 @@ Gestor de paquetes:
 ### 5.2.1.1. Sprint Planning 1
 
 | **Sprint #** | Sprint 1 |
-|--------------|----------|
+|:-------------|:---------|
 | **Sprint Planning Background** | |
-| **Date** | 10/04/2025 |
-| **Time** | 11:00 AM |
-| **Location** | Microsoft Teams |
-| **Prepared By** | Ingrese nombre aquí |
-| **Attendees** | Ingrese nombres aquí |
-| **Sprint 0 Review Summary** | No hubo sprint previo |
-| **Sprint 0 Retrospective Summary** | No hubo sprint previo |
-| **Sprint Goal** | Desplegar la primera versión del Landing Page y configurar repositorios |
-| **Sprint 1 Velocity** | 16 |
+| **Date** | 2025-04-26 |
+| **Time** | 6:00 PM |
+| **Location** | Google Meet |
+| **Prepared By** | Manuel Angel Sanchez Arenas |
+| **Attendees (to planning meeting)** | Bryan Ronald Espejo Gamarra, Manuel Angel Sanchez Arenas, Juan Diego Javier Mondoñedo Rodriguez, Diego Vicente Seminario Castillo |
+| **Sprint 0 Review Summary** | No hubo Sprint 0 previo. |
+| **Sprint 0 Retrospective Summary** | No hubo Sprint 0 previo. |
+
+---
+
+**Sprint Goal & User Stories**
+
+| Item | Description |
+|:-----|:------------|
+| **Sprint 1 Goal** | Our focus is on implementing the FuelTrack Landing Page initial version.<br>We believe it delivers a complete first approach of the platform to customers.<br>This will be confirmed when the Landing Page is deployed live on GitHub Pages and accessible from any device. |
+| **Sprint 1 Velocity** | 16 Story Points |
 | **Sum of Story Points** | 16 |
 
 ---
 
 ### 5.2.1.2. Aspect Leaders and Collaborators
 
-| Aspect | Leader | Collaborators |
-|--------|--------|---------------|
-| Frontend Development (Landing Page) | Ingrese nombre aquí | Todos los miembros |
-| UI/UX Design | Ingrese nombre aquí | Todos los miembros |
-| Code Repository & Gitflow | Ingrese nombre aquí | Todos los miembros |
-| Deployment & Hosting | Ingrese nombre aquí | Todos los miembros |
-| Documentation & Markdown | Ingrese nombre aquí | Todos los miembros |
+| Team Member (Last Name, First Name) | GitHub Username | Landing Page (L/C) | Login & Authentication (L/C) | Documentation (L/C) |
+|:------------------------------------|:----------------|:-------------------|:-----------------------------|:--------------------|
+| Sanchez Arenas, Manuel Angel | (coloca tu username) | L | C | C |
+| Espejo Gamarra, Bryan Ronald | (coloca tu username) | C | L | C |
+| Mondoñedo Rodriguez, Juan Diego Javier | (coloca tu username) | C | C | L |
+| Seminario Castillo, Diego Vicente | (coloca tu username) | C | C | C |
 
-
+---
 ### 5.2.1.3. Sprint Backlog 1
 **Sprint Objective:**
 Implementar funcionalidades básicas para el registro, gestión de pedidos y autenticación de usuarios en FuelTrack.
