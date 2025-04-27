@@ -94,7 +94,7 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 | Bryan Espejo        | @SaeBryxn          | Inicialización del repositorio y configuración inicial del proyecto. |
 | Manuel Sanchez      | @manuels7anchez    | Por colocar aporte |
 | Diego Seminario     | @DiegoSeminario    | Aportación destacada aquí.                     |
-| Inserte nombre aquí | @UsuarioGitHub     | Aportación destacada aquí.                     |
+| Juan Diego Mondoñedo| @Jmondonedor     | Aportación destacada aquí.                     |
 | Inserte nombre aquí | @UsuarioGitHub     | Aportación destacada aquí.                     |
 
 ---
@@ -157,7 +157,7 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 | ![Inserte foto aquí](img/foto_manuel.jpg)     | Manuel Sanchez  | u201817507 | Ingeniería de Software | [Habilidades técnicas y rol]               |
 | ![Diego Seminario](img/diego.jpeg)            | Diego Seminario | u202412591 | Ingenieria de Software | [Habilidades técnicas y rol]               |
 | ![Cesar Navarro](img/foto_cesar.png) | César Navarro   | u202310129 | Ingenieria de Software | [Habilidades técnicas y rol]               |
-| ![Inserte foto aquí](img/foto_compañero4.jpg) | [Nombre Completo] | [Código]   | [Carrera]              | [Habilidades técnicas y rol]               |
+| ![Juan Diego](img/foto_compañero4.jpg) | Juan Diego Javier Mondoñedo Rodriguez | u202110373   | Ingeniería de Software              | [Habilidades técnicas y rol]               |
 
 ---
 
