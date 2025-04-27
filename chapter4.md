@@ -125,15 +125,136 @@ Busqueda por texto: El usuario tendrá una tabla de pedidos donde en cada catego
 Busqueda por categoris: El usuario se le brindará un sistema automatico de filtro de datos de las categorias ya existentes para que pueda optimizar su tiempo en tareas de mayor importancia. Por ejemplo, el sistema se encargará de filtrar todas las ubicaciones detectadas de tus pedidos registrados o pendientes y se podrá seleccionar las que quieras aplicar.
 
 ## 4.3. Landing Page UI Design
-### 4.3.1. Landing Page Wireframe
-### 4.3.2. Landing Page Mock-up
+La propuesta de diseño de la Landing Page para FuelTrack parte de una arquitectura de información clara y orientada a los segmentos objetivo definidos: empresas proveedoras de combustible y empresas solicitantes de combustible.
 
+El diseño organiza el contenido en bloques visuales jerárquicos que guían al usuario de manera natural hacia los principales call-to-action (CTA), alineando cada sección con una necesidad identificada: informar, atraer y convertir.
+
+Decisiones principales de diseño tomadas:
+
+- **Navegación simple y consistente:** El menú principal permite acceso rápido a las secciones clave (Features, Pricing y Contact).
+- **Call to Action diferenciados:** Hay botones específicos tanto para proveedores como para solicitantes, siguiendo un enfoque de segmentación clara.
+- **Diseño inclusivo:** La paleta de colores cumple estándares de contraste para accesibilidad, y los botones tienen tamaños adecuados para pantallas táctiles.
+- **Adaptabilidad:** El diseño es responsive, garantizando experiencia de usuario adecuada tanto en desktop como en dispositivos móviles.
+- **Consistencia visual:** Se mantiene un diseño limpio y moderno, utilizando colores corporativos azul y verde para reforzar la identidad de FuelTrack.
+### 4.3.1. Landing Page Wireframe
+![Landing Page - Wireframe 1](img/landing_wireframe_1.png)
+![Landing Page - Wireframe 2](img/landing_wireframe_2.png)
+![Landing Page - Wireframe 3](img/landing_wireframe_3.png)
+![Landing Page - Wireframe 4](img/landing_wireframe_4.png)
+![Landing Page - Wireframe 5](img/landing_wireframe_5.png)
+![Landing Page - Wireframe 6](img/landing_wireframe_6.png)
+![Landing Page - Wireframe 7](img/landing_wireframe_7.png)
+### 4.3.2. Landing Page Mock-up
+![Landing Page - Mockup 1](img/landing_mockup_1.png)
+![Landing Page - Mockup 2](img/landing_mockup_2.png)
+![Landing Page - Mockup 3](img/landing_mockup_3.png)
+![Landing Page - Mockup 4](img/landing_mockup_4.png)
+![Landing Page - Mockup 5](img/landing_mockup_5.png)
+![Landing Page - Mockup 6](img/landing_mockup_6.png)
+![Landing Page - Mockup 7](img/landing_mockup_7.png)
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+**Wireframes - Segmento Cliente**
+- Descripción: Vista diseñada exclusivamente para mostrar las ordenes de la empresa solicitante. Para ello optamos por una grilla que muestra fácilmente los atributos de cada orden.
+![Web Application - Wireframe 1](img/client-wireframe-1.png)
+---
+- Descripción: Para mostrar losdetalles de cada pedido, optamos por una vista desplegable en cada fila de la grilla. De esta forma, el usuario podrá observar los detalles de cada uno, como el producto solicitado, la cantidad y el monto total.
+![Web Application - Wireframe 2](img/client-wireframe-2.png)
+---
+- Descripción: Para la creación del pedido, decidimos usar un modal que se muestra al hacer clic en el botón "Crear nuevo pedido". En este modal, el usuario podrá crear sus pedidos paso a paso con un  stepper implementado. El primer paso es llenar los detalles del nuevo pedido como el producto, cantidad, etc.
+![Web Application - Wireframe 3](img/client-wireframe-3.png)
+---
+- Descripción: Para el segundo paso, usamos una lista desplegable de detalles, donde en cada uno de ellos el usuario podrá asignar información de pagos a cada detalle del pedido, como el monto, la cuenta bancaria y el número de operación, todo mediante un pequeño formulario.
+![Web Application - Wireframe 4](img/client-wireframe-4.png)
+---
+- Descripción: Para el paso final, mostramos toda la información del pedido, incluyendo sus detalles y la información de los pagos. El usuario podrá revisar todo antes de confirmar el pedido.
+![Web Application - Wireframe 5](img/client-wireframe-5.png)
+---
+
+**Wireframes - Segmento Proveedor**
+- Descripción: Esta vistafue diseñada para darle protagonismo a los pedidos y sus detalles meidante una grilla. Además, facilitamos la clasificación de los pedidos por estado a través de etiquetas ubicadas en la parte superior de la grilla que expone los pedidos.
+![Web Application - Wireframe 1](img/supplier-wireframe-1.png)
+---
+- Descripción: En el segundo modulo de nuestro sistema, ubicamos una vistade conciliaciones que muestra una tabla con registros seleccionables. Aquí, la información principal es la de los pagos realizados a los pedidos. Para ello, el proveedor cuenta con un botón en la parte superior para subir una lista de movimientos de cuentas bancarias.
+![Web Application - Wireframe 2](img/supplier-wireframe-2.png)
+---
+- Descripción: Diseñamos un modal muy sencillo que permite subir multiples archivos con movimientos de cuentas bancarias. Una vez subidos, el proveedor solo debe hacer click en el botón comparar y el sistema se encargará de hacer la conciliación con los pedidos realizados por los clientes.
+![Web Application - Wireframe 3](img/supplier-wireframe-3.png)
+---
+- Descripción: Para el utlimo modulo principal, presentamos la vista de Despacho. Aqui podremos configurar la información de despacho a través de un botón de configuración en cada fila de la grilla, que representa un pedido. Una vez con información válida de despacho, el pedido será marcado con un check, dando a entender al usuario que el pedido está listo para ser liberado. Para ayudar al usuario, también facilitamos chekcboxes para seleccionar los pedidos que se desean liberar, si es que son varios.
+![Web Application - Wireframe 4](img/supplier-wireframe-4.png)
+---
+- Descripción: Al hacer click en el botón de configuración, se abrirá un modal donde el proveedor podrá llenar la información de despacho del pedido. El proveedor podrá seleccionar el vehiculo, el chofer y la cisterna que se utilizará para el despacho del pedido.
+![Web Application - Wireframe 5](img/supplier-wireframe-5.png)
+---
+- Descripción: La tabla para asignar compartimientos a los detalles del pedido se desbloquea unavez que la información del transporte es validada. En esta tabla, el proveedor podrá asignar los compartimientos de la cisterna a cada detalle del pedido.
+![Web Application - Wireframe 5](img/supplier-wireframe-6.png)
+---
+
 ### 4.4.2. Web Applications Wireflow Diagrams
-### 4.4.2. Web Applications Mock-ups
-### 4.4.3. Web Applications User Flow Diagrams
+
+**Wire Flow Diagram - Segmento Cliente**
+- User Goal: Estructuramos el diseño de esta vista para el cliente del tal forma que visualice de forma clara y sencilla el estado de sus pedidos, así como la opción de crear un nuevo pedido. El cliente podrá ver el detalle de cada pedido, así como los detalles de pago asociados a cada uno. Finalmente, el cliente podrá registrar un nuevo pedido, asignando los detalles del pedido y la información de pago asociada a cada detalle.
+![Web Application Supplier - Mockup 6](img/client-wireflow-diagram.png)
+
+**Wire Flow Diagram - Segmento Provedor**
+- User Goal: Las vista del proveedor están diseñadas para que el usuario pueda gestionar los pedidos de combustible. Para ello, el proveedor podrá ver el estado de cada pedido y observar los detalles de cada uno. Es posible filtrar por estado de pedido, cliente o fecha. En el resto de módulo, el proveedor podrá conciliar la información de los pagos y, si todo es correcto, liberar el pedido para su despacho. El proveedor deberá llenar la información de despacho y asignar los compartimientos de la cisterna a cada detalle del pedido.
+![Web Application Client - User Flow Diagram](img/supplier-wireflow-diagram.png)
+
+### 4.4.3. Web Applications Mock-ups
+---
+![Web Application Client - Mockup 1](img/web-app_client_mockup1.png)
+- Objetivo: Vista general de las ordenes de la empresa solicitante, donde se puede ver el estado de cada pedido y la opción de crear un nuevo pedido.
+---
+![Web Application Client - Mockup 2](img/web-app_client_mockup2.png)
+- Objetivo: Desplegamos cada pedido para observar los detalles de cada uno, como el producto solicitado, la cantidad y el monto total.
+---
+![Web Application Client - Mockup 3](img/web-app_client_mockup3.png)
+- Objetivo: Mostramos el modal para registrar un nuevo pedido, donde el usuario puede especificar los detalles del nuevo pedido como el producto, cantidad, etc.
+---
+![Web Application Client - Mockup 4](img/web-app_client_mockup4.png)
+- Objetivo: En el segundo paso del registro de un nuevo pedido, el usuario puede asignar información de pagos a cada detalle del pedido, como el monto, la cuenta bancaria y el número de operación.
+---
+![Web Application Client - Mockup 5](img/web-app_client_mockup5.png)
+- Objetivo: Finalmente mostraremos la vista previa de todo el pedido, donde el usuario puede revisar todos los detalles antes de confirmar el pedido.
+---
+
+![Web Application Supplier - Mockup 1](img/web-app_supplier_mockup1.png)
+- Objetivo: Vista general de las ordenes de los clientes del proveedor, donde se puede ver el estado de cada pedido y observar los detalles de cada uno. Es posible filtrar por estado de pedido, cliente o fecha.
+---
+![Web Application Supplier - Mockup 2](img/web-app_supplier_mockup2.png)
+- Objetivo: Mostramos una vista para conciliaciones. Es decir, podremos subir una lista de movimientos de cuentas bancarias y el sistema se encargará de hacer la conciliación con los pedidos realizados por los clientes.
+---
+![Web Application Supplier - Mockup 3](img/web-app_supplier_mockup3.png)
+- Objetivo: Mostramos el modal para subir los archivos de los movimientos. Una vez hechas las conciliaciones, el sistema pasará el pedido a la siguiente fase: Aprobación.
+---
+![Web Application Supplier - Mockup 4](img/web-app_supplier_mockup4.png)
+- Objetivo: Vista de despacho. En esta vista los pedidos deberán ser liberados. Para ello, el proveedor deberá seleccionar pedidos que tengan información de despacho válida, como placa de vehículo, cisterna, y chofer
+---
+![Web Application Supplier - Mockup 5](img/web-app_supplier_mockup5.png)
+- Objetivo: Mostramos el modal para llenar la información de despacho del pedido. El proveedor podrá seleccionar el vehiculo, el chofer y la cisterna que se utilizará para el despacho del pedido. Para su confirmación, el sistema deberpa validar esta información evaluando su disponibilidad. Hasta no llenarse, no podremos asignar compartimientos a los detalles del pedido.
+---
+![Web Application Supplier - Mockup 6](img/web-app_supplier_mockup6.png)
+- Objetivo: Con la información del transporte validada, podremos asignar los compartimientos de la cisterna a cada detalle del pedido.
+---
+### 4.4.4. Web Applications User Flow Diagrams
+**User Flow Diagram - Segmento Cliente**
+- User Goal: El usuario desea registrar un nuevo pedido de combustible. Para ello, el usuario deberá llenar la información del pedido y los detalles de pago
+![Web Application Supplier - Mockup 6](img/client-userflow-diagram.jpg)
+
+**User Flow Diagram - Segmento Provedor**
+- User Goal: El proveedor debe gestionar los pedidos de combustible. Para ello, debe conciliar la información de los pagos y, si todo es correcto, liberar el pedido para su despacho. El proveedor deberá llenar la información de despacho y asignar los compartimientos de la cisterna a cada detalle del pedido.
+![Web Application Client - User Flow Diagram](img/supplier-userflow-diagram.jpg)
+
 ## 4.5. Web Applications Prototyping
+#### Desktop Web Application ####
+![desktopweb](img/desktopweb_screenshoot.png)
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310129_upc_edu_pe/Edy1alDH_alNlZjFMNxoDc8BBoMO6nXS4bQS2VoDvZNCXw?e=koelSR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+#### Mobile Web Application ####
+![mobileweb](img/mobileweb_screenshoot.png)
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310129_upc_edu_pe/ERIXuDHFrCZFr14xw48-U18BI1lKdcBvtNsYy7u5GATkqw?e=Qw4caQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## 4.6. Domain-Driven Software Architecture
 Esta sección expone la arquitectura de software orientada al dominio, una metodología que enfoca el diseño y desarrollo del sistema en el conocimiento profundo del entorno de negocio. Este enfoque busca lograr una mayor coherencia entre el software y los procesos empresariales, promoviendo una comunicación más efectiva entre los desarrolladores y los especialistas del dominio. Seguidamente, se describen los distintos diagramas y contextos delimitados que estructuran la arquitectura del proyecto.
@@ -170,8 +291,108 @@ Este bounded context separa todo lo relacionado con el control de producto que e
 Este bounded context sirve para alojar el feature de ordenes que se realicen, este feature requiere de instrucciones y analisis de recursos por lo cual está alojado dentro de este bounded context.
 
 ## 4.7. Software Object-Oriented Design
+
+#### Order request
+
+![Request](img/order-request.png)
+
+Este diagrama de clases organiza el sistema de monitoreo de pedidos de combustible. Clientes representa a quienes solicitan el combustible, Orders gestiona cada pedido realizado, Suppliers identifica a los proveedores que atienden esos pedidos, e Inventory controla el stock disponible. Las relaciones permiten ver claramente cómo un cliente genera un pedido, que es atendido por un proveedor en función del inventario actual.
+#### Order motoring
+
+![Monitoring](img/order-monitoring.png)
+
+Este diagrama de clases define la estructura del sistema de monitoreo de pedidos. Monitoring centraliza el seguimiento del estado de los pedidos, Clients representa a los solicitantes, Orders almacena la información de cada solicitud, y Suppliers registra los proveedores asignados. Las relaciones muestran cómo se controla y actualiza cada pedido en tiempo real, conectando clientes, órdenes y proveedores mediante el módulo de monitoreo.
+
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
+### Clase: deliveries
+
+Descripción: Registra la información de las entregas de pedidos.
+- id (int, PK)
+- delivery_at (datetime2)
+- received_by (varchar)
+- location (varchar)
+- orders_id (int, FK)
+
+### Clase: orders
+
+Descripción: Gestiona los pedidos realizados por los clientes.
+- id (int, PK)
+- quantity (decimal)
+- status (varchar)
+- request_at (datetime2)
+- clients_id (int, FK)
+- suppliers_id (int, FK)
+
+### Clase: monitoring
+
+Descripción: Lleva el control de actualizaciones del estado de los pedidos.
+- id (int, PK)
+- status_update (varchar)
+- time (datetime2)
+- orders_id (int, FK)
+
+### Clase: clients
+
+Descripción: Almacena la información de los clientes.
+- id (int, PK)
+- name (varchar)
+- address (varchar)
+- contact (varchar)
+
+### Clase: suppliers
+
+Descripción: Contiene los datos de los proveedores.
+- id (int, PK)
+- name (varchar)
+- ruc (varchar)
+- address (varchar)
+- contact (varchar)
+
+### Clase: inventory
+
+Descripción: Administra el inventario de combustibles.
+- id (int, PK)
+- fuel_type (varchar)
+- available_qt (decimal)
+- last_update (datetime2)
+- suppliers_id (int, FK)
+
+### Clase: transactions
+
+Descripción: Registra las transacciones de pagos de pedidos.
+- id (int, PK)
+- amount (decimal)
+- method (varchar)
+- status (varchar)
+- processed_at (datetime2)
+- orders_id (int, FK)
+
+### Clase: users
+
+Descripción: Guarda la información de los usuarios que acceden al sistema.
+- id (int, PK)
+- name (varchar)
+- email (varchar)
+- password_hash (varchar)
+- created_at (datetime2)
+- profiles_id (int, FK)
+
+### Clase: notifications
+
+Descripción: Administra las notificaciones enviadas a los usuarios.
+- id (int, PK)
+- message (text)
+- already_read (bit)
+- created_at (datetime2)
+- users_id (int, FK)
+
+### Clase: profiles
+
+Descripción: Define los perfiles de usuario y sus permisos.
+- id (int, PK)
+- permissions (text)
+- rol (varchar)
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
