@@ -203,7 +203,7 @@ Decisiones principales de diseño tomadas:
 ![Web Application Client - User Flow Diagram](img/supplier-wireflow-diagram.png)
 
 ### 4.4.3. Web Applications Mock-ups
----
+**Wireframes - Segmento Cliente**
 ![Web Application Client - Mockup 1](img/web-app_client_mockup1.png)
 - Objetivo: Vista general de las ordenes de la empresa solicitante, donde se puede ver el estado de cada pedido y la opción de crear un nuevo pedido.
 ---
@@ -218,8 +218,9 @@ Decisiones principales de diseño tomadas:
 ---
 ![Web Application Client - Mockup 5](img/web-app_client_mockup5.png)
 - Objetivo: Finalmente mostraremos la vista previa de todo el pedido, donde el usuario puede revisar todos los detalles antes de confirmar el pedido.
----
 
+---
+**Wireframes - Segmento Proveedor**
 ![Web Application Supplier - Mockup 1](img/web-app_supplier_mockup1.png)
 - Objetivo: Vista general de las ordenes de los clientes del proveedor, donde se puede ver el estado de cada pedido y observar los detalles de cada uno. Es posible filtrar por estado de pedido, cliente o fecha.
 ---
