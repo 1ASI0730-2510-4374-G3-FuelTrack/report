@@ -153,7 +153,7 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 
 | Foto                                          | Nombre completo | Código     | Carrera                | Habilidades técnicas y rol                  |
 |-----------------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
-| ![Bryan Espejo](img/foto_bryan.jpg)           | Bryan Espejo    | u202213278 | Ingeniería de Software | Desarrollo Backend, Gestión de Base de Datos|
+| ![Bryan Espejo](img/foto_bryan.png)           | Bryan Espejo    | u202213278 | Ingeniería de Software | Desarrollo Backend, Gestión de Base de Datos|
 | ![Inserte foto aquí](img/foto_manuel.jpg)     | Manuel Sanchez  | u201817507 | Ingeniería de Software | [Habilidades técnicas y rol]               |
 | ![Diego Seminario](img/diego.jpeg)            | Diego Seminario | u202412591 | Ingenieria de Software | [Habilidades técnicas y rol]               |
 | ![Cesar Navarro](img/foto_cesar.png) | César Navarro   | u202310129 | Ingenieria de Software | [Habilidades técnicas y rol]               |
