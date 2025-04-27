@@ -1,89 +1,84 @@
-
 # 5.1. Software Configuration Management
 
 ## 5.1.1. Software Development Environment Configuration
 
 **Project Management:**
-- **Trello**: Gestión de tareas por sprint, asignación de tareas y seguimiento de avance.
-- **GitHub**: Plataforma para el control de versiones y gestión de repositorios.
-- **Microsoft Teams**: Comunicación continua del equipo para reuniones virtuales y coordinación diaria.
+- **WhatsApp**: Aplicación de mensajería instantánea propiedad de Meta, utilizada para coordinar tareas del equipo y facilitar el intercambio de ideas y apoyo continuo durante el desarrollo del proyecto.
+- **Google Meet**: Herramienta de videoconferencias de Google, usada para mantener reuniones virtuales, planificación de tareas y comunicación directa.
+- **Google Drive**: Servicio de almacenamiento en la nube para compartir archivos relevantes y documentación del proyecto entre los miembros del equipo.
 
 **Requirements Management:**
-- **UXPressia**: Elaboración de User Personas, User Journey Maps e Impact Maps.
-- **Google Forms**: Recopilación de información para entrevistas de validación y necesidad.
+- **UXPressia**: Utilizada para la creación de User Personas, User Journey Maps e Impact Maps, mejorando la comprensión de las necesidades del usuario.
+- **Zoom**: Empleada para la realización de entrevistas de necesidad y validación de usuarios potenciales.
 
 **Product UX/UI Design:**
-- **Figma**: Diseño de wireframes, mockups, prototipos interactivos para el Landing Page y Web Application.
+- **Figma**: Plataforma colaborativa para el diseño de wireframes, wireflows, mockups y prototipos interactivos.
 
 **Software Development:**
-- **Visual Studio Code**: Editor principal de código para desarrollo en Vue, HTML5, CSS3 y JavaScript.
-- **Google Chrome**: Navegador usado para pruebas de visualización y compatibilidad.
-- **Postman**: Pruebas de los endpoints del API RESTful.
+- **Vertabelo**: Herramienta para el diseño del modelo de base de datos, asegurando una estructura visual clara de entidades y relaciones.
+- **Google Chrome**: Navegador utilizado para realizar pruebas de compatibilidad y funcionalidad de la Landing Page y Web Application.
+- **Visual Studio Code**: Editor de código para programar en JavaScript, Vue.js, y gestionar el control de versiones mediante GitHub.
 
 **Software Documentation:**
-- **Structurizr**: Elaboración de diagramas de arquitectura de software (modelo C4).
-- **Swagger (OpenAPI)**: Documentación interactiva de los servicios web.
-- **Markdown (.md)**: Documentación del proyecto en repositorio GitHub.
+- **Google Docs**: Documentos colaborativos para registrar decisiones, avances y acuerdos del proyecto.
+- **Structurizr**: Herramienta para diseñar diagramas C4, representando arquitecturas de software a distintos niveles de abstracción.
 
 ## 5.1.2. Source Code Management
 
-**Plataforma:**
-- **GitHub** (Organización pública).
+El proyecto utiliza GitHub como repositorio para administrar y estructurar los avances. Implementamos el flujo de trabajo **Gitflow**, siguiendo la metodología propuesta por Vincent Driessen, para mantener versiones estables y trabajo colaborativo ordenado.
 
-**Estrategia de control de versiones:**
-- **GitFlow** basado en el modelo de Vincent Driessen:
-  - `main`: Rama de producción estable.
-  - `develop`: Rama de integración.
-  - `feature/*`: Ramas para nuevas funcionalidades.
-  - `release/*`: Ramas para preparar versiones de lanzamiento.
-  - `hotfix/*`: Ramas para solucionar bugs críticos.
+**Main branch:** Rama principal donde se almacena el código de producción estable.
 
-**Normas de commits:**
-- **Conventional Commits** (feat, fix, docs, refactor, chore, etc.).
+**Develop branch:** Rama de integración donde se fusionan las nuevas funcionalidades desarrolladas.
 
-**Versionado:**
-- **Semantic Versioning 2.0.0** (ejemplo: v1.2.3).
+**Feature branches:** Ramas creadas a partir de `develop` para desarrollar funcionalidades específicas. Cada feature se trabaja de forma aislada para evitar conflictos.
+
+**Conventional Commits:** Estándar aplicado en los mensajes de commit para mantener un historial de cambios claro, comprensible y trazable, mejorando además la automatización de flujos de despliegue.
 
 ## 5.1.3. Source Code Style Guide & Conventions
 
+Nuestro equipo adoptó las siguientes convenciones de estilo para los lenguajes utilizados, buscando mantener la consistencia, la legibilidad y la facilidad de mantenimiento del código.
+
 **HTML:**
-- Uso de minúsculas para etiquetas y atributos.
-- Cierre obligatorio de etiquetas.
-- Atributos `alt` en imágenes y `name/id` en formularios.
+- Elementos y atributos en minúsculas.
+- Cierre explícito de todas las etiquetas.
+- Inclusión de atributos requeridos como `alt` en imágenes y `id`, `name` en formularios.
+- Código estructurado para mejorar la legibilidad.
 
 **CSS:**
-- Clases en kebab-case (`.landing-section`).
-- Propiedades agrupadas lógicamente.
-- Espacios y saltos de línea para mejorar legibilidad.
+- Uso de nombres de clases en kebab-case.
+- Espaciado consistente y cierre obligatorio de declaraciones con punto y coma.
+- Organización modular de reglas CSS.
 
-**JavaScript (Vue.js):**
-- Uso de `const` y `let`.
-- Componentes pequeños y especializados.
+**JavaScript / Vue.js:**
+- Declaración de variables con `const` y `let`.
+- Componentes Vue nombrados usando PascalCase (`OrderForm.vue`).
+- Estructura de componentes siguiendo el orden `template`, `script`, `style`.
 - Código y comentarios en inglés.
-
-**Vue.js:**
-- PascalCase para nombres de componentes (`LandingPage.vue`).
-- Estructura interna: `template`, `script`, `style` en orden.
-- Aplicación de la [Guía de Estilo Oficial de Vue](https://vuejs.org/style-guide/).
+- Uso de programación funcional, separación de responsabilidades, y aplicación de mejores prácticas recomendadas por la [Vue 3 Style Guide](https://vuejs.org/style-guide/).
 
 ## 5.1.4. Software Deployment Configuration
 
-**Entorno de desarrollo:**
-- **HTML5, CSS3, JavaScript, Vue 3 (con Vite).**
-- **ASP.NET Core (API RESTful).**
+**Entorno de Desarrollo:**
 
-**Gestores de paquetes:**
-- `npm` para Vue.js.
-- `nuget` para ASP.NET Core.
+Tecnologías utilizadas:
+- HTML5
+- CSS3
+- JavaScript
+- Vue 3 (con Vite como empaquetador y servidor de desarrollo)
 
-**Plataformas de despliegue:**
-- **GitHub Pages** para el Landing Page.
-- **Azure App Services** para el API RESTful.
+Gestor de paquetes:
+- **npm** para Vue 3 (administración de dependencias y scripts de build).
 
-**Flujo de despliegue:**
-- Pull Request de `feature/*` hacia `develop`.
-- Validación y merge de `develop` hacia `main`.
-- Publicación automática mediante GitHub Actions.
+**Estrategia de Deployment:**
+- **GitHub Pages** para desplegar la versión estática del Landing Page.
+- **Azure App Services** para desplegar los servicios backend (API RESTful).
+
+**Flujo Gitflow aplicado:**
+- `main`: Rama principal de producción.
+- `develop`: Rama de integración principal.
+- `feature/*`: Desarrollo de nuevas funcionalidades sobre `develop`.
+- Pull Requests realizados desde `feature/*` hacia `develop`, y de `develop` hacia `main` al completar un ciclo.
 
 # 5.2. Landing Page, Services & Applications Implementation
 
