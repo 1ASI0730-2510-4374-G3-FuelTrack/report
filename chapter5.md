@@ -113,12 +113,12 @@ Gestor de paquetes:
 
 | Team Member (Last Name, First Name) | GitHub Username | Landing Page (L/C) | Login & Authentication (L/C) | Documentation (L/C) |
 |:------------------------------------|:----------------|:-------------------|:-----------------------------|:--------------------|
-| Sanchez Arenas, Manuel Angel | (coloca tu username) | L | C | C |
-| Espejo Gamarra, Bryan Ronald | (coloca tu username) | C | L | C |
-| Mondoñedo Rodriguez, Juan Diego Javier | (coloca tu username) | C | C | L |
-| Seminario Castillo, Diego Vicente | (coloca tu username) | C | C | C |
+| Espejo Gamarra, Bryan Ronald | SaeBryxn | L | C | C |
+| Sanchez Arenas, Manuel Angel | manuels7a | C | L | C |
+| Mondoñedo Rodriguez, Juan Diego Javier | Jmondonedor | C | C | L |
+| Seminario Castillo, Diego Vicente | DiegoSeminario | C | C | C |
+| Navarro Correa, César Augusto | csr555-ui | C | C | C |
 
----
 ### 5.2.1.3. Sprint Backlog 1
 **Sprint Objective:**
 Implementar funcionalidades básicas para el registro, gestión de pedidos y autenticación de usuarios en FuelTrack.
