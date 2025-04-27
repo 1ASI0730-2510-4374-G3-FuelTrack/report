@@ -134,4 +134,88 @@ Implementar funcionalidades básicas para el registro, gestión de pedidos y aut
 | US11 | Apply Role-Based Access Control | Asegurar restricciones de acceso según el rol de usuario | 3 | Manuel Angel Sanchez Arenas | In-Process |
 | US12 | Setup MFA Authentication for Orders | Añadir autenticación de segundo factor en el envío de pedidos | 6 | Juan Diego Javier Mondoñedo Rodriguez | In-Process |
 
-### 5.2.1.4 a 5.2.1.8
+### 5.2.1.4. Development Evidence for Sprint Review
+
+**Summary:**
+During this Sprint, the team successfully implemented and deployed the initial version of the FuelTrack Landing Page. The commits related to these advancements are listed below.
+
+**Commits Table:**
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+|:-----------|:-------|:-----------|:---------------|:--------------------|:--------------------|
+| SaeBryxn/LandigPageFuelTrack | main | a6919063b377e88e43fa04460407149b66800b6e | add: initial up landing page | Initial deployment of the Landing Page including basic sections (hero, features, contact). | 26/04/2025 |
+
+
+*(You should replace commit ID and date with your real commit info from GitHub.)*
+
+---
+
+### 5.2.1.5. Execution Evidence for Sprint Review
+
+**Summary:**
+The main features of the FuelTrack Landing Page were developed and deployed successfully. Below are screenshots of the implemented sections.
+
+**Screenshots Evidence:**
+
+- **Hero Section**  
+  ![Hero Section](./img/HeroSection.png)
+
+- **Features Section 1**  
+  ![Features Section 1](./img/FeaturesSection1.png)
+
+- **Features Section 2**  
+  ![Features Section 2](./img/FeaturesSection2.png)
+
+- **Welcome Section**  
+  ![Welcome Section](./img/WelcomeSection.png)
+
+- **Pricing Section**  
+  ![Pricing Section](./img/PricingSection.png)
+
+- **Testimonial Section**  
+  ![Testimonial Section](./img/TestimonioSection.png)
+
+- **Contact Section**  
+  ![Contact Section](./img/ContactSection.png)
+
+**Live Demo Link:**
+- [FuelTrack Landing Page](https://saebryxn.github.io/LandigPageFuelTrack/)
+
+---
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+*(Not applicable yet: No backend services developed in this Sprint.)*
+
+---
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+**Summary:**
+The initial deployment of the FuelTrack Landing Page was completed using GitHub Pages.
+
+**Deployment Details:**
+- **Landing Page URL:** [https://saebryxn.github.io/LandigPageFuelTrack/](https://saebryxn.github.io/LandigPageFuelTrack/)
+- **Repository URL:** [https://github.com/SaeBryxn/LandigPageFuelTrack](https://github.com/SaeBryxn/LandigPageFuelTrack)
+
+**Deployment Activities:**
+- Configured GitHub repository with GitHub Pages hosting.
+- Built and pushed static site generated with Vite (Vue 3) to `gh-pages`.
+
+---
+
+### 5.2.1.8. Team Collaboration Insights during Sprint
+
+**Summary:**
+The team collaborated via GitHub and WhatsApp during this Sprint. The main activities focused on the development and deployment of the Landing Page.
+
+**Collaboration Evidence:**
+- Screenshot of GitHub commits showing contribution by team members.
+- WhatsApp conversations coordinating Landing Page sections and design adjustments.
+
+**Main Communication Tools:**
+- GitHub (code versioning and issues)
+- WhatsApp (daily communication and quick clarifications)
+- Google Meet (sprint planning meetings)
+
+---
