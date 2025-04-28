@@ -41,8 +41,8 @@
       <td>Diego Vicente Seminario Castillo</td>
     </tr>
     <tr>
-      <td>Inserte código aquí</td>
-      <td>Inserte nombre aquí</td>
+      <td>César Augusto Navarro Correa</td>
+      <td>u202310129</td>
     </tr>
   </table>
 </div>
