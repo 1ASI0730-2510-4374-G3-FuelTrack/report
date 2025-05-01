@@ -58,20 +58,29 @@
 ---
 ## Project Report Collaboration Insights
 
-**URL del Repositorio:**  
-[Repositorio de GitHub](https://github.com/orgs/1ASI0730-2510-4374-G3-FuelTrack/repositories)
+**Link del repositorio del informe:**  
+[https://github.com/1ASI0730-2510-4374-G3-FuelTrack/report](https://github.com/1ASI0730-2510-4374-G3-FuelTrack/report)
 
-Este informe ha sido desarrollado de forma colaborativa mediante GitHub, empleando GitFlow y Conventional Commits. Cada miembro del equipo ha contribuido con commits y ramas individuales durante el desarrollo del proyecto.
+**Link de los repositorios de la organización:**  
+[https://github.com/orgs/1ASI0730-2510-4374-G3-FuelTrack/repositories](https://github.com/orgs/1ASI0730-2510-4374-G3-FuelTrack/repositories)
 
-**Participación del equipo:**
+Este informe ha sido desarrollado de forma colaborativa mediante GitHub, aplicando GitFlow y Conventional Commits. Cada integrante del equipo ha contribuido mediante ramas independientes, commits individuales y revisiones de Pull Requests.
 
-| **Integrante**      | **Usuario GitHub** | **Aportaciones destacadas**                     |
-|---------------------|--------------------|-------------------------------------------------|
-| Bryan Espejo        | @SaeBryxn          | Inicialización del repositorio y configuración inicial del proyecto. |
-| Manuel Sanchez      | @manuels7anchez    | Distribucion del trabajo y asignacion de tareas. Supervisión de los pull-requests. Corrección de commits y conflictos en merges. |
-| Diego Seminario     | @DiegoSeminario    | Creación del repositorio en Github. Creacion de rama chapter1|
-| Juan Diego Mondoñedo| @Jmondonedor       | Revisión de los commits. Verificación del historial de ramas. |
-| César Navarro       | @csr555-iu         | Comunicación en paralelo cuando varios miembros trabajaban en la misma rama. |
+---
+
+### 📊 Participación por miembro (commits realizados)
+
+A continuación, se muestra un gráfico de barras con la cantidad de commits realizados por cada integrante del equipo:
+
+![Gráfico de barras de commits por usuario](img/colaboracion_commits_por_usuario.png)
+
+---
+
+### 📈 Evolución temporal de commits
+
+El siguiente gráfico muestra una línea de tiempo con la evolución semanal de los commits realizados por todos los miembros:
+
+![Línea de tiempo de commits por semana](img/colaboracion_timeline_commits.png)
 
 ---
 
