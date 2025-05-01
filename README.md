@@ -1,3 +1,4 @@
+
 # Capítulo II: Levantamiento y Análisis de Requisitos
 
 Este capítulo describe el proceso de levantamiento de información y análisis de requisitos que permitió identificar las necesidades de los usuarios y los elementos funcionales esenciales para el desarrollo de FuelTrack Pro. Se realizaron entrevistas, análisis de competencia y construcción de artefactos UX.
