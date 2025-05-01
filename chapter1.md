@@ -41,8 +41,8 @@
       <td>Diego Vicente Seminario Castillo</td>
     </tr>
     <tr>
-      <td>César Augusto Navarro Correa</td>
       <td>u202310129</td>
+      <td>César Augusto Navarro Correa</td>
     </tr>
   </table>
 </div>
@@ -51,9 +51,9 @@
 
 ## Registro de Versiones del Informe
 
-| **Versión** | **Fecha**   | **Autor(es)**                         | **Descripción de Modificación**                |
-|-------------|-------------|---------------------------------------|-----------------------------------------------|
-| **1.0**     | 2025-04-26  | G3 Khipu Lab     | Desarrollo de los primeros 5 capítulos del informe, así como una landing page y repositorio para los proyectos ya mencionados. |
+| **Versión** | **Fecha**   | **Autores**                                                                                     | **Descripción de Modificación**                                                                                                                                                                  |
+|-------------|-------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0         | 26/04/2025  | - Bryan Ronald Espejo Gamarra  <br> - Manuel Ángel Sánchez Arenas  <br> - Juan Diego Javier Mondoñedo Rodríguez <br> - Diego Vicente Seminario Castillo <br> - César Augusto Navarro Correa | Se incluyeron los siguientes capítulos: <br>• Estructura del informe <br>• Capítulo I: Introducción <br>• Capítulo II: Requirements Elicitation & Analysis <br>• Capítulo III: Requirements Specification <br>• Capítulo IV: Product Design <br>• Capítulo V: Product Implementation, Validation & Deployment <br>• Landing Page <br>• Configuración inicial del repositorio <br>• Aplicación de GitFlow y convenciones de commits |
 
 ---
 ## Project Report Collaboration Insights
