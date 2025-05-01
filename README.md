@@ -1,29 +1,43 @@
-# Chapter I: Introduction
 
-This chapter presents the startup profile, team member information, and the context of the problem being addressed. It also introduces the application of the Lean UX approach and the identification of target segments.
+# Capítulo II: Levantamiento y Análisis de Requisitos
 
-## 1.1. Startup Profile
+Este capítulo describe el proceso de levantamiento de información y análisis de requisitos que permitió identificar las necesidades de los usuarios y los elementos funcionales esenciales para el desarrollo de FuelTrack Pro. Se realizaron entrevistas, análisis de competencia y construcción de artefactos UX.
 
-### 1.1.1. Description of the Startup
-FuelTrack is an innovative startup dedicated to optimizing the management of fuel orders between requesting companies and suppliers. Our proposal focuses on digitizing a traditionally manual sector, offering a technological solution that ensures efficiency, transparency, and better control of operations.
+## 2.1. Competidores
 
-**Mission:** Our mission is to develop advanced technological solutions that transform fuel order management, eliminating informal methods and reducing human error through a user-friendly and accessible web platform.
+### 2.1.1. Análisis competitivo
+Se identificaron empresas competidoras que ofrecen soluciones similares, comparando su propuesta de valor, tecnología utilizada y enfoque al cliente.
 
-**Vision:** Our vision is to become leaders in the digitalization of the energy sector, providing businesses with tools for efficient, secure, and sustainable fuel order management, enhancing both competitiveness and technological progress.
+### 2.1.2. Estrategias y tácticas frente a competidores
+Se definieron estrategias para destacar frente a la competencia, enfocadas en la usabilidad, trazabilidad de pedidos y experiencia de usuario.
 
-### 1.1.2. Team Member Profiles
+## 2.2. Entrevistas
 
-| Photo | Full Name | Student Code | Career | Technical Skills and Role |
-|-------|-----------|--------------|--------|---------------------------|
-| ![Bryan Espejo](img/foto_bryan.png) | Bryan Espejo | u202213278 | Software Engineering | Backend development, Database management |
-| ![Manuel Sanchez](img/foto_manuel.jpg) | Manuel Sanchez | u201817507 | Software Engineering | Fullstack: ASP.Net CORE MVC, Java, React.js |
-| ![Diego Seminario](img/diego.jpeg) | Diego Seminario | u202412591 | Software Engineering | Backend development |
-| ![Cesar Navarro](img/foto_cesar.png) | César Navarro | u202310129 | Software Engineering | Fullstack Development |
-| ![Juan Diego](img/foto_compañero4.jpg) | Juan Diego Mondoñedo | u202110373 | Software Engineering | Fullstack, JavaScript, Node.js |
+### 2.2.1. Diseño de entrevistas
+Se diseñaron guías con preguntas clave para comprender los procesos actuales de gestión de pedidos y los principales puntos de dolor de los usuarios.
 
-## 1.2. Solution Profile
+### 2.2.2. Registro de entrevistas
+Se realizaron entrevistas a usuarios reales (empresas proveedoras y solicitantes) y se documentaron las respuestas, incluyendo datos demográficos y contexto.
 
-### 1.2.1. Background and Problem Statement
-The fuel distribution sector faces inefficiencies due to reliance on informal methods (calls, emails, messaging apps) to manage orders. This leads to disorganization, errors, and lack of real-time visibility.
+### 2.2.3. Análisis de entrevistas
+Se procesó la información obtenida, identificando patrones, necesidades comunes y oportunidades de mejora para estructurar los arquetipos de usuario.
 
+## 2.3. Needfinding
 
+### 2.3.1. User Personas
+Se crearon perfiles representativos de los usuarios identificados (solicitantes y proveedores de combustible), incluyendo sus objetivos, frustraciones y contexto.
+
+### 2.3.2. User Task Matrix
+Se elaboró una matriz que relaciona las tareas más frecuentes e importantes que cada tipo de usuario debe realizar.
+
+### 2.3.3. User Journey Mapping
+Se diagramaron los recorridos actuales (As-Is) de los usuarios para identificar obstáculos y puntos de mejora.
+
+### 2.3.4. Empathy Mapping
+Se sintetizaron emociones, pensamientos, necesidades y problemas de los usuarios para lograr una comprensión más empática del contexto.
+
+### 2.3.5. As-Is Scenario Mapping
+Se representaron escenarios reales de interacción con el proceso actual de pedidos, destacando problemas, frustraciones y oportunidades de mejora.
+
+## 2.4. Ubiquitous Language
+Se definió un glosario con términos clave del dominio de negocio para garantizar una comunicación clara y sin ambigüedad entre el equipo y los stakeholders.
