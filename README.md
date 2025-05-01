@@ -5,30 +5,25 @@ This chapter presents the startup profile, team member information, and the cont
 ## 1.1. Startup Profile
 
 ### 1.1.1. Description of the Startup
-Our startup aims to provide innovative digital solutions to address [insert the identified problem or market]. We focus on delivering an inclusive, scalable, and user-centered experience.
+FuelTrack is an innovative startup dedicated to optimizing the management of fuel orders between requesting companies and suppliers. Our proposal focuses on digitizing a traditionally manual sector, offering a technological solution that ensures efficiency, transparency, and better control of operations.
+
+**Mission:** Our mission is to develop advanced technological solutions that transform fuel order management, eliminating informal methods and reducing human error through a user-friendly and accessible web platform.
+
+**Vision:** Our vision is to become leaders in the digitalization of the energy sector, providing businesses with tools for efficient, secure, and sustainable fuel order management, enhancing both competitiveness and technological progress.
 
 ### 1.1.2. Team Member Profiles
-The team is composed of Software Engineering students with experience in web development, UX design, project management, and technical documentation.
+
+| Photo | Full Name | Student Code | Career | Technical Skills and Role |
+|-------|-----------|--------------|--------|---------------------------|
+| ![Bryan Espejo](img/foto_bryan.png) | Bryan Espejo | u202213278 | Software Engineering | Backend development, Database management |
+| ![Manuel Sanchez](img/foto_manuel.jpg) | Manuel Sanchez | u201817507 | Software Engineering | Fullstack: ASP.Net CORE MVC, Java, React.js |
+| ![Diego Seminario](img/diego.jpeg) | Diego Seminario | u202412591 | Software Engineering | Backend development |
+| ![Cesar Navarro](img/foto_cesar.png) | César Navarro | u202310129 | Software Engineering | Fullstack Development |
+| ![Juan Diego](img/foto_compañero4.jpg) | Juan Diego Mondoñedo | u202110373 | Software Engineering | Fullstack, JavaScript, Node.js |
 
 ## 1.2. Solution Profile
 
 ### 1.2.1. Background and Problem Statement
-A critical need was identified in [briefly describe the domain problem], which affects [state who is impacted].
+The fuel distribution sector faces inefficiencies due to reliance on informal methods (calls, emails, messaging apps) to manage orders. This leads to disorganization, errors, and lack of real-time visibility.
 
-### 1.2.2. Lean UX Process
-The Lean UX approach was applied to validate hypotheses regarding the problem and user needs.
 
-#### 1.2.2.1. Lean UX Problem Statements
-[Insert the problem statements written by the team.]
-
-#### 1.2.2.2. Lean UX Assumptions
-[Specify the assumptions made.]
-
-#### 1.2.2.3. Lean UX Hypothesis Statements
-[Write the hypotheses defined by the team.]
-
-#### 1.2.2.4. Lean UX Canvas
-[Insert the Lean UX Canvas created in UXPressia or equivalent tool.]
-
-## 1.3. Target Segments
-User segments were defined based on demographic, behavioral, and need-based criteria, as detailed in the interviews presented in Chapter II.
