@@ -1,0 +1,76 @@
+@startuml
+
+class Usuario {
+  - UUID id
+  - String nombre
+  - String correo
+  - String contrasena
+  - Enum rol
+  - Timestamp fecha_creacion
+  + iniciarSesion()
+  + recuperarContrasena()
+}
+
+class Pedido {
+  - UUID id
+  - UUID id_cliente
+  - UUID id_proveedor
+  - Decimal volumen
+  - String ubicacion
+  - Enum estado
+  - Timestamp fecha_creacion
+  + actualizarEstado()
+  + cancelarPedido()
+}
+
+class ActualizacionPedido {
+  - UUID id
+  - UUID id_pedido
+  - String descripcion
+  - Timestamp fecha
+}
+
+class Pago {
+  - UUID id
+  - UUID id_pedido
+  - Decimal monto
+  - String metodo_pago
+  - Enum estado
+  - Timestamp fecha_emision
+  - Timestamp fecha_pago
+  - String referencia_pago
+  + registrarPago()
+}
+
+class SesionMFA {
+  - UUID id
+  - UUID id_usuario
+  - UUID id_pedido
+  - String codigo_enviado
+  - Enum metodo
+  - Enum estado
+  - Timestamp fecha_envio
+  - Timestamp fecha_validacion
+  - SmallInt intentos
+  + verificarCodigo()
+}
+
+class Notificacion {
+  +id: UUID
+  +id_usuario: UUID
+  +id_pedido: UUID
+  +mensaje: String
+  +tipo: String
+  +fechaCreacion: DateTime
+  +leido: Boolean
+}
+
+Usuario "1" -- "0..*" Pedido
+Usuario "1" -- "0..*" Pedido
+Pedido "1" -- "0..*" ActualizacionPedido
+Pedido "1" -- "0..1" Pago
+Usuario "1" -- "0..*" SesionMFA
+Usuario "1" -- "0..*" Notificacion
+Pedido "1" -- "0..*" Notificacion
+
+@enduml
