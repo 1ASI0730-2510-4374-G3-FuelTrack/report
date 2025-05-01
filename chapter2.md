@@ -8,26 +8,112 @@ FuelCloud es una solución tecnológica centrada en el control del despacho de c
 Wialon es una plataforma global de gestión de flotas que incluye funcionalidades para el control de combustible, seguimiento de vehículos por GPS, y análisis de consumo. Ofrece herramientas de visualización en tiempo real, alertas automatizadas y reportes avanzados. Si bien no gestiona directamente el flujo de pedidos entre proveedores y solicitantes, es altamente utilizada por empresas distribuidoras y logísticas que transportan combustible, lo que la convierte en un competidor indirecto pero funcionalmente cercano a FuelTrack.
 
 ### 2.1.1. Análisis competitivo.
+<table border="1">
+  <tr>
+    <th colspan="6" style="text-align:left">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td><strong>¿Por qué llevar a cabo este análisis?</strong></td>
+    <td colspan="5">Este análisis se está llevando a cabo porque queremos conocer las ventajas y desventajas de nuestra aplicación frente a la competencia, y cómo nos diferenciamos de ellas.</td>
+  </tr>
+  <tr>
+  <td colspan="2"><strong>(En la cabecera colocar por cada competidor nombre y logo)</strong></td>
+  <td><strong>FuelTrack</strong><br><img src="img/logo-fueltrack.jpg" height="120"/></td>
+  <td><strong>Zavgar</strong><br><img src="img/logo-zavgar.jpg" height="120"/></td>
+  <td><strong>FuelCloud</strong><br><img src="img/logo-fuelcloud.jpg" height="120"/></td>
+  <td><strong>Wialon</strong><br><img src="img/logo-wialon.jpg" height="120"/></td>
+</tr>
 
-| Competitive Analysis Landscape | 
---------------------------------------------|
-| **¿Por qué llevar a cabo este análisis?** |
-|Este análisis se está llevando a cabo porque queremos conocer las ventajas y desventajas de nuestra aplicación frente a la competencia, y cómo nos diferenciamos de ellas.
+  <tr>
+    <th rowspan="3">Perfil</th>
+    <td><strong>Overview</strong></td>
+    <td>Plataforma web que digitaliza y estructura el proceso completo de pedido de combustible entre empresas y proveedores.</td>
+    <td>SaaS para la gestión de consumo de combustible de flotas, con enfoque en eficiencia, monitoreo y costos.</td>
+    <td>Solución con hardware/software para el control físico del despacho de combustible.</td>
+    <td>Plataforma de gestión de flotas con control de combustible, GPS y reportes operativos.</td>
+  </tr>
+  <tr>
+    <td><strong>Ventaja competitiva</strong></td>
+    <td>Especialización en el flujo completo de pedido, despacho y análisis; integración de pagos y logística; UI intuitiva.</td>
+    <td>No requiere hardware; ofrece métricas, control de gastos y reportes sobre consumo.</td>
+    <td>Control físico preciso del combustible, monitoreo en tiempo real.</td>
+    <td>Seguimiento en tiempo real, visualización de rutas, integración con sensores de combustible.</td>
+  </tr>
+  <tr>
+    <td><strong>¿Qué valor ofrece al cliente?</strong></td>
+    <td>Trazabilidad total, eficiencia operativa, reportes de consumo y validación segura de pedidos.</td>
+    <td>Optimización de costos y control sobre el uso de combustible en flotas.</td>
+    <td>Seguridad y precisión operativa en el control de combustible.</td>
+    <td>Trazabilidad de flotas, alertas automáticas, análisis de rutas y consumo de combustible.</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Perfil de Marketing</th>
+    <td><strong>Mercado objetivo</strong></td>
+    <td>Empresas que solicitan combustible a proveedores.</td>
+    <td>Empresas con flotas vehiculares que desean monitorear y reducir el consumo de combustible.</td>
+    <td>Empresas con tanques de combustible propios.</td>
+    <td>Empresas logísticas, distribuidoras y de transporte de combustible.</td>
+  </tr>
+  <tr>
+    <td><strong>Estrategias de marketing</strong></td>
+    <td>Alianzas con proveedores, demostraciones de ahorro, marketing de contenido enfocado en eficiencia.</td>
+    <td>Enfoque digital, contenido técnico, integración con proveedores de tarjetas de combustible.</td>
+    <td>Ferias industriales, distribuidores, venta consultiva entre empresas.</td>
+    <td>Alianzas con distribuidores de GPS, marketing técnico, ferias de transporte.</td>
+  </tr>
+  <tr>
+    <th rowspan="3">Perfil de Producto</th>
+    <td><strong>Productos & Servicios</strong></td>
+    <td>Plataforma para gestión completa de pedidos, seguimiento, reportes, validación y alertas.</td>
+    <td>Plataforma web con módulo de abastecimiento, reportes de consumo, integración GPS y tarjetas.</td>
+    <td>Hardware IoT y software para gestión, y control de combustible.</td>
+    <td>Plataforma SaaS + app móvil con monitoreo, alertas, mapas y módulos personalizables.</td>
+  </tr>
+  <tr>
+    <td><strong>Precios & Costos</strong></td>
+    <td>Modelo SaaS con suscripción escalable según volumen y servicios.</td>
+    <td>SaaS con modelos por flota activa o vehículos monitoreados.</td>
+    <td>Venta e instalación de hardware + licencias de software.</td>
+    <td>Modelo SaaS modular, basado en vehículos activos y funcionalidades activadas.</td>
+  </tr>
+  <tr>
+    <td><strong>Canales de distribución</strong></td>
+    <td>Web app responsive, potencial app móvil futura.</td>
+    <td>Web app, marketing digital y comunidad de flotas.</td>
+    <td>Plataforma web + hardware instalado en sitio.</td>
+    <td>Red de partners global, distribuidores locales e integradores de sistemas GPS.</td>
+  </tr>
+  <tr>
+    <th rowspan="4">Análisis SWOT</th>
+    <td><strong>Fortalezas</strong></td>
+    <td>Enfoque especializado, experiencia de usuario optimizada, integraciones clave, análisis avanzado de consumo.</td>
+    <td>Implementación ágil, sin hardware, fácil adopción en empresas medianas.</td>
+    <td>Control físico riguroso, solución probada en industrias exigentes.</td>
+    <td>Plataforma robusta, cobertura internacional, integración con más de 2,400 dispositivos GPS.</td>
+  </tr>
+  <tr>
+    <td><strong>Debilidades</strong></td>
+    <td>Nueva en el mercado, menor reconocimiento de marca, necesita consolidar confianza.</td>
+    <td>No gestiona el flujo completo del pedido, enfoque parcial en flotas.</td>
+    <td>Alto costo, dependencia de hardware, menor adaptabilidad en mercados emergentes.</td>
+    <td>No gestiona pedidos entre proveedor y solicitante, requiere configuración técnica inicial.</td>
+  </tr>
+  <tr>
+    <td><strong>Oportunidades</strong></td>
+    <td>Alta informalidad en el sector, digitalización creciente en logística, necesidad de trazabilidad y control.</td>
+    <td>Mayor conciencia en eficiencia de flotas y digitalización de costos operativos.</td>
+    <td>Nuevos mercados industriales con enfoque en seguridad y control.</td>
+    <td>Creciente necesidad de control logístico y monitoreo de distribución en países en desarrollo.</td>
+  </tr>
+  <tr>
+    <td><strong>Amenazas</strong></td>
+    <td>Aparición de soluciones similares, resistencia al cambio en empresas tradicionales, competencia ERP.</td>
+    <td>SaaS especializados con mayor cobertura funcional (ERP, proveedores, logística).</td>
+    <td>SaaS ágiles y sin hardware físico, que ofrecen soluciones más accesibles.</td>
+    <td>SaaS más específicos y ligeros, enfocados exclusivamente en la trazabilidad de entregas.</td>
+  </tr>
+</table>
 
-| **Categoría** | ![FuelTrack](img/logo-fueltrack.jpg)**FuelTrack** | ![Zavgar Online](img/logo-zavgar.jpg)**Zavgar** | ![FuelCloud](img/logo-fuelcloud.jpg) **FuelCloud** | ![Wialon](img/logo-wialon.jpg)**Wialon** |
-| ------------- |----------------- |------------------|------------------|------------------------|
-| **Overview** | Plataforma web que digitaliza y estructura el proceso completo de pedido de combustible entre empresas y proveedores. | SaaS para la gestión de consumo de combustible de flotas, con enfoque en eficiencia, monitoreo y costos. | Solución con hardware/software para el control físico del despacho de combustible.| Plataforma de gestión de flotas con control de combustible, GPS y reportes operativos. |
-| **Ventaja competitiva** | Especialización en el flujo completo de pedido, despacho y análisis; integración de pagos y logística; UI intuitiva. | No requiere hardware; ofrece métricas, control de gastos y reportes sobre consumo. | Control físico preciso del combustible, monitoreo en tiempo real. | Seguimiento en tiempo real, visualización de rutas, integración con sensores de combustible. |
-| **¿Qué valor ofrece al cliente?** | Trazabilidad total, eficiencia operativa, reportes de consumo y validación segura de pedidos. | Optimización de costos y control sobre el uso de combustible en flotas. | Seguridad y precisión operativa en el control de combustible. | Trazabilidad de flotas, alertas automáticas, análisis de rutas y consumo de combustible. |
-| **Mercado objetivo** | Empresas que solicitan combustible a proveedores. | Empresas con flotas vehiculares que desean monitorear y reducir el consumo de combustible. | Empresas con tanques de combustible propios. | Empresas logísticas, distribuidoras y de transporte de combustible. |
-| **Estrategias de marketing**| Alianzas con proveedores, demostraciones de ahorro, marketing de contenido enfocado en eficiencia. | Enfoque digital, contenido técnico, integración con proveedores de tarjetas de combustible. | Ferias industriales, distribuidores, venta consultiva entre empresas. | Alianzas con distribuidores de GPS, marketing técnico, ferias de transporte. |
-| **Productos & Servicios** | Plataforma para gestión completa de pedidos, seguimiento, reportes, validación y alertas. | Plataforma web con módulo de abastecimiento, reportes de consumo, integración GPS y tarjetas. | Hardware IoT y software para gestión, y control de combustible. | Plataforma SaaS + app móvil con monitoreo, alertas, mapas y módulos personalizables. |
-| **Precios & Costos** | Modelo SaaS con suscripción escalable según volumen y servicios. | SaaS con modelos por flota activa o vehículos monitoreados. | Venta e instalación de hardware + licencias de software. | Modelo SaaS modular, basado en vehículos activos y funcionalidades activadas. |
-| **Canales de distribución** | Web app responsive, potencial app móvil futura. | Web app, marketing digital y comunidad de flotas. | Plataforma web + hardware instalado en sitio. | Red de partners global, distribuidores locales e integradores de sistemas GPS. |
-| **Fortalezas** | Enfoque especializado, experiencia de usuario optimizada, integraciones clave, análisis avanzado de consumo. | Implementación ágil, sin hardware, fácil adopción en empresas medianas. | Control físico riguroso, solución probada en industrias exigentes.| Plataforma robusta, cobertura internacional, integración con más de 2,400 dispositivos GPS. |
-| **Debilidades** | Nueva en el mercado, menor reconocimiento de marca, necesita consolidar confianza. | No gestiona el flujo completo del pedido, enfoque parcial en flotas. | Alto costo, dependencia de hardware, menor adaptabilidad en mercados emergentes. | No gestiona pedidos entre proveedor y solicitante, requiere configuración técnica inicial. |
-| **Oportunidades** | Alta informalidad en el sector, digitalización creciente en logística, necesidad de trazabilidad y control. | Mayor conciencia en eficiencia de flotas y digitalización de costos operativos. | Nuevos mercados industriales con enfoque en seguridad y control. | Creciente necesidad de control logístico y monitoreo de distribución en países en desarrollo. |
-| **Amenazas**  | Aparición de soluciones similares, resistencia al cambio en empresas tradicionales, competencia ERP. | SaaS especializados con mayor cobertura funcional (ERP, proveedores, logística). | SaaS ágiles y sin hardware físico, que ofrecen soluciones más accesibles. | SaaS más específicos y ligeros, enfocados exclusivamente en la trazabilidad de entregas. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
