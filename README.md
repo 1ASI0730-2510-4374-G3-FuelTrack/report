@@ -1,29 +1,43 @@
-# Capítulo III: Especificación de Requisitos
 
-Este capítulo presenta los artefactos que permiten transformar el análisis de necesidades en requisitos claros y priorizados para el desarrollo del sistema FuelTrack Pro. Aquí se detallan los escenarios ideales, las historias de usuario, el mapa de impacto y el backlog del producto.
+# Capítulo II: Levantamiento y Análisis de Requisitos
 
-## 3.1. To-Be Scenario Mapping
+Este capítulo describe el proceso de levantamiento de información y análisis de requisitos que permitió identificar las necesidades de los usuarios y los elementos funcionales esenciales para el desarrollo de FuelTrack Pro. Se realizaron entrevistas, análisis de competencia y construcción de artefactos UX.
 
-Se elaboraron los escenarios "To-Be" que representan la experiencia futura esperada de los usuarios una vez implementado el sistema. Estos escenarios destacan cómo se resolverán los problemas detectados en los mapas As-Is y cuál será el nuevo flujo de trabajo, más eficiente y digitalizado.
+## 2.1. Competidores
 
-## 3.2. User Stories
+### 2.1.1. Análisis competitivo
+Se identificaron empresas competidoras que ofrecen soluciones similares, comparando su propuesta de valor, tecnología utilizada y enfoque al cliente.
 
-Se definieron Historias de Usuario (User Stories) a partir de los insights obtenidos en el análisis previo. Cada historia responde a una necesidad concreta de un usuario y cuenta con criterios de aceptación claros, redactados bajo el formato "Como [rol] quiero [acción] para [beneficio]".
+### 2.1.2. Estrategias y tácticas frente a competidores
+Se definieron estrategias para destacar frente a la competencia, enfocadas en la usabilidad, trazabilidad de pedidos y experiencia de usuario.
 
-También se incluyeron historias técnicas (Technical Stories) para los componentes del backend y API.
+## 2.2. Entrevistas
 
-## 3.3. Impact Mapping
+### 2.2.1. Diseño de entrevistas
+Se diseñaron guías con preguntas clave para comprender los procesos actuales de gestión de pedidos y los principales puntos de dolor de los usuarios.
 
-Se construyó un Impact Map con los siguientes elementos:
-- **Objetivos de negocio (Business Goals)**: Qué se desea lograr como startup.
-- **Actores (Actors)**: Quiénes pueden ayudar o impedir lograr esos objetivos (User Personas).
-- **Impactos esperados (Impacts)**: Qué cambios de comportamiento se esperan.
-- **Deliverables**: Qué funciones y características de software se desarrollarán para provocar dichos cambios.
+### 2.2.2. Registro de entrevistas
+Se realizaron entrevistas a usuarios reales (empresas proveedoras y solicitantes) y se documentaron las respuestas, incluyendo datos demográficos y contexto.
 
-El Impact Map asegura que cada funcionalidad tenga un propósito alineado con los objetivos del negocio.
+### 2.2.3. Análisis de entrevistas
+Se procesó la información obtenida, identificando patrones, necesidades comunes y oportunidades de mejora para estructurar los arquetipos de usuario.
 
-## 3.4. Product Backlog
+## 2.3. Needfinding
 
-Se organizó un Backlog del producto que prioriza las historias según el valor para el usuario y el negocio. Cada User Story se encuentra estimada en Story Points, incluyendo las funcionalidades tanto de la Landing Page como de la aplicación web (Frontend y Backend).
+### 2.3.1. User Personas
+Se crearon perfiles representativos de los usuarios identificados (solicitantes y proveedores de combustible), incluyendo sus objetivos, frustraciones y contexto.
 
-El backlog se gestiona en una herramienta de gestión ágil (como Trello, Jira o Pivotal Tracker) y se documenta también dentro del repositorio.
+### 2.3.2. User Task Matrix
+Se elaboró una matriz que relaciona las tareas más frecuentes e importantes que cada tipo de usuario debe realizar.
+
+### 2.3.3. User Journey Mapping
+Se diagramaron los recorridos actuales (As-Is) de los usuarios para identificar obstáculos y puntos de mejora.
+
+### 2.3.4. Empathy Mapping
+Se sintetizaron emociones, pensamientos, necesidades y problemas de los usuarios para lograr una comprensión más empática del contexto.
+
+### 2.3.5. As-Is Scenario Mapping
+Se representaron escenarios reales de interacción con el proceso actual de pedidos, destacando problemas, frustraciones y oportunidades de mejora.
+
+## 2.4. Ubiquitous Language
+Se definió un glosario con términos clave del dominio de negocio para garantizar una comunicación clara y sin ambigüedad entre el equipo y los stakeholders.
