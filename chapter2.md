@@ -117,7 +117,6 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 
 ---
 
-### 2.2.2. Registro de entrevistas.
 
 #### Entrevista 1 – Segmento: Empresa Solicitante
 ![entrevista_segmento1](img/entrevista1.png) 
@@ -125,11 +124,8 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 - Apellidos: Apellido inventado
 - Edad: 28
 - Distrito: Lima
-- Acerca de la entrevista:<br>
-Inicio de la entrevista/termino de la entrevista:0:27 -3:00
-    
+- Inicio de la entrevista/termino de la entrevista:0:27 -3:00
 - URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u202213278_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213278%5Fupc%5Fedu%5Fpe%2FDocuments%2F0418%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edca00e68%2Db3ae%2D4379%2D8fd6%2D1446064f9809
-
 - Duración:3:10
 - Resumen:<br>
 - Carla, de 28 años y licenciada en Administración de Empresas, trabaja en Lima Metropolitana. 
@@ -145,18 +141,13 @@ y monitorean el consumo con hojas de cálculo. Carla busca una plataforma que ce
 - Apellidos: Manosalva
 - Edad: … años
 - Distrito: Lima
-- Acerca de la entrevista:<br>
-Inicio de la entrevista/termino de la entrevista: 1:12-15:25
-    
+- Inicio de la entrevista/termino de la entrevista: 1:12-15:25
 - URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u202310129_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310129%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%20grover%20manosalva%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E60eca17f%2D505e%2D45a6%2D8680%2D9f3463341fbd
 - Duración:15:43
 - Resumen:<br>\
   Grover, de 28 años, trabaja en Cajamarca para una empresa extranjera del rubro de construcción y administración con operaciones en varias regiones del Perú. La compra de combustible se realiza directamente a Petroperú mediante la plataforma virtual de Osinergmin. El proceso inicia en el área de almacén, pasa por logística y se aprueba por la gerencia antes de generar la orden de compra, que se envía por correo o WhatsApp.
 El consumo se monitorea digitalmente con tablets que registran datos como horómetro, conductor y hora de abastecimiento. El área de equipos analiza esta información con fórmulas que alertan sobre consumos fuera del rango normal, lo cual ayuda a detectar posibles irregularidades.
 Grover sugiere como mejora que el sistema permita reprogramar fechas de carga sin necesidad de anular y generar nuevos pedidos. En su trabajo utiliza laptop, celular, teléfono corporativo y radios satelitales. Señaló que centralizar y flexibilizar estos procesos sería de gran ayuda para su empresa.
-
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
-    
 
 ---
 
@@ -167,15 +158,13 @@ Grover sugiere como mejora que el sistema permita reprogramar fechas de carga si
 - Apellidos: De Ure
 - Edad:25 años
 - Distrito: Lima
-- Acerca de la entrevista:<br>
-  Inicio de la entrevista/termino de la entrevista: 0:12-15:25
+- Inicio de la entrevista/termino de la entrevista: 0:12-15:25
 - URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u202110373_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110373%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1307550381%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2f6a4453%2Db6c5%2D4961%2D8c5f%2D5dc0866d7117
-
 - Duración:6:35
 - Resumen:<br>
 Alfredo trabaja en logística, usa principalmente computadora y celular. Solicitan combustibles vía correos, mensajes o llamadas, sin un sistema propio. Verifican entregas con mediciones. Hay retrasos y entregas incompletas ocasionales. Reportan consumos mensualmente y resultados trimestralmente. La trazabilidad es importante para auditorías. Las validaciones las realiza el jefe de área y tesorería. Gestionan reprogramaciones por correo o llamadas. Usan medidores y un software para controlar consumos. Buscan automatizar procesos para mayor eficiencia.
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
     
+
 
 ---
 
@@ -185,12 +174,12 @@ Alfredo trabaja en logística, usa principalmente computadora y celular. Solicit
 - Apellidos: Sanchez
 - Edad: 25 años
 - Distrito: Lima
-- Acerca de la entrevista:<br>
-  Inicio de la entrevista/termino de la entrevista: 0:14-5:28
+- Inicio de la entrevista/termino de la entrevista: 0:14-5:28
 - URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u201817507_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201817507%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%202%20open%20source%2020%2D04%2D2025%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E44981c48%2Db1d6%2D4ac7%2D8afd%2D0bdb857ded18
 - Duración:5:35
 - Resumen:<br>
   Zaid trabaja registrando pedidos en Petromax. Los pedidos llegan primero por correo y luego se ingresan manualmente en su sistema interno (RPY). Controlan la entrega verificando volúmenes en planta. Generan reportes diarios y mensuales de volúmenes y ventas. Validan el stock manualmente comunicándose con las plantas. Hacen seguimiento de pedidos por teléfono o WhatsApp. El principal problema es el riesgo de errores por el registro manual. La conciliación de pagos la maneja el área de cobranzas. Están dispuestos a integrar una plataforma que unifique y automatice todo el proceso para reducir errores.
+  
 ---
 
 #### Entrevistado N°5
@@ -199,16 +188,10 @@ Alfredo trabaja en logística, usa principalmente computadora y celular. Solicit
 - Apellidos: Chira
 - Edad:25 años
 - Distrito: Piura
-- Acerca de la entrevista:<br>
-    
 - URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u202412591_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202412591%5Fupc%5Fedu%5Fpe%2FDocuments%2FV%C3%ADdeo%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E336e8a8d%2De640%2D4e6f%2Da835%2D40c4bc19e740&mode=View
 - Duración:13:14
 - Resumen:<br>
   Patrick, de 25 años, trabaja hace 1 año en logística y maneja tecnología a nivel intermedio. Usa computadora, celular y tablet para gestionar pedidos de combustible de forma manual, recibiendo solicitudes por correo o WhatsApp, verificando stock en Excel y programando entregas. Emite guías físicas y factura en 24 a 48 horas. Utiliza Excel, Google Drive, WhatsApp Business, SUNAT/Clave Sol y Google Maps. Sus principales problemas son la falta de centralización, demoras y errores humanos. Necesita una plataforma que centralice pedidos, permita trazabilidad y agilice facturación y reportes.
-
-
-
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
 
 ---
 
@@ -219,13 +202,11 @@ Alfredo trabaja en logística, usa principalmente computadora y celular. Solicit
 - Apellidos: Santos
 - Edad:25 años
 - Distrito: Piura
-- Acerca de la entrevista:<br>
-  Inicio de la entrevista/termino de la entrevista: 0:42-11:47
+- Inicio de la entrevista/termino de la entrevista: 0:42-11:47
 - URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u202412591_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202412591%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D04%2D18%2023%2D46%2D00%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb96a0d14%2Dc362%2D40ee%2D81e3%2Df385320344a2
 - Duración:11:47
 - Resumen:<br>
   Angie, de 25 años y con un año en logística, gestiona pedidos de combustible que recibe por WhatsApp, correo o formulario web, los registra en Excel y verifica stock con plantillas diarias. Programa rutas, notifica al chofer, usa GPS para seguimiento y emite factura electrónica en 24–48 h. Sus mayores retos son cambios de dirección de última hora, tráfico y errores manuales; han implantado confirmaciones 24 h antes y capacitaciones. Le interesa FelTrack por su trazabilidad, GPS en tiempo real, firma digital, panel administrativo integrado y apps para choferes y administración, y acepta participar en un piloto.
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
     
 
 ---
@@ -245,7 +226,6 @@ Alfredo trabaja en logística, usa principalmente computadora y celular. Solicit
 | Utiliza WhatsApp para coordinar | 66%        | 2 de 3 lo usan como canal principal con el proveedor. |
 | Manejo de hojas Excel o Google | 100%       | Todos gestionan sus pedidos manualmente en planillas. |
 | Nivel medio de familiaridad digital | 100%       | Dominan software básico (Drive, correo, hojas de cálculo). |
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
 
 #### Características subjetivas:
 
@@ -268,7 +248,6 @@ Alfredo trabaja en logística, usa principalmente computadora y celular. Solicit
 | Utiliza laptop/PC y celular | 100%       | Equipamiento estándar en planta o administración. |
 | Nivel de digitalización medio | 66%        | 2 de 3 usan sistemas propios o ERPs básicos. |
 | Gestión mediante correo y llamadas | 100%       | El proceso actual es altamente manual. |
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
 
 #### Características subjetivas:
 
