@@ -41,8 +41,8 @@
       <td>Diego Vicente Seminario Castillo</td>
     </tr>
     <tr>
-      <td>Inserte código aquí</td>
-      <td>Inserte nombre aquí</td>
+      <td>César Augusto Navarro Correa</td>
+      <td>u202310129</td>
     </tr>
   </table>
 </div>
@@ -53,31 +53,7 @@
 
 | **Versión** | **Fecha**   | **Autor(es)**                         | **Descripción de Modificación**                |
 |-------------|-------------|---------------------------------------|-----------------------------------------------|
-| **1.0**     | 2025-04-08  | Espejo Gamarra, Bryan Ronald          | **Se incluyeron los siguientes capítulos:** Capítulo I. Introducción al proyecto y descripción general. |
-|             |             | Inserte nombre aquí                   | Inserte nombre aquí                           |
-|             |             | Inserte nombre aquí                   | Inserte nombre aquí                           |
-|             |             | Inserte nombre aquí                   | Inserte nombre aquí                           |
-|             |             | Inserte nombre aquí                   | Inserte nombre aquí                           |
-| **2.0**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo II. Análisis de la competencia y entrevistas. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-| **2.1**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo III. Especificación de los requisitos del producto. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-| **3.0**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo IV. Diseño del producto y la interfaz de usuario. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-| **4.0**     | Inserte aquí| Inserte nombre aquí                   | **Se incluyeron los siguientes capítulos:** Capítulo V. Implementación, validación y despliegue del producto. |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
-|             |             | Inserte nombre aquí                   | Inserte descripción de modificación aquí      |
+| **1.0**     | 2025-04-26  | G3 Khipu Lab     | Desarrollo de los primeros 5 capítulos del informe, así como una landing page y repositorio para los proyectos ya mencionados. |
 
 ---
 ## Project Report Collaboration Insights
@@ -92,10 +68,10 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 | **Integrante**      | **Usuario GitHub** | **Aportaciones destacadas**                     |
 |---------------------|--------------------|-------------------------------------------------|
 | Bryan Espejo        | @SaeBryxn          | Inicialización del repositorio y configuración inicial del proyecto. |
-| Manuel Sanchez      | @manuels7anchez    | Por colocar aporte |
-| Diego Seminario     | @DiegoSeminario    | Aportación destacada aquí.                     |
-| Inserte nombre aquí | @UsuarioGitHub     | Aportación destacada aquí.                     |
-| Inserte nombre aquí | @UsuarioGitHub     | Aportación destacada aquí.                     |
+| Manuel Sanchez      | @manuels7anchez    | Distribucion del trabajo y asignacion de tareas. Supervisión de los pull-requests. Corrección de commits y conflictos en merges. |
+| Diego Seminario     | @DiegoSeminario    | Creación del repositorio en Github. Creacion de rama chapter1|
+| Juan Diego Mondoñedo| @Jmondonedor       | Revisión de los commits. Verificación del historial de ramas. |
+| César Navarro       | @csr555-iu         | Comunicación en paralelo cuando varios miembros trabajaban en la misma rama. |
 
 ---
 
@@ -128,11 +104,9 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 
 | **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**  |
 |---|---|---|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Bryan Espejo**<br>TB1: Realizacion del Landing Page y estructura del chapter 5<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: se concluye la terminacion del landing page con exito.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
-|                                                              | **Manuel Sanchez**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Bryan Espejo**<br>TB1: Se colaboro en gurpo cumpliendo metas para poder hacer el landing<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
-|                                                              | **Inserte nombre aquí**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
-| **Desarrollo de habilidades técnicas y de gestión**          | **Inserte nombre aquí**<br>TB1: Escribe aquí lo que hiciste en esta fase.<br>TP: Escribe aquí lo que hiciste en esta fase.<br>TB2: Escribe aquí lo que hiciste en esta fase.<br>TF: Escribe aquí lo que hiciste en esta fase. | TB1: Escribe aquí la conclusión para TB1.<br>TP: Escribe aquí la conclusión para TP.<br>TF: Escribe aquí la conclusión para TF. |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Manuel Sanchez**<br>TB1: Revisión de los commits hechos a las ramas del repo. Revisión de los pull-requests a la rama develop. Coordinación de tareas. <br>**Diego Vicente Seminario Castillo**<br>TB1: Dividió el trabajo correctamente en cada sección del trabajo.<br>**Bryan Ronald Espejo Gamarra**<br>TB1: Coordinó las tareas relacionadas al desarrollo del Landing Page, liderando la organización del flujo de trabajo en GitHub, y asegurando la correcta implementación de convenciones de commits y ramas Gitflow.<br>**César Augusto Navarro Correa**<br>TB1: Participó en la revisión del informe y creación de los commits del repositorio principal.<br>**Juan Diego Mondoñedo**<br>TB1: Coordino las tareas relacionadas a la presentación y grabación de la exposición. | TB1: La comunicación constante entre los miembros fue crucial para evitar conflictos de avances y en nuestro repositorio. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Manuel Sanchez**<br>TB1: A través de reuniones logré que el equipo comunciara sus avances y los obstaculos que enfrentaban para apoyarse entre sí <br>**Diego Vicente Seminario Castillo**<br>TB1: Cumpli con el tema de entrevista y analisis, logrando que el equipo tenga una idea más clara de la problemática<br>**Bryan Ronald Espejo Gamarra**<br>TB1: Participó activamente en la planificación del Sprint 1, contribuyendo en la definición de User Stories, la asignación de Story Points y la identificación de prioridades de desarrollo.<br>**César Augusto Navarro Correa**<br>TB1: Realizó parte de la sección de las entrevistas y colaboró en las tareas relacionadas a lo User Personas y experiencia del usuario.<br>**Juan Diego Mondoñedo**<br>TB1: Participó activamente en las reuniones de planificación. Y apoyó en la realización de entrevistas. | Tuvimos complicaciones al coordinar tareas debido a que trabajamos en diferentes ritmos, pero logramos conluir en un determinado plazo anticipado. |
+>>>>>>> 8bda12cff0685200aa10dee2d863515f513db304
 
 ---
 
@@ -154,10 +128,10 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 | Foto                                          | Nombre completo | Código     | Carrera                | Habilidades técnicas y rol                  |
 |-----------------------------------------------|-----------------|------------|------------------------|---------------------------------------------|
 | ![Bryan Espejo](img/foto_bryan.png)           | Bryan Espejo    | u202213278 | Ingeniería de Software | Desarrollo Backend, Gestión de Base de Datos|
-| ![Inserte foto aquí](img/foto_manuel.jpg)     | Manuel Sanchez  | u201817507 | Ingeniería de Software | [Habilidades técnicas y rol]               |
-| ![Diego Seminario](img/diego.jpeg)            | Diego Seminario | u202412591 | Ingenieria de Software | [Habilidades técnicas y rol]               |
-| ![Cesar Navarro](img/foto_cesar.png) | César Navarro   | u202310129 | Ingenieria de Software | [Habilidades técnicas y rol]               |
-| ![Inserte foto aquí](img/foto_compañero4.jpg) | [Nombre Completo] | [Código]   | [Carrera]              | [Habilidades técnicas y rol]               |
+| ![Inserte foto aquí](img/foto_manuel.jpg)     | Manuel Sanchez  | u201817507 | Ingeniería de Software |  Desarrollo Fullstack: ASP.NetCORE MVC con Razor. Java básico. React.js |
+| ![Diego Seminario](img/diego.jpeg)            | Diego Seminario | u202412591 | Ingenieria de Software | Desarrollo Backend |
+| ![Cesar Navarro](img/foto_cesar.png) | César Navarro   | u202310129 | Ingenieria de Software | Desarrollo FullStack |
+| ![Juan Diego](img/foto_compañero4.jpg)        | Juan Diego Mondoñedo | u202110373   | Ingeniería de Software | Desarrollo Fullstack, Javascript, Node.js |
 
 ---
 
