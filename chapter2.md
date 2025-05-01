@@ -260,10 +260,6 @@ Grover sugiere como mejora que el sistema permita reprogramar fechas de carga si
 - Duración:6:35
 - Resumen:<br>
 Alfredo trabaja en logística, usa principalmente computadora y celular. Solicitan combustibles vía correos, mensajes o llamadas, sin un sistema propio. Verifican entregas con mediciones. Hay retrasos y entregas incompletas ocasionales. Reportan consumos mensualmente y resultados trimestralmente. La trazabilidad es importante para auditorías. Las validaciones las realiza el jefe de área y tesorería. Gestionan reprogramaciones por correo o llamadas. Usan medidores y un software para controlar consumos. Buscan automatizar procesos para mayor eficiencia.
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
-    
-
----
 
 #### Entrevistado N°4
 ![entrevista_segmento1](img/entrevista4.png) 
@@ -294,10 +290,6 @@ Alfredo trabaja en logística, usa principalmente computadora y celular. Solicit
 
 
 
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
-
----
-
 #### Entrevistado N°6
 
 ![entrevista_segmento1](img/entrevista6.png) 
@@ -311,59 +303,88 @@ Alfredo trabaja en logística, usa principalmente computadora y celular. Solicit
 - Duración:11:47
 - Resumen:<br>
   Angie, de 25 años y con un año en logística, gestiona pedidos de combustible que recibe por WhatsApp, correo o formulario web, los registra en Excel y verifica stock con plantillas diarias. Programa rutas, notifica al chofer, usa GPS para seguimiento y emite factura electrónica en 24–48 h. Sus mayores retos son cambios de dirección de última hora, tráfico y errores manuales; han implantado confirmaciones 24 h antes y capacitaciones. Le interesa FelTrack por su trazabilidad, GPS en tiempo real, firma digital, panel administrativo integrado y apps para choferes y administración, y acepta participar en un piloto.
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
     
-
 ---
 
-### 2.2.3. Análisis de entrevistas.
+<h3>2.2.3. Análisis de entrevistas</h3>
 
-#### <u>SEGMENTO 1: Empresas solicitantes de combustible</u>
+<h4><u>SEGMENTO 1: Empresas solicitantes de combustible</u></h4>
 
-#### Características objetivas:
+<h5>Características objetivas:</h5>
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Porcentaje</th>
+      <th>Observaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Edad entre 30 y 45 años</td><td>100%</td><td>Todos los entrevistados tienen entre 33 y 45 años.</td></tr>
+    <tr><td>Cargo relacionado a logística</td><td>100%</td><td>Los tres pertenecen a áreas de operaciones o logística.</td></tr>
+    <tr><td>Usa computadora y celular</td><td>100%</td><td>Todos usan laptop/PC y móvil para sus actividades.</td></tr>
+    <tr><td>Utiliza WhatsApp para coordinar</td><td>66%</td><td>2 de 3 lo usan como canal principal con el proveedor.</td></tr>
+    <tr><td>Manejo de hojas Excel o Google</td><td>100%</td><td>Todos gestionan sus pedidos manualmente en planillas.</td></tr>
+    <tr><td>Nivel medio de familiaridad digital</td><td>100%</td><td>Dominan software básico (Drive, correo, hojas de cálculo).</td></tr>
+  </tbody>
+</table>
 
-| Variable | Porcentaje | Observaciones |
-|----------|------------|---------------|
+<h5>Características subjetivas:</h5>
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Porcentaje</th>
+      <th>Observaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Necesita trazabilidad del pedido</td><td>100%</td><td>Todos demandan claridad en el estado y avance del pedido.</td></tr>
+    <tr><td>Frustración por depósitos no validados</td><td>66%</td><td>2 de 3 se quejan de retrasos debido a validación manual.</td></tr>
+    <tr><td>Deseo de un sistema unificado</td><td>100%</td><td>Los 3 expresaron querer centralizar todo el proceso.</td></tr>
+    <tr><td>Receptividad positiva a tecnología</td><td>100%</td><td>Todos están abiertos a soluciones digitales con buena UX.</td></tr>
+  </tbody>
+</table>
 
-| Edad entre 30 y 45 años | 0%         | Todos los entrevistados tienen entre 33 y 45 años. |
-| Cargo relacionado a logística | 100%       | Los tres pertenecen a áreas de operaciones o logística. |
-| Usa computadora y celular | 100%       | Todos usan laptop/PC y móvil para sus actividades. |
-| Utiliza WhatsApp para coordinar | 66%        | 2 de 3 lo usan como canal principal con el proveedor. |
-| Manejo de hojas Excel o Google | 100%       | Todos gestionan sus pedidos manualmente en planillas. |
-| Nivel medio de familiaridad digital | 100%       | Dominan software básico (Drive, correo, hojas de cálculo). |
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
+<hr>
 
-#### Características subjetivas:
+<h4><u>SEGMENTO 2: Proveedores de combustible</u></h4>
 
-| Variable | Porcentaje | Observaciones |
-|----------|------------|---------------|
-| Necesita trazabilidad del pedido | 100% | Todos demandan claridad en el estado y avance del pedido. |
-| Frustración por depósitos no validados | 66% | 2 de 3 se quejan de retrasos debido a validación manual. |
-| Deseo de un sistema unificado | 100% | Los 3 expresaron querer centralizar todo el proceso. |
-| Receptividad positiva a tecnología | 100% | Todos están abiertos a soluciones digitales con buena UX. |
+<h5>Características objetivas:</h5>
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Porcentaje</th>
+      <th>Observaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Edad entre 39 y 48 años</td><td>100%</td><td>Todos están en ese rango.</td></tr>
+    <tr><td>Cargo en operaciones/logística</td><td>100%</td><td>Incluye jefes de planta, despacho o ventas.</td></tr>
+    <tr><td>Utiliza laptop/PC y celular</td><td>100%</td><td>Equipamiento estándar en planta o administración.</td></tr>
+    <tr><td>Nivel de digitalización medio</td><td>66%</td><td>2 de 3 usan sistemas propios o ERPs básicos.</td></tr>
+    <tr><td>Gestión mediante correo y llamadas</td><td>100%</td><td>El proceso actual es altamente manual.</td></tr>
+  </tbody>
+</table>
 
-#### <u>SEGMENTO 2: Proveedores de combustible</u>
+<h5>Características subjetivas:</h5>
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Porcentaje</th>
+      <th>Observaciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Problemas con conciliación bancaria</td><td>100%</td><td>Todos mencionan validación lenta de pagos como cuello de botella.</td></tr>
+    <tr><td>Necesidad de validar stock antes de liberar</td><td>66%</td><td>2 de 3 destacaron esto como un punto crítico.</td></tr>
+    <tr><td>Dificultades en la asignación de vehículos</td><td>66%</td><td>Errores de programación y disponibilidad afectan la entrega.</td></tr>
+    <tr><td>Deseo de automatización de procesos</td><td>100%</td><td>Todos visualizan mejoras en eficiencia si se digitalizan etapas clave.</td></tr>
+  </tbody>
+</table>
 
-#### Características objetivas:
-
-| Variable | Porcentaje | Observaciones |
-|----------|------------|---------------|
-
-| Edad entre 39 y 48 años | 0%         | Todos en este rango. |
-| Cargo en operaciones/logística | 100%       | Incluye jefes de planta, despacho o ventas. |
-| Utiliza laptop/PC y celular | 100%       | Equipamiento estándar en planta o administración. |
-| Nivel de digitalización medio | 66%        | 2 de 3 usan sistemas propios o ERPs básicos. |
-| Gestión mediante correo y llamadas | 100%       | El proceso actual es altamente manual. |
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
-
-#### Características subjetivas:
-
-| Variable | Porcentaje | Observaciones |
-|----------|------------|---------------|
-| Problemas con conciliación bancaria | 100% | Todos mencionan validación lenta de pagos como cuello de botella. |
-| Necesidad de validar stock antes de liberar | 66% | 2 de 3 destacaron esto como un punto crítico. |
-| Dificultades en la asignación de vehículos | 66% | Errores de programación y disponibilidad afectan la entrega. |
-| Deseo de automatización de procesos | 100% | Todos visualizan mejoras en eficiencia si se digitalizan etapas clave. |
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
