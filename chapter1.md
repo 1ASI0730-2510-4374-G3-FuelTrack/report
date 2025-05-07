@@ -185,7 +185,9 @@ Luego de analizar la metodología utilizada actualmente en el mercado de combust
 
 En el contexto actual donde crece cada vez más la demanda por servicios logísticos ágiles e infalibles, es necesaria una plataforma que facilite y compacte el proceso de gestión de pedidos. Con esta, las empresas evitarán pérdidas operativas y se reducirán en gran medida las malas experiencias de los clientes.
 
-¿Cómo podríamos diseñar una solución digital que centralice y automatice la gestión de pedidos de combustible, integrando a proveedores y solicitantes en una misma plataforma, para reducir errores y aumentar la eficiencia operativa?
+El segmento inicial estará compuesto por proveedores medianos de combustible en Lima Metropolitana, quienes presentan mayor disposición al cambio digital y necesidades operativas complejas.
+
+
 
 ##### 1.2.2.2 Lean UX Assumptions
 
