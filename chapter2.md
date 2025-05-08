@@ -203,106 +203,131 @@ Para comprender mejor a nuestros segmentos objetivo, se han definido dos entrevi
 
 ---
 
-### 2.2.2. Registro de entrevistas.
+<h3>2.2.2. Registro de entrevistas</h3>
 
-#### Entrevista 1 – Segmento: Empresa Solicitante
-![entrevista_segmento1](img/entrevista1.png) 
-- Nombres: Carla
-- Apellidos: Apellido inventado
-- Edad: 28
-- Distrito: Lima
-- Acerca de la entrevista:<br>
-Inicio de la entrevista/termino de la entrevista:0:27 -3:00
-    
-- URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u202213278_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213278%5Fupc%5Fedu%5Fpe%2FDocuments%2F0418%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edca00e68%2Db3ae%2D4379%2D8fd6%2D1446064f9809
+<h4><u>Entrevista 1</u></h4>
 
-- Duración:3:10
-- Resumen:<br>
-- Carla, de 28 años y licenciada en Administración de Empresas, trabaja en Lima Metropolitana. 
-En su empresa, enfrenta desafíos con la falta de automatización en los procesos, como la gestión manual de pedidos de combustibles, 
-que se hacen por correo o WhatsApp. Esto provoca confusión, retrasos y pérdida de información. La verificación de entregas también se hace manualmente,<br>
-y monitorean el consumo con hojas de cálculo. Carla busca una plataforma que centralice los pedidos, permita seguimiento en tiempo real y automatice los reportes. Resaltó que mejorar estos procesos sería clave para su empresa.
-    
----
+<p><strong>Nombres:</strong> Carla<br>
+<strong>Apellidos:</strong> Espejo<br>
+<strong>Edad:</strong> 28<br>
+<strong>Distrito:</strong> Lima</p>
 
-#### Entrevistado N°2
-![entrevista_segmento1](img/entrevista2.png) 
-- Nombres: Grover 
-- Apellidos: Manosalva
-- Edad: … años
-- Distrito: Lima
-- Acerca de la entrevista:<br>
-Inicio de la entrevista/termino de la entrevista: 1:12-15:25
-    
-- URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u202310129_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310129%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%20grover%20manosalva%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E60eca17f%2D505e%2D45a6%2D8680%2D9f3463341fbd
-- Duración:15:43
-- Resumen:<br>\
-  Grover, de 28 años, trabaja en Cajamarca para una empresa extranjera del rubro de construcción y administración con operaciones en varias regiones del Perú. La compra de combustible se realiza directamente a Petroperú mediante la plataforma virtual de Osinergmin. El proceso inicia en el área de almacén, pasa por logística y se aprueba por la gerencia antes de generar la orden de compra, que se envía por correo o WhatsApp.
-El consumo se monitorea digitalmente con tablets que registran datos como horómetro, conductor y hora de abastecimiento. El área de equipos analiza esta información con fórmulas que alertan sobre consumos fuera del rango normal, lo cual ayuda a detectar posibles irregularidades.
-Grover sugiere como mejora que el sistema permita reprogramar fechas de carga sin necesidad de anular y generar nuevos pedidos. En su trabajo utiliza laptop, celular, teléfono corporativo y radios satelitales. Señaló que centralizar y flexibilizar estos procesos sería de gran ayuda para su empresa.
+<p><strong>Captura de la entrevista:</strong><br>
+<img src="img/entrevista1.png" alt="entrevista_segmento1" /></p>
 
->>>>>>> 0de8cf14de58275bf78182227dd709726ace3e1b
-    
+<p><strong>Inicio / Fin:</strong> 00:27 – 03:00<br>
+<strong>Duración:</strong> 3:10<br>
+<strong>URL de Entrevista:</strong> 
+<a href="https://upcedupe-my.sharepoint.com/personal/u202213278_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213278%5Fupc%5Fedu%5Fpe%2FDocuments%2F0418%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edca00e68%2Db3ae%2D4379%2D8fd6%2D1446064f9809" target="_blank">Ver video</a></p>
+
+<h5><strong>Resumen:</strong></h5>
+<p>Carla, de 28 años y licenciada en Administración de Empresas, trabaja en Lima Metropolitana. En su empresa, enfrenta desafíos con la falta de automatización en los procesos, como la gestión manual de pedidos de combustibles que se hacen por correo o WhatsApp. Esto provoca confusión, retrasos y pérdida de información. La verificación de entregas también se hace manualmente, y monitorean el consumo con hojas de cálculo. Carla busca una plataforma que centralice los pedidos, permita seguimiento en tiempo real y automatice los reportes. Resaltó que mejorar estos procesos sería clave para su empresa.</p>
 
 ---
 
-#### Entrevistado N°3
+<h4><u>Entrevista 2</u></h4>
 
-![entrevista_segmento1](img/entrevista3.png) 
-- Nombres: Alfredo
-- Apellidos: De Ure
-- Edad:25 años
-- Distrito: Lima
-- Acerca de la entrevista:<br>
-  Inicio de la entrevista/termino de la entrevista: 0:12-15:25
-- URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u202110373_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110373%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1307550381%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2f6a4453%2Db6c5%2D4961%2D8c5f%2D5dc0866d7117
+<p><strong>Nombres:</strong> Grover<br>
+<strong>Apellidos:</strong> Manosalva<br>
+<strong>Edad:</strong> 28<br>
+<strong>Distrito:</strong> Lima</p>
 
-- Duración:6:35
-- Resumen:<br>
-Alfredo trabaja en logística, usa principalmente computadora y celular. Solicitan combustibles vía correos, mensajes o llamadas, sin un sistema propio. Verifican entregas con mediciones. Hay retrasos y entregas incompletas ocasionales. Reportan consumos mensualmente y resultados trimestralmente. La trazabilidad es importante para auditorías. Las validaciones las realiza el jefe de área y tesorería. Gestionan reprogramaciones por correo o llamadas. Usan medidores y un software para controlar consumos. Buscan automatizar procesos para mayor eficiencia.
+<p><strong>Captura de la entrevista:</strong><br>
+<img src="img/entrevista2.png" alt="entrevista_segmento1" /></p>
 
-#### Entrevistado N°4
-![entrevista_segmento1](img/entrevista4.png) 
-- Nombres: Zahir 
-- Apellidos: Sanchez
-- Edad: 25 años
-- Distrito: Lima
-- Acerca de la entrevista:<br>
-  Inicio de la entrevista/termino de la entrevista: 0:14-5:28
-- URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u201817507_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201817507%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%202%20open%20source%2020%2D04%2D2025%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E44981c48%2Db1d6%2D4ac7%2D8afd%2D0bdb857ded18
-- Duración:5:35
-- Resumen:<br>
-  Zaid trabaja registrando pedidos en Petromax. Los pedidos llegan primero por correo y luego se ingresan manualmente en su sistema interno (RPY). Controlan la entrega verificando volúmenes en planta. Generan reportes diarios y mensuales de volúmenes y ventas. Validan el stock manualmente comunicándose con las plantas. Hacen seguimiento de pedidos por teléfono o WhatsApp. El principal problema es el riesgo de errores por el registro manual. La conciliación de pagos la maneja el área de cobranzas. Están dispuestos a integrar una plataforma que unifique y automatice todo el proceso para reducir errores.
+<p><strong>Inicio / Fin:</strong> 01:12 – 15:25<br>
+<strong>Duración:</strong> 15:43<br>
+<strong>URL de Entrevista:</strong> 
+<a href="https://upcedupe-my.sharepoint.com/personal/u202310129_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310129%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%20grover%20manosalva%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E60eca17f%2D505e%2D45a6%2D8680%2D9f3463341fbd" target="_blank">Ver video</a></p>
+
+<h5><strong>Resumen:</strong></h5>
+<p>Grover, de 28 años, trabaja en Cajamarca para una empresa extranjera del rubro de construcción y administración con operaciones en varias regiones del Perú. La compra de combustible se realiza directamente a Petroperú mediante la plataforma virtual de Osinergmin. El proceso inicia en el área de almacén, pasa por logística y se aprueba por la gerencia antes de generar la orden de compra, que se envía por correo o WhatsApp. El consumo se monitorea digitalmente con tablets que registran datos como horómetro, conductor y hora de abastecimiento. El área de equipos analiza esta información con fórmulas que alertan sobre consumos fuera del rango normal, lo cual ayuda a detectar posibles irregularidades. Grover sugiere como mejora que el sistema permita reprogramar fechas de carga sin necesidad de anular y generar nuevos pedidos. En su trabajo utiliza laptop, celular, teléfono corporativo y radios satelitales. Señaló que centralizar y flexibilizar estos procesos sería de gran ayuda para su empresa.</p>
+
+---
+<h4><u>Entrevista 3 </u></h4>
+
+<p><strong>Nombres:</strong> Alfredo<br>
+<strong>Apellidos:</strong> De Ure<br>
+<strong>Edad:</strong> 25 años<br>
+<strong>Distrito:</strong> Lima</p>
+
+<p><strong>Captura de la entrevista:</strong><br>
+<img src="img/entrevista3.png" alt="entrevista_segmento1" /></p>
+
+<p><strong>Inicio / Fin:</strong> 00:12 – 15:25<br>
+<strong>Duración:</strong> 6:35<br>
+<strong>URL de Entrevista:</strong> 
+<a href="https://upcedupe-my.sharepoint.com/personal/u202110373_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110373%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1307550381%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2f6a4453%2Db6c5%2D4961%2D8c5f%2D5dc0866d7117" target="_blank">Ver video</a></p>
+
+<h5><strong>Resumen:</strong></h5>
+<p>Alfredo trabaja en logística y utiliza principalmente computadora y celular. Su empresa solicita combustibles vía correos electrónicos, mensajes o llamadas, sin contar con un sistema digital propio. La verificación de entregas se hace mediante mediciones, aunque se presentan retrasos y entregas incompletas ocasionalmente. Los consumos se reportan de forma mensual y los resultados se compilan trimestralmente. La trazabilidad es un aspecto importante debido a requerimientos de auditoría.</p>
+
+<p>Las validaciones de pedidos son realizadas por el jefe de área y el área de tesorería. Las reprogramaciones se gestionan a través de correos o llamadas. Utilizan medidores y un software para el control de consumos. Actualmente buscan automatizar los procesos para lograr mayor eficiencia operativa.</p>
+
 ---
 
-#### Entrevistado N°5
-![entrevista_segmento1](img/entrevista5.png) 
-- Nombres: Patrick
-- Apellidos: Chira
-- Edad:25 años
-- Distrito: Piura
-- Acerca de la entrevista:<br>
-    
-- URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u202412591_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202412591%5Fupc%5Fedu%5Fpe%2FDocuments%2FV%C3%ADdeo%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E336e8a8d%2De640%2D4e6f%2Da835%2D40c4bc19e740&mode=View
-- Duración:13:14
-- Resumen:<br>
-  Patrick, de 25 años, trabaja hace 1 año en logística y maneja tecnología a nivel intermedio. Usa computadora, celular y tablet para gestionar pedidos de combustible de forma manual, recibiendo solicitudes por correo o WhatsApp, verificando stock en Excel y programando entregas. Emite guías físicas y factura en 24 a 48 horas. Utiliza Excel, Google Drive, WhatsApp Business, SUNAT/Clave Sol y Google Maps. Sus principales problemas son la falta de centralización, demoras y errores humanos. Necesita una plataforma que centralice pedidos, permita trazabilidad y agilice facturación y reportes.
+<h4><u>Entrevista 4 </u></h4>
 
+<p><strong>Nombres:</strong> Zahir<br>
+<strong>Apellidos:</strong> Sanchez<br>
+<strong>Edad:</strong> 25 años<br>
+<strong>Distrito:</strong> Lima</p>
 
+<p><strong>Captura de la entrevista:</strong><br>
+<img src="img/entrevista4.png" alt="entrevista_segmento1" /></p>
 
-#### Entrevistado N°6
+<p><strong>Inicio / Fin:</strong> 00:14 – 05:28<br>
+<strong>Duración:</strong> 5:35<br>
+<strong>URL de Entrevista:</strong> 
+<a href="https://upcedupe-my.sharepoint.com/personal/u201817507_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201817507%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%202%20open%20source%2020%2D04%2D2025%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E44981c48%2Db1d6%2D4ac7%2D8afd%2D0bdb857ded18" target="_blank">Ver video</a></p>
 
-![entrevista_segmento1](img/entrevista6.png) 
-- Nombres: Angie
-- Apellidos: Santos
-- Edad:25 años
-- Distrito: Piura
-- Acerca de la entrevista:<br>
-  Inicio de la entrevista/termino de la entrevista: 0:42-11:47
-- URL de Entrevista: https://upcedupe-my.sharepoint.com/personal/u202412591_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202412591%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D04%2D18%2023%2D46%2D00%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb96a0d14%2Dc362%2D40ee%2D81e3%2Df385320344a2
-- Duración:11:47
-- Resumen:<br>
-  Angie, de 25 años y con un año en logística, gestiona pedidos de combustible que recibe por WhatsApp, correo o formulario web, los registra en Excel y verifica stock con plantillas diarias. Programa rutas, notifica al chofer, usa GPS para seguimiento y emite factura electrónica en 24–48 h. Sus mayores retos son cambios de dirección de última hora, tráfico y errores manuales; han implantado confirmaciones 24 h antes y capacitaciones. Le interesa FelTrack por su trazabilidad, GPS en tiempo real, firma digital, panel administrativo integrado y apps para choferes y administración, y acepta participar en un piloto.
+<h5><strong>Resumen:</strong></h5>
+<p>Zahir trabaja registrando pedidos en Petromax. Los pedidos llegan primero por correo y luego se ingresan manualmente en su sistema interno (RPY). Controlan la entrega verificando volúmenes en planta y generan reportes diarios y mensuales de volúmenes y ventas. Validan el stock manualmente comunicándose con las plantas.</p>
+
+<p>El seguimiento de pedidos se realiza por teléfono o WhatsApp. El principal problema que identifica es el riesgo de errores debido al registro manual. La conciliación de pagos es manejada por el área de cobranzas. Zahir manifestó estar dispuesto a adoptar una plataforma que unifique y automatice todo el proceso para reducir errores y mejorar la eficiencia.</p>
+
+---
+
+<h4><u>Entrevista 5 </u></h4>
+
+<p><strong>Nombres:</strong> Patrick<br>
+<strong>Apellidos:</strong> Chira<br>
+<strong>Edad:</strong> 25 años<br>
+<strong>Distrito:</strong> Piura</p>
+
+<p><strong>Captura de la entrevista:</strong><br>
+<img src="img/entrevista5.png" alt="entrevista_segmento1" /></p>
+
+<p><strong>Duración:</strong> 13:14<br>
+<strong>URL de Entrevista:</strong> 
+<a href="https://upcedupe-my.sharepoint.com/personal/u202412591_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202412591%5Fupc%5Fedu%5Fpe%2FDocuments%2FV%C3%ADdeo%20sin%20t%C3%ADtulo%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E336e8a8d%2De640%2D4e6f%2Da835%2D40c4bc19e740&mode=View" target="_blank">Ver video</a></p>
+
+<h5><strong>Resumen:</strong></h5>
+<p>Patrick, de 25 años, trabaja desde hace un año en logística y maneja tecnología a nivel intermedio. Utiliza computadora, celular y tablet para gestionar pedidos de combustible de forma manual. Recibe solicitudes por correo o WhatsApp, verifica el stock en hojas de Excel y programa las entregas. Emite guías físicas y realiza la facturación en un plazo de 24 a 48 horas.</p>
+
+<p>Utiliza herramientas como Excel, Google Drive, WhatsApp Business, SUNAT/Clave Sol y Google Maps. Entre los principales problemas que enfrenta se encuentran la falta de centralización del proceso, las demoras en la atención y los errores humanos. Señala que necesita una plataforma que centralice los pedidos, permita trazabilidad y agilice tanto la facturación como los reportes.</p>
+
+---
+<h4><u>Entrevista 6 </u></h4>
+
+<p><strong>Nombres:</strong> Angie<br>
+<strong>Apellidos:</strong> Santos<br>
+<strong>Edad:</strong> 25 años<br>
+<strong>Distrito:</strong> Piura</p>
+
+<p><strong>Captura de la entrevista:</strong><br>
+<img src="img/entrevista6.png" alt="entrevista_segmento1" /></p>
+
+<p><strong>Inicio / Fin:</strong> 00:42 – 11:47<br>
+<strong>Duración:</strong> 11:47<br>
+<strong>URL de Entrevista:</strong> 
+<a href="https://upcedupe-my.sharepoint.com/personal/u202412591_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202412591%5Fupc%5Fedu%5Fpe%2FDocuments%2F2025%2D04%2D18%2023%2D46%2D00%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb96a0d14%2Dc362%2D40ee%2D81e3%2Df385320344a2" target="_blank">Ver video</a></p>
+
+<h5><strong>Resumen:</strong></h5>
+<p>Angie, de 25 años y con un año de experiencia en logística, gestiona pedidos de combustible que recibe por WhatsApp, correo electrónico o formulario web. Registra los pedidos en Excel, verifica el stock mediante plantillas diarias, programa las rutas y notifica a los conductores. Utiliza GPS para seguimiento y emite factura electrónica en un plazo de 24 a 48 horas.</p>
+
+<p>Entre los principales retos que enfrenta están los cambios de dirección de último minuto, el tráfico y los errores manuales. Para mitigar estos problemas, su empresa ha implementado confirmaciones 24 horas antes y sesiones de capacitación. Angie mostró interés en FuelTrack debido a su trazabilidad, geolocalización en tiempo real, firma digital, panel administrativo integrado y apps para choferes y administración. Incluso está dispuesta a participar en un piloto de la solución.</p>
+
     
 ---
 
