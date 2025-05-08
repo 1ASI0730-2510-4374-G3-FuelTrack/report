@@ -26,7 +26,7 @@ Wialon es una plataforma global de gestión de flotas que incluye funcionalidade
 
   <tr>
     <th rowspan="3">Perfil</th>
-    <td><strong>Overview</strong></td>
+    <td><strong>Visión general</strong></td>
     <td>Plataforma web que digitaliza y estructura el proceso completo de pedido de combustible entre empresas y proveedores.</td>
     <td>SaaS para la gestión de consumo de combustible de flotas, con enfoque en eficiencia, monitoreo y costos.</td>
     <td>Solución con hardware/software para el control físico del despacho de combustible.</td>
