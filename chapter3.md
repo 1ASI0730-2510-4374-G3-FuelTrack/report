@@ -5,6 +5,45 @@
 | **DOING** | Utiliza la plataforma centralizada FuelTracks, con historial de comunicación y notificaciones automáticas. | Completa un formulario estructurado directamente desde la web o app. | Revisa el panel de seguimiento con estado del pedido en tiempo real. | Recibe una confirmación automática con hora estimada y firma digital. |
 | **THINKING** | "Puedo revisar todos mis pedidos desde un solo lugar." | "Todo quedó registrado sin ningún error." | "Puedo ver exactamente en qué etapa está mi pedido y cuanto falta para que pueda recibirlo." | "Recibí el pedido tal como estaba programado."|
 | **FEELING** | Tranquilidad, control. | Confianza, seguridad. | Calma, claridad. | Satisfacción, alivio.|
+<h3>3.1 To-Be Scenario Mapping</h3>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>FASES</th>
+      <th>Comunicación</th>
+      <th>Solicitar pedido</th>
+      <th>Seguimiento</th>
+      <th>Entrega</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>DOING</strong></td>
+      <td>Utiliza la plataforma centralizada FuelTracks, con historial de comunicación y notificaciones automáticas.</td>
+      <td>Completa un formulario estructurado directamente desde la web o app.</td>
+      <td>Revisa el panel de seguimiento con estado del pedido en tiempo real.</td>
+      <td>Recibe una confirmación automática con hora estimada y firma digital.</td>
+    </tr>
+    <tr>
+      <td><strong>THINKING</strong></td>
+      <td>"Puedo revisar todos mis pedidos desde un solo lugar."</td>
+      <td>"Todo quedó registrado sin ningún error."</td>
+      <td>"Puedo ver exactamente en qué etapa está mi pedido y cuánto falta para que pueda recibirlo."</td>
+      <td>"Recibí el pedido tal como estaba programado."</td>
+    </tr>
+    <tr>
+      <td><strong>FEELING</strong></td>
+      <td>Tranquilidad, control.</td>
+      <td>Confianza, seguridad.</td>
+      <td>Calma, claridad.</td>
+      <td>Satisfacción, alivio.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
 
 ## 3.2 User Stories
 | Epic/User Story ID | Título | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
