@@ -80,189 +80,280 @@ Gestor de paquetes:
 - `feature/*`: Desarrollo de nuevas funcionalidades sobre `develop`.
 - Pull Requests realizados desde `feature/*` hacia `develop`, y de `develop` hacia `main` al completar un ciclo.
 
-# 5.2. Landing Page, Services & Applications Implementation
+<h2>5.2. Landing Page, Services & Applications Implementation</h2>
 
-## 5.2.1. Sprint 1
+<h3>5.2.1. Sprint 1</h3>
 
-### 5.2.1.1. Sprint Planning 1
+<h4>5.2.1.1. Sprint Planning 1</h4>
 
-| **Sprint #** | Sprint 1 |
-|:-------------|:---------|
-| **Sprint Planning Background** | |
-| **Date** | 2025-04-26 |
-| **Time** | 6:00 PM |
-| **Location** | Google Meet |
-| **Prepared By** | Manuel Angel Sanchez Arenas |
-| **Attendees (to planning meeting)** | Bryan Ronald Espejo Gamarra, Manuel Angel Sanchez Arenas, Juan Diego Javier Mondoñedo Rodriguez, Diego Vicente Seminario Castillo |
-| **Sprint 0 Review Summary** | No hubo Sprint 0 previo. |
-| **Sprint 0 Retrospective Summary** | No hubo Sprint 0 previo. |
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr><th><strong>Sprint #</strong></th><td>Sprint 1</td></tr>
+  <tr><th><strong>Resumen del Sprint Planning</strong></th><td></td></tr>
+  <tr><th><strong>Fecha</strong></th><td>2025-04-26</td></tr>
+  <tr><th><strong>Hora</strong></th><td>6:00 PM</td></tr>
+  <tr><th><strong>Ubicación</strong></th><td>Google Meet</td></tr>
+  <tr><th><strong>Preparado por</strong></th><td>Manuel Angel Sanchez Arenas</td></tr>
+  <tr><th><strong>Asistentes a la reunión de planificación</strong></th>
+    <td>
+      Bryan Ronald Espejo Gamarra,<br>
+      Manuel Angel Sanchez Arenas,<br>
+      Juan Diego Javier Mondoñedo Rodriguez,<br>
+      Diego Vicente Seminario Castillo
+    </td>
+  </tr>
+  <tr><th><strong>Resumen del Sprint 0 (Revisión)</strong></th><td>No hubo Sprint 0 previo.</td></tr>
+  <tr><th><strong>Resumen del Sprint 0 (Retrospectiva)</strong></th><td>No hubo Sprint 0 previo.</td></tr>
+</table>
+
+<hr>
+
+<h4>Objetivo del Sprint y User Stories</h4>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th><strong>Ítem</strong></th>
+    <th><strong>Descripción</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Objetivo del Sprint 1</strong></td>
+    <td>
+      Nuestro enfoque está en implementar la versión inicial de la Landing Page de FuelTrack.<br>
+      Creemos que entrega una primera aproximación completa de la plataforma a los clientes.<br>
+      Esto se confirmará cuando la Landing Page esté desplegada en vivo en GitHub Pages y accesible desde cualquier dispositivo.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Velocidad del Sprint 1</strong></td>
+    <td>16 Story Points</td>
+  </tr>
+  <tr>
+    <td><strong>Suma de Story Points</strong></td>
+    <td>16</td>
+  </tr>
+</table>
 
 ---
 
-**Sprint Goal & User Stories**
+<h4>5.2.1.2. Líderes y Colaboradores por Áreas</h4>
 
-| Item | Description |
-|:-----|:------------|
-| **Sprint 1 Goal** | Our focus is on implementing the FuelTrack Landing Page initial version.<br>We believe it delivers a complete first approach of the platform to customers.<br>This will be confirmed when the Landing Page is deployed live on GitHub Pages and accessible from any device. |
-| **Sprint 1 Velocity** | 16 Story Points |
-| **Sum of Story Points** | 16 |
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Miembro del equipo (Apellido, Nombre)</th>
+      <th>Usuario de GitHub</th>
+      <th>Landing Page (L/C)</th>
+      <th>Login y Autenticación (L/C)</th>
+      <th>Documentación (L/C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Espejo Gamarra, Bryan Ronald</td>
+      <td>SaeBryxn</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Sanchez Arenas, Manuel Angel</td>
+      <td>manuels7a</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Mondoñedo Rodriguez, Juan Diego Javier</td>
+      <td>Jmondonedor</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Seminario Castillo, Diego Vicente</td>
+      <td>DiegoSeminario</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Navarro Correa, César Augusto</td>
+      <td>csr555-ui</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
 
----
-
-### 5.2.1.2. Aspect Leaders and Collaborators
-
-| Team Member (Last Name, First Name) | GitHub Username | Landing Page (L/C) | Login & Authentication (L/C) | Documentation (L/C) |
-|:------------------------------------|:----------------|:-------------------|:-----------------------------|:--------------------|
-| Espejo Gamarra, Bryan Ronald | SaeBryxn | L | C | C |
-| Sanchez Arenas, Manuel Angel | manuels7a | C | L | C |
-| Mondoñedo Rodriguez, Juan Diego Javier | Jmondonedor | C | C | L |
-| Seminario Castillo, Diego Vicente | DiegoSeminario | C | C | C |
-| Navarro Correa, César Augusto | csr555-ui | C | C | C |
 
 ### 5.2.1.3. Sprint Backlog 1
 **Sprint Objective:**
 Implementar funcionalidades básicas para el registro, gestión de pedidos y autenticación de usuarios en FuelTrack.
 
 
-**Sprint Backlog Table:**
+<h4>Tabla de Sprint Backlog</h4>
 
-| User Story | Work-Item / Task | Description | Estimation (Hours) | Assigned To | Status |
-|:----------|:-----------------|:------------|:-------------------|:------------|:-------|
-| US01 | Implement Create New Order Page | Crear la interfaz de formulario para registrar nuevos pedidos de combustible | 6 | Bryan Ronald Espejo Gamarra | In-Process |
-| US02 | Develop Order History Page | Crear pantalla donde se pueda consultar historial de pedidos con filtros | 5 | Manuel Angel Sanchez Arenas | In-Process |
-| US03 | Add Edit Order Functionality | Permitir edición/cancelación de pedidos antes de ser confirmados | 5 | Juan Diego Javier Mondoñedo Rodriguez | In-Process |
-| US04 | Create Order Confirmation Panel (Provider) | Vista donde proveedores confirmen o rechacen pedidos recibidos | 4 | Diego Vicente Seminario Castillo | In-Process |
-| US05 | Enable Order Status Update | Permitir actualizar el estado de pedidos en panel del proveedor | 4 | Bryan Ronald Espejo Gamarra | In-Process |
-| US06 | Configure Client Notifications | Implementar envío de notificaciones al cliente en cambios de pedidos | 3 | Manuel Angel Sanchez Arenas | In-Process |
-| US08 | Implement Login Page | Construir vista de inicio de sesión para usuarios | 4 | Juan Diego Javier Mondoñedo Rodriguez | In-Process |
-| US09 | Develop User Registration Page | Implementar registro de cuenta (cliente o proveedor) con validaciones | 5 | Diego Vicente Seminario Castillo | In-Process |
-| US10 | Add Password Recovery Functionality | Crear flujo de recuperación de contraseña vía correo electrónico | 3 | Bryan Ronald Espejo Gamarra | In-Process |
-| US11 | Apply Role-Based Access Control | Asegurar restricciones de acceso según el rol de usuario | 3 | Manuel Angel Sanchez Arenas | In-Process |
-| US12 | Setup MFA Authentication for Orders | Añadir autenticación de segundo factor en el envío de pedidos | 6 | Juan Diego Javier Mondoñedo Rodriguez | In-Process |
-
-### 5.2.1.4. Development Evidence for Sprint Review
-
-**Summary:**
-During this Sprint, the team successfully implemented and deployed the initial version of the FuelTrack Landing Page. The commits related to these advancements are listed below.
-
-**Commits Table:**
-
-### 5.2.X.X Commits Table
-
-| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
-|:-----------|:-------|:-----------|:---------------|:--------------------|:--------------------|
-| 1ASI0730-2510-4374-G3-FuelTrack | main | 4024b94 | Initial commit | - | 09/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | develop | 4024b94 | Initial commit | - | 09/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 4024b94 | Initial commit | - | 09/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 4024b94 | docs: add initial version of chapter1.md | - | 09/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 521cd4f | docs: add initial version of chapter1.md | - | 09/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | develop | e1767e7 | Merge pull request #1 from feature/chapter1-introduction | - | 09/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | develop | 15dd9e2 | Merge pull request #2 from feature/chapter1-introduction | - | 09/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | c96c7bf | docs: update introduction with project description and team member profiles | - | 10/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 1edda67 | feat(assets): add company logo to the report | - | 10/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | f3d3494 | Update chapter1.md | Added Lean UX Problem Statement | 12/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 565cf3e | Update chapter1.md | Added Lean UX Assumptions | 12/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 6782a2d | Update chapter1.md | Added Lean UX Hypothesis statements | 12/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | b2b4e93 | Update chapter1.md | Added Lean UX Hypothesis statements | 13/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | b64269b | chapter1 - profile and personal data | - | 13/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 6aaeb8d | update - added chapter 2 (competitors/competitive analysis/strategies and tactics against competitors/interview design) | - | 13/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter1-introduction | 5850634 | docs: refine Lean UX Process with clearer structure and aligned template | - | 15/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter2-Requirements-Elicitation-&-Analysis | 38aee6c | 3.1 To-Be Scenario | Added To-Be Scenario | 18/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter2-Requirements-Elicitation-&-Analysis | 1e1693f | 3.2 User stories | Added section 3.2, with 3 Epics and 12 User Stories. | 18/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter3-Requirements-Specifications | b2fcfde | docs: Add Impact Map image | - | 20/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter3-Requirements-Specifications | 32e7c56 | docs: Update chapter3 Add Impact Map/Product Backlog.md | - | 20/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter3-Requirements-Specifications | 75af16d | add: interviews | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 146b38c | docs: Create chapter4.md | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | ac37eb8 | docs: Create chapter5.md | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 6cc5367 | docs: created asset directory and added database.erd | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | b8859e6 | docs: add Style Guidelines for landing page and branding | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 3e1fe98 | docs: add Information Architecture and navigation systems | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 4bd79dd | docs: add initial structure for Landing Page UI Design | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | a15affe | docs: add initial structure for Web Applications UX/UI Design | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | c2c2a26 | docs: add initial structure for Web Applications Prototyping | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 89a0dcb | docs: add Domain-Driven Software Architecture and C4 diagrams | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 145e64b | docs: add structure for Software Object-Oriented Design | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | 09d785c | docs: add Database Design and relational diagram | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter4-Product-design | dd94d03 | docs: added section 4.2.2 | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | c2169d0 | feat(docs): add full Chapter 5 structure (Software Configuration Management and Implementation) | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | 153ae34 | feat(docs): add Sprint Backlog 1 with assigned tasks | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | a1532b8 | feat(docs): update software configuration and development environment description | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | 1d5d90c | feat(docs): add Execution Evidence with Landing Page screenshots | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | 0c8998d | feat(docs): add Sprint Planning 1 and Aspect Leaders table | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | 693b39e | fix(docs): complete Aspect Leaders and Collaborators table with GitHub usernames | - | 26/04/2025 |
-| 1ASI0730-2510-4374-G3-FuelTrack | feature/chapter5-Product-Implementation-&-Deployment | a523d83 | fix(docs): minor corrections and cleanup | - | 26/04/2025 |
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Historia de Usuario</th>
+      <th>Elemento de trabajo / Tarea</th>
+      <th>Descripción</th>
+      <th>Estimación (Horas)</th>
+      <th>Asignado a</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US13</td>
+      <td>Implementar visualización del Landing Page</td>
+      <td>Mostrar una landing page informativa para que los interesados conozcan la plataforma antes de registrarse.</td>
+      <td>5</td>
+      <td>Bryan Ronald Espejo Gamarra</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+      <td>EP04</td>
+      <td>Landing Page informativa y funcional</td>
+      <td>Landing page con secciones informativas, beneficios, segmentos y botones que dirigen a login o registro.</td>
+      <td>6</td>
+      <td>Manuel Angel Sanchez Arenas</td>
+      <td>Finalizado</td>
+    </tr>
+  </tbody>
+</table>
 
 
+<h4>5.2.1.4. Development Evidence for Sprint Review</h4>
 
+<p><strong>Resumen:</strong><br>
+Durante este Sprint, el equipo implementó y desplegó con éxito la versión inicial de la Landing Page de FuelTrack. Los commits relacionados con estos avances se detallan a continuación.
+</p>
 
----
+<h4>5.2.1.5. Tabla de Commits</h4>
 
-### 5.2.1.5. Execution Evidence for Sprint Review
+<p><strong>Resumen:</strong> Esta tabla lista los commits realizados durante los primeros sprints de desarrollo, incluyendo el trabajo en la Landing Page, documentación y configuración del proyecto.</p>
 
-**Summary:**
-The main features of the FuelTrack Landing Page were developed and deployed successfully. Below are screenshots of the implemented sections.
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+<tbody>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>main</td><td>4024b94</td><td>Initial commit</td><td>-</td><td>09/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>develop</td><td>4024b94</td><td>Initial commit</td><td>-</td><td>09/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>4024b94</td><td>Initial commit</td><td>-</td><td>09/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>4024b94</td><td>docs: add initial version of chapter1.md</td><td>-</td><td>09/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>521cd4f</td><td>docs: add initial version of chapter1.md</td><td>-</td><td>09/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>develop</td><td>e1767e7</td><td>Merge pull request #1 from feature/chapter1-introduction</td><td>-</td><td>09/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>develop</td><td>15dd9e2</td><td>Merge pull request #2 from feature/chapter1-introduction</td><td>-</td><td>09/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>c96c7bf</td><td>docs: update introduction with project description and team member profiles</td><td>-</td><td>10/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>1edda67</td><td>feat(assets): add company logo to the report</td><td>-</td><td>10/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>f3d3494</td><td>Update chapter1.md</td><td>Added Lean UX Problem Statement</td><td>12/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>565cf3e</td><td>Update chapter1.md</td><td>Added Lean UX Assumptions</td><td>12/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>6782a2d</td><td>Update chapter1.md</td><td>Added Lean UX Hypothesis statements</td><td>12/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>b2b4e93</td><td>Update chapter1.md</td><td>Added Lean UX Hypothesis statements</td><td>13/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>b64269b</td><td>chapter1 - profile and personal data</td><td>-</td><td>13/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>6aaeb8d</td><td>update - added chapter 2 (competitors/competitive analysis/strategies and tactics against competitors/interview design)</td><td>-</td><td>13/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter1-introduction</td><td>5850634</td><td>docs: refine Lean UX Process with clearer structure and aligned template</td><td>-</td><td>15/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter2-Requirements-Elicitation-&-Analysis</td><td>38aee6c</td><td>3.1 To-Be Scenario</td><td>Added To-Be Scenario</td><td>18/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter2-Requirements-Elicitation-&-Analysis</td><td>1e1693f</td><td>3.2 User stories</td><td>Added section 3.2, with 3 Epics and 12 User Stories.</td><td>18/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter3-Requirements-Specifications</td><td>b2fcfde</td><td>docs: Add Impact Map image</td><td>-</td><td>20/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter3-Requirements-Specifications</td><td>32e7c56</td><td>docs: Update chapter3 Add Impact Map/Product Backlog.md</td><td>-</td><td>20/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter3-Requirements-Specifications</td><td>75af16d</td><td>add: interviews</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>146b38c</td><td>docs: Create chapter4.md</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>ac37eb8</td><td>docs: Create chapter5.md</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>6cc5367</td><td>docs: created asset directory and added database.erd</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>b8859e6</td><td>docs: add Style Guidelines for landing page and branding</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>3e1fe98</td><td>docs: add Information Architecture and navigation systems</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>4bd79dd</td><td>docs: add initial structure for Landing Page UI Design</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>a15affe</td><td>docs: add initial structure for Web Applications UX/UI Design</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>c2c2a26</td><td>docs: add initial structure for Web Applications Prototyping</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>89a0dcb</td><td>docs: add Domain-Driven Software Architecture and C4 diagrams</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>145e64b</td><td>docs: add structure for Software Object-Oriented Design</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>09d785c</td><td>docs: add Database Design and relational diagram</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter4-Product-design</td><td>dd94d03</td><td>docs: added section 4.2.2</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter5-Product-Implementation-&-Deployment</td><td>c2169d0</td><td>feat(docs): add full Chapter 5 structure (Software Configuration Management and Implementation)</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter5-Product-Implementation-&-Deployment</td><td>153ae34</td><td>feat(docs): add Sprint Backlog 1 with assigned tasks</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter5-Product-Implementation-&-Deployment</td><td>a1532b8</td><td>feat(docs): update software configuration and development environment description</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter5-Product-Implementation-&-Deployment</td><td>1d5d90c</td><td>feat(docs): add Execution Evidence with Landing Page screenshots</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter5-Product-Implementation-&-Deployment</td><td>0c8998d</td><td>feat(docs): add Sprint Planning 1 and Aspect Leaders table</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter5-Product-Implementation-&-Deployment</td><td>693b39e</td><td>fix(docs): complete Aspect Leaders and Collaborators table with GitHub usernames</td><td>-</td><td>26/04/2025</td></tr>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack</td><td>feature/chapter5-Product-Implementation-&-Deployment</td><td>a523d83</td><td>fix(docs): minor corrections and cleanup</td><td>-</td><td>26/04/2025</td></tr>
+</tbody>
 
-**Screenshots Evidence:**
-
-- **Hero Section**  
-  ![Hero Section](./img/HeroSection.png)
-
-- **Features Section 1**  
-  ![Features Section 1](./img/FeaturesSection1.png)
-
-- **Features Section 2**  
-  ![Features Section 2](./img/FeaturesSection2.png)
-
-- **Welcome Section**  
-  ![Welcome Section](./img/WelcomeSection.png)
-
-- **Pricing Section**  
-  ![Pricing Section](./img/PricingSection.png)
-
-- **Testimonial Section**  
-  ![Testimonial Section](./img/TestimonioSection.png)
-
-- **Contact Section**  
-  ![Contact Section](./img/ContactSection.png)
-
-**Live Demo Link:**
-- [FuelTrack Landing Page](https://saebryxn.github.io/LandigPageFuelTrack/)
+</table>
 
 ---
 
-### 5.2.1.6. Services Documentation Evidence for Sprint Review
+<h3>5.2.1.5. Execution Evidence for Sprint Review</h3>
 
+<p><strong>Resumen:</strong><br>
+Las principales secciones de la Landing Page de FuelTrack fueron desarrolladas y desplegadas exitosamente. A continuación se presentan capturas de pantalla de las secciones implementadas.</p>
 
+<h5>Evidencia de Capturas:</h5>
+<ul>
+  <li><strong>Hero Section</strong><br><img src="./img/HeroSection.png" alt="Hero Section"></li>
+  <li><strong>Features Section 1</strong><br><img src="./img/FeaturesSection1.png" alt="Features Section 1"></li>
+  <li><strong>Features Section 2</strong><br><img src="./img/FeaturesSection2.png" alt="Features Section 2"></li>
+  <li><strong>Welcome Section</strong><br><img src="./img/WelcomeSection.png" alt="Welcome Section"></li>
+  <li><strong>Pricing Section</strong><br><img src="./img/PricingSection.png" alt="Pricing Section"></li>
+  <li><strong>Testimonial Section</strong><br><img src="./img/TestimonioSection.png" alt="Testimonial Section"></li>
+  <li><strong>Contact Section</strong><br><img src="./img/ContactSection.png" alt="Contact Section"></li>
+</ul>
 
----
+<p><strong>Enlace a Demo en Vivo:</strong><br>
+<a href="https://saebryxn.github.io/LandigPageFuelTrack/" target="_blank">FuelTrack Landing Page</a></p>
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review
+<hr>
 
-**Summary:**
-The initial deployment of the FuelTrack Landing Page was completed using GitHub Pages.
+<h4>5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
 
-**Deployment Details:**
-- **Landing Page URL:** [https://saebryxn.github.io/LandigPageFuelTrack/](https://saebryxn.github.io/LandigPageFuelTrack/)
-- **Repository URL:** [https://github.com/SaeBryxn/LandigPageFuelTrack](https://github.com/SaeBryxn/LandigPageFuelTrack)
+<!-- Puedes agregar contenido adicional aquí -->
 
-**Deployment Activities:**
-- Configured GitHub repository with GitHub Pages hosting.
-- Built and pushed static site generated with Vite (Vue 3) to `gh-pages`.
+<hr>
 
----
+<h3>5.2.1.7. Software Deployment Evidence for Sprint Review</h3>
 
-### 5.2.1.8. Team Collaboration Insights during Sprint
+<p><strong>Resumen:</strong><br>
+El despliegue inicial de la Landing Page de FuelTrack fue realizado exitosamente utilizando GitHub Pages.</p>
 
-**Summary:**
-The team collaborated via GitHub and WhatsApp during this Sprint. The main activities focused on the development and deployment of the Landing Page.
+<h5>Detalles del Despliegue:</h5>
+<ul>
+  <li><strong>URL de la Landing Page:</strong> <a href="https://saebryxn.github.io/LandigPageFuelTrack/" target="_blank">https://saebryxn.github.io/LandigPageFuelTrack/</a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/SaeBryxn/LandigPageFuelTrack" target="_blank">https://github.com/SaeBryxn/LandigPageFuelTrack</a></li>
+</ul>
 
-**Collaboration Evidence:**
-- Screenshot of GitHub commits showing contribution by team members.
-- WhatsApp conversations coordinating Landing Page sections and design adjustments.
+<h5>Actividades de Despliegue:</h5>
+<ul>
+  <li>Configuración del repositorio con GitHub Pages.</li>
+  <li>Construcción y despliegue del sitio estático generado con Vite (Vue 3) a la rama <code>gh-pages</code>.</li>
+</ul>
 
-**Main Communication Tools:**
-- GitHub (code versioning and issues)
-- WhatsApp (daily communication and quick clarifications)
-- Google Meet (sprint planning meetings)
+<hr>
 
----
+<h3>5.2.1.8. Team Collaboration Insights during Sprint</h3>
+
+<p><strong>Resumen:</strong><br>
+El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue de la Landing Page.</p>
+
+<h5>Evidencia de Colaboración:</h5>
+<ul>
+  <li>Captura de pantalla de commits en GitHub mostrando contribuciones del equipo.</li>
+  <li>Conversaciones de WhatsApp sobre coordinación de secciones y ajustes de diseño.</li>
+</ul>
+
+<h5>Principales Herramientas de Comunicación:</h5>
+<ul>
+  <li>GitHub (control de versiones y manejo de issues)</li>
+  <li>WhatsApp (comunicación diaria y aclaraciones rápidas)</li>
+  <li>Google Meet (reuniones de planificación de sprint)</li>
+</ul>
+
