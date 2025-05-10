@@ -310,7 +310,7 @@ Las principales secciones de la Landing Page de FuelTrack fueron desarrolladas y
 </ul>
 
 <p><strong>Enlace a Demo en Vivo:</strong><br>
-<a href="https://saebryxn.github.io/LandigPageFuelTrack/" target="_blank">FuelTrack Landing Page</a></p>
+<a href="https://1asi0730-2510-4374-g3-fueltrack.github.io/Landing-page/" target="_blank">FuelTrack Landing Page</a></p>
 
 <hr>
 
@@ -327,8 +327,8 @@ El despliegue inicial de la Landing Page de FuelTrack fue realizado exitosamente
 
 <h5>Detalles del Despliegue:</h5>
 <ul>
-  <li><strong>URL de la Landing Page:</strong> <a href="https://saebryxn.github.io/LandigPageFuelTrack/" target="_blank">https://saebryxn.github.io/LandigPageFuelTrack/</a></li>
-  <li><strong>Repositorio:</strong> <a href="https://github.com/SaeBryxn/LandigPageFuelTrack" target="_blank">https://github.com/SaeBryxn/LandigPageFuelTrack</a></li>
+  <li><strong>URL de la Landing Page:</strong> <a href="https://1asi0730-2510-4374-g3-fueltrack.github.io/Landing-page/" target="_blank">https://1asi0730-2510-4374-g3-fueltrack.github.io/Landing-page/</a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0730-2510-4374-G3-FuelTrack/Landing-page" target="_blank">https://github.com/1ASI0730-2510-4374-G3-FuelTrack/Landing-page</a></li>
 </ul>
 
 <h5>Actividades de Despliegue:</h5>
