@@ -392,7 +392,7 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
     <th><strong>Descripción</strong></th>
   </tr>
   <tr>
-    <td><strong>Objetivo del Sprint 1</strong></td>
+    <td><strong>Objetivo del Sprint 2</strong></td>
     <td>
       Nuestro enfoque está en implementar la versión inicial del Frontend de la pagina web de FuelTrack.<br>
       Creemos que esto será un aproximado de como los usuarios van a interactuar y a utilizar la plataforma.<br>
@@ -400,7 +400,7 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
     </td>
   </tr>
   <tr>
-    <td><strong>Velocidad del Sprint 1</strong></td>
+    <td><strong>Velocidad del Sprint 2</strong></td>
     <td> 46 Story Points</td>
   </tr>
   <tr>
