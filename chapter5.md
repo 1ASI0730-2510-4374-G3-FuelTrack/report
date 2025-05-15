@@ -2,26 +2,31 @@
 
 ## 5.1.1. Software Development Environment Configuration
 
-**Project Management:**
-- **WhatsApp**: Aplicación de mensajería instantánea propiedad de Meta, utilizada para coordinar tareas del equipo y facilitar el intercambio de ideas y apoyo continuo durante el desarrollo del proyecto.
-- **Google Meet**: Herramienta de videoconferencias de Google, usada para mantener reuniones virtuales, planificación de tareas y comunicación directa.
-- **Google Drive**: Servicio de almacenamiento en la nube para compartir archivos relevantes y documentación del proyecto entre los miembros del equipo.
+## 🛠️ Herramientas Utilizadas
 
-**Requirements Management:**
-- **UXPressia**: Utilizada para la creación de User Personas, User Journey Maps e Impact Maps, mejorando la comprensión de las necesidades del usuario.
-- **Zoom**: Empleada para la realización de entrevistas de necesidad y validación de usuarios potenciales.
+### Project Management
+- **WhatsApp**: Aplicación de mensajería instantánea de Meta, utilizada para coordinar tareas, compartir ideas y brindar soporte continuo durante el desarrollo del proyecto.
+- **Google Meet**: Plataforma de videoconferencias empleada para reuniones virtuales, planificación colaborativa y comunicación directa entre los miembros del equipo.
+- **Google Drive**: Servicio de almacenamiento en la nube que permite compartir documentos, archivos clave y recursos del proyecto de forma organizada.
 
-**Product UX/UI Design:**
-- **Figma**: Plataforma colaborativa para el diseño de wireframes, wireflows, mockups y prototipos interactivos.
+### Requirements Management
+- **UXPressia**: Herramienta especializada en la creación de User Personas, User Journey Maps e Impact Maps, que facilita una mejor comprensión de las necesidades y expectativas de los usuarios.
+- **Zoom**: Utilizada para realizar entrevistas de exploración y validación con usuarios potenciales, recopilando información valiosa para definir requerimientos.
 
-**Software Development:**
-- **Vertabelo**: Herramienta para el diseño del modelo de base de datos, asegurando una estructura visual clara de entidades y relaciones.
-- **Google Chrome**: Navegador utilizado para realizar pruebas de compatibilidad y funcionalidad de la Landing Page y Web Application.
-- **Visual Studio Code**: Editor de código para programar en JavaScript, Vue.js, y gestionar el control de versiones mediante GitHub.
+### Product UX/UI Design
+- **Figma**: Plataforma colaborativa para el diseño de interfaces, wireframes, wireflows, mockups y prototipos interactivos, promoviendo una visión compartida del producto final.
 
-**Software Documentation:**
-- **Google Docs**: Documentos colaborativos para registrar decisiones, avances y acuerdos del proyecto.
-- **Structurizr**: Herramienta para diseñar diagramas C4, representando arquitecturas de software a distintos niveles de abstracción.
+### Software Deployment
+- **GitHub**: Plataforma de control de versiones basada en Git, utilizada para alojar el repositorio del proyecto, gestionar ramas de desarrollo, automatizar despliegues y realizar seguimiento de issues.
+
+### Software Development
+- **JetBrains WebStorm** (o IntelliJ IDEA, según el stack): Entorno de desarrollo integrado empleado para programar y mantener todo el código del proyecto, incluyendo frontend, backend y lógica de negocio, con integración a GitHub para control de versiones.
+- **Vertabelo**: Herramienta para modelado visual de bases de datos, que permite definir entidades, relaciones y estructuras de datos de manera clara y eficiente.
+- **Google Chrome**: Navegador principal para realizar pruebas de compatibilidad, rendimiento y funcionalidad de la aplicación web.
+
+### Software Documentation
+- **Google Docs**: Herramienta de edición colaborativa para documentar decisiones, avances técnicos, acuerdos del equipo y requisitos funcionales.
+- **Structurizr**: Plataforma para el modelado de arquitecturas de software utilizando diagramas C4, que representan visualmente los diferentes niveles de abstracción del sistema.
 
 ## 5.1.2. Source Code Management
 
@@ -316,7 +321,18 @@ Las principales secciones de la Landing Page de FuelTrack fueron desarrolladas y
 
 <h4>5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
 
-<!-- Puedes agregar contenido adicional aquí -->
+Durante el Sprint 1, el equipo logró implementar y desplegar la Landing Page de FuelTrack, lo que representa el primer entregable visible y funcional del producto. Esta incluye secciones informativas sobre la plataforma, beneficios clave para los usuarios, diferenciación por tipo de usuario, y botones de acción que direccionan al login o registro.
+
+Además, se configuró el entorno de desarrollo, se definieron los flujos de trabajo con Gitflow y se establecieron las convenciones de codificación. Los avances fueron registrados mediante commits con convenciones semánticas y organizados a través de su propio repositorio.
+
+Logros Clave:
+- Desarrollo completo de la Landing Page (HTML, CSS, Vue 3).
+- Implementación de componentes reutilizables en PrimeVue.
+- Diseño responsive validado en Chrome y Firefox.
+- Despliegue exitoso en GitHub Pages: fueltrack.github.io
+- Documentación del entorno y arquitectura en Structurizr y Google Docs.
+- Flujo Gitflow aplicado y validado con múltiples merges y ramas feature.
+- Participación activa de todos los miembros del equipo según el plan establecido.
 
 <hr>
 
@@ -741,11 +757,11 @@ El proyecto fue organizado siguiendo buenas prácticas de arquitectura, empleand
 <h3>5.2.2.7. Software Deployment Evidence for Sprint Review</h3>
 
 <p><strong>Resumen:</strong><br>
-El despliegue inicial de la Landing Page de FuelTrack fue realizado exitosamente utilizando GitHub Pages.</p>
+El despliegue inicial de la plataforma de FuelTrack fue realizado exitosamente utilizando GitHub Pages.</p>
 
 <h5>Detalles del Despliegue:</h5>
 <ul>
-  <li><strong>URL de la Landing Page:</strong> <a href="https://fuel-track-pro-fronted-jljq.vercel.app/" target="_blank">https://fuel-track-pro-fronted-jljq.vercel.app/</a></li>
+  <li><strong>URL de la pagina web:</strong> <a href="https://fuel-track-pro-fronted-jljq.vercel.app/" target="_blank">https://fuel-track-pro-fronted-jljq.vercel.app/</a></li>
   <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0730-2510-4374-G3-FuelTrack/Fornted/" target="_blank">https://github.com/1ASI0730-2510-4374-G3-FuelTrack/Fornted/</a></li>
 </ul>
 
