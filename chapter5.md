@@ -357,3 +357,142 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
   <li>Google Meet (reuniones de planificación de sprint)</li>
 </ul>
 
+
+<h3>5.2.2 Sprint 2</h3>
+
+<h4>5.2.2.1. Sprint Planning 2</h4>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr><th><strong>Sprint #</strong></th><td>Sprint 2</td></tr>
+  <tr><th><strong>Resumen del Sprint Planning</strong></th><td>---</td></tr>
+  <tr><th><strong>Fecha</strong></th><td>2025-05-09</td></tr>
+  <tr><th><strong>Hora</strong></th><td>11:00 PM</td></tr>
+  <tr><th><strong>Ubicación</strong></th><td>Google Meet</td></tr>
+  <tr><th><strong>Preparado por</strong></th><td>Manuel Angel Sanchez Arenas</td></tr>
+  <tr><th><strong>Asistentes a la reunión de planificación</strong></th>
+    <td>
+      Bryan Ronald Espejo Gamarra,<br>
+      Manuel Angel Sanchez Arenas,<br>
+      Juan Diego Javier Mondoñedo Rodríguez,<br>
+      Diego Vicente Seminario Castillo<br>
+	  Cesar Augusto Navarro Correa
+    </td>
+  </tr>
+  <tr><th><strong>Resumen del Sprint 2 (Revisión)</strong></th><td>Creación de un nuevo repositorio para el Frontend y asignación de tareas para implementar sus funciones para los solicitantes y proveedores</td></tr>
+  <tr><th><strong>Resumen del Sprint 2 (Retrospectiva)</strong></th><td>Realización de la primera versión del Frontend y pequeños cambios en la nueva versión del Landing Page.</td></tr>
+</table>
+
+<hr>
+
+<h4>Objetivo del Sprint y User Stories</h4>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th><strong>Ítem</strong></th>
+    <th><strong>Descripción</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Objetivo del Sprint 1</strong></td>
+    <td>
+      Nuestro enfoque está en implementar la versión inicial del Frontend de la pagina web de FuelTrack.<br>
+      Creemos que esto será un aproximado de como los usuarios van a interactuar y a utilizar la plataforma.<br>
+      Esto se confirmará cuando la pagina web esté desplegada en vivo en GitHub Pages y accesible desde cualquier dispositivo.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Velocidad del Sprint 1</strong></td>
+    <td> 46 Story Points</td>
+  </tr>
+  <tr>
+    <td><strong>Suma de Story Points</strong></td>
+    <td>46</td>
+  </tr>
+</table>
+
+---
+
+<h4>5.2.2.2. Líderes y Colaboradores por Áreas</h4>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Miembro del equipo (Apellido, Nombre)</th>
+      <th>Usuario de GitHub</th>
+      <th>Landing Page (L/C)</th>
+      <th>Login y Autenticación (L/C)</th>
+      <th>Documentación (L/C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Espejo Gamarra, Bryan Ronald</td>
+      <td>SaeBryxn</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Sanchez Arenas, Manuel Angel</td>
+      <td>manuels7a</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Mondoñedo Rodriguez, Juan Diego Javier</td>
+      <td>Jmondonedor</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Seminario Castillo, Diego Vicente</td>
+      <td>DiegoSeminario</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Navarro Correa, César Augusto</td>
+      <td>csr555-ui</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### 5.2.2.3. Sprint Backlog 2
+**Sprint Objective:**
+Implementar funcionalidades básicas para el registro, gestión de pedidos y autenticación de usuarios en FuelTrack.
+
+
+<h4>Tabla de Sprint Backlog</h4>
+
+<h4>5.2.1.4. Development Evidence for Sprint Review</h4>
+
+<p><strong>Resumen:</strong><br>
+
+</p>
+
+<h4>5.2.1.5. Tabla de Commits</h4>
+
+
+---
+
+<h3>5.2.1.5. Execution Evidence for Sprint Review</h3>
+
+<p><strong>Resumen:</strong><br>
+
+<h5>Evidencia de Capturas:</h5>
+
+<h4>5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+
+<hr>
+
+<h3>5.2.2.7. Software Deployment Evidence for Sprint Review</h3>
+
+
+<h3>5.2.1.8. Team Collaboration Insights during Sprint</h3>
+
