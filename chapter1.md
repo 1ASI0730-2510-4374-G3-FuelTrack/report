@@ -72,13 +72,17 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, aplican
 
 A continuación, se muestra un gráfico de barras con la cantidad de commits realizados por cada integrante del equipo:
 
-![Gráfico de barras de commits por usuario](img/colaboracion_commits_por_usuario.png)
+![Gráfico de barras de commits Brian](img/colaboracion_commits_brian.png)
+![Gráfico de barras de commits Manuel](img/colaboracion_commits_manuel.png)
+![Gráfico de barras de commits JuanDiego](img/colaboracion_commits_juandiego.png)
+![Gráfico de barras de commits Cesar](img/colaboracion_commits_cesar.png)
+![Gráfico de barras de commits Diego](img/colaboracion_commits_diego.png)
 
 ---
 
 ### 📈 Evolución temporal de commits
 
-El siguiente gráfico muestra una línea de tiempo con la evolución semanal de los commits realizados por todos los miembros:
+El siguiente gráfico muestra una línea de tiempo con la evolución de los commits realizados por todos los miembros:
 
 ![Línea de tiempo de commits por semana](img/colaboracion_timeline_commits.png)
 
