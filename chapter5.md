@@ -2,8 +2,6 @@
 
 ## 5.1.1. Software Development Environment Configuration
 
-## 🛠️ Herramientas Utilizadas
-
 ### Project Management
 - **WhatsApp**: Aplicación de mensajería instantánea de Meta, utilizada para coordinar tareas, compartir ideas y brindar soporte continuo durante el desarrollo del proyecto.
 - **Google Meet**: Plataforma de videoconferencias empleada para reuniones virtuales, planificación colaborativa y comunicación directa entre los miembros del equipo.
