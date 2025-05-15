@@ -375,11 +375,11 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
       Manuel Angel Sanchez Arenas,<br>
       Juan Diego Javier Mondoñedo Rodríguez,<br>
       Diego Vicente Seminario Castillo<br>
-	  Cesar Augusto Navarro Correa
+	Cesar Augusto Navarro Correa
     </td>
   </tr>
-  <tr><th><strong>Resumen del Sprint 2 (Revisión)</strong></th><td>Creación de un nuevo repositorio para el Frontend y asignación de tareas para implementar sus funciones para los solicitantes y proveedores</td></tr>
-  <tr><th><strong>Resumen del Sprint 2 (Retrospectiva)</strong></th><td>Realización de la primera versión del Frontend y pequeños cambios en la nueva versión del Landing Page.</td></tr>
+  <tr><th><strong>Resumen del Sprint 1 (Revisión)</strong></th><td>Creación de un nuevo repositorio para el Landing Page y asignación de tareas para implementar sus funciones para la interacción del usuarios</td></tr>
+  <tr><th><strong>Resumen del Sprint 1 (Retrospectiva)</strong></th><td>Realización de la primera versión del Landing Page y el registro de usuario del proveedor y solicitante.</td></tr>
 </table>
 
 <hr>
