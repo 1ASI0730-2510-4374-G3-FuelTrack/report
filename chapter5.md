@@ -645,7 +645,7 @@ Implementar funcionalidades básicas para el registro, gestión de pedidos y aut
   <li>Improved <code>CreateOrderModal.vue</code> behavior and validation</li>
   <li>Refined client and supplier login pages (<code>LoginClient.vue</code>, <code>LoginSupplier.vue</code>)</li>
   <li>Updated global styles and toolbar alignment (<code>global.css</code>)</li>
-  <li>Enhanced routing (<code>index.js and API communication (<code>api.js</code>, <code>fuelService.js</code>, <code>orderService.js</code>, <code>analyticsService.js</code>)</li>
+  <li>Enhanced routing (<code>index.js</code> and API communication (<code>api.js</code>, <code>fuelService.js</code>, <code>orderService.js</code>, <code>analyticsService.js</code>)</li>
   <li>Updated JSON structure in <code>db.json</code> with conciliation and dispatch data</li>
   <li>Minor UI improvements and responsive adjustments across order and conciliation tables</li>
 </ul>
