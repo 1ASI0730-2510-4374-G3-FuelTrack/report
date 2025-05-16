@@ -53,7 +53,8 @@
 
 | **Versión** | **Fecha**   | **Autores**                                                                                     | **Descripción de Modificación**                                                                                                                                                                  |
 |-------------|-------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0         | 26/04/2025  | - Bryan Ronald Espejo Gamarra  <br> - Manuel Ángel Sánchez Arenas  <br> - Juan Diego Javier Mondoñedo Rodríguez <br> - Diego Vicente Seminario Castillo <br> - César Augusto Navarro Correa | Se incluyeron los siguientes capítulos: <br>• Estructura del informe <br>• Capítulo I: Introducción <br>• Capítulo II: Requirements Elicitation & Analysis <br>• Capítulo III: Requirements Specification <br>• Capítulo IV: Product Design <br>• Capítulo V: Product Implementation, Validation & Deployment <br>• Landing Page <br>• Configuración inicial del repositorio <br>• Aplicación de GitFlow y convenciones de commits |
+| TB1       | 26/04/2025  | - Bryan Ronald Espejo Gamarra  <br> - Manuel Ángel Sánchez Arenas  <br> - Juan Diego Javier Mondoñedo Rodríguez <br> - Diego Vicente Seminario Castillo <br> - César Augusto Navarro Correa | Se incluyeron los siguientes capítulos: <br>• Estructura del informe <br>• Capítulo I: Introducción <br>• Capítulo II: Requirements Elicitation & Analysis <br>• Capítulo III: Requirements Specification <br>• Capítulo IV: Product Design <br>• Capítulo V: Product Implementation, Validation & Deployment <br>• Configuración inicial del repositorio y del Landing Page <br>• Aplicación de GitFlow y convenciones de commits |
+| TP1       | 26/04/2025  | - Bryan Ronald Espejo Gamarra  <br> - Manuel Ángel Sánchez Arenas  <br> - Juan Diego Javier Mondoñedo Rodríguez <br> - Diego Vicente Seminario Castillo <br> - César Augusto Navarro Correa | Se incluyeron los siguientes capítulos: <br>• Cambios y mejoras del informe de la anterior versión <br>• Capítulo V: Product Implementation, Validation & Deployment (Sprint 2)<br>• Frontend  <br>• Configuración del repositorio Frontend <br>• Aplicación de GitFlow y convenciones de commits |
 
 ---
 ## Project Report Collaboration Insights
@@ -72,13 +73,17 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, aplican
 
 A continuación, se muestra un gráfico de barras con la cantidad de commits realizados por cada integrante del equipo:
 
-![Gráfico de barras de commits por usuario](img/colaboracion_commits_por_usuario.png)
+![Gráfico de barras de commits Brian](img/colaboracion_commits_brian.png)
+![Gráfico de barras de commits Manuel](img/colaboracion_commits_manuel.png)
+![Gráfico de barras de commits JuanDiego](img/colaboracion_commits_juandiego.png)
+![Gráfico de barras de commits Cesar](img/colaboracion_commits_cesar.png)
+![Gráfico de barras de commits Diego](img/colaboracion_commits_diego.png)
 
 ---
 
 ### 📈 Evolución temporal de commits
 
-El siguiente gráfico muestra una línea de tiempo con la evolución semanal de los commits realizados por todos los miembros:
+El siguiente gráfico muestra una línea de tiempo con la evolución de los commits realizados por todos los miembros:
 
 ![Línea de tiempo de commits por semana](img/colaboracion_timeline_commits.png)
 
@@ -104,6 +109,78 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
       - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1 Competidores](#21-competidores)
+    - [2.1.1 Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2 Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2 Entrevistas](#22-entrevistas)
+    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2 Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3 Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3 Needfinding](#23-needfinding)
+    - [2.3.1 User Personas](#231-user-personas)
+    - [2.3.2 User Task Matrix](#232-user-task-matrix)
+    - [2.3.3 User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4 Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4 Ubiquitous Language](#24-ubiquitous-language)
+-[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2 User Stories](#32-user-stories)
+  - [3.3 Impact Mapping](#33-impact-mapping)
+  - [3.4 Product Backlog](#34-product-backlog)
+-[Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1 Style Guidelines](#41-style-guidelines)
+    - [4.1.1 General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2 Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2 Information Architecture](#43-information-architecture)
+    - [4.2.1 Organization Systems](#421-organization-systems)
+    - [4.2.2 Labeling System](#422-labeling-system)
+    - [4.2.3 SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4 Searching Systems](#424-searching-systems)
+    - [4.2.5 Navigation System](#425-navigation-system)
+  - [4.3 Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1 Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2 Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4 Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1 Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2 Web Applications Mock-ups](#442-web-applications-mock-ups)
+    - [4.4.3 Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+  - [4.5 Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6 Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1 Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2 Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3 Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7 Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1 Class Diagrams](#471-class-diagrams)
+    - [4.7.2 Class Dictionary](#472-class-dictionary)
+  - [4.8 Database Design](#48-database-design)
+    - [4.8.1 Database Diagram](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1 Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1 Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2 Source Code Management](#512-source-code-management)
+    - [5.1.3 Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.1 Sprint 1](#521-sprint-1)
+      - [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2 Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3 Sprint Backlog 1](#5213-sprint-backlog-2)
+      - [5.2.1.4 Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2 Sprint 2](#522-sprint-2)
+      - [5.2.2.1 Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2 Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3 Sprint Backlog 1](#5223-sprint-backlog-2)
+      - [5.2.2.4 Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5 Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6 Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7 Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8 Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ---
 
@@ -113,8 +190,8 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
 
 | **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**  |
 |---|---|---|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Manuel Sanchez**<br>TB1: Revisión de los commits hechos a las ramas del repo. Revisión de los pull-requests a la rama develop. Coordinación de tareas. <br>**Diego Vicente Seminario Castillo**<br>TB1: Dividió el trabajo correctamente en cada sección del trabajo.<br>**Bryan Ronald Espejo Gamarra**<br>TB1: Coordinó las tareas relacionadas al desarrollo del Landing Page, liderando la organización del flujo de trabajo en GitHub, y asegurando la correcta implementación de convenciones de commits y ramas Gitflow.<br>**César Augusto Navarro Correa**<br>TB1: Participó en la revisión del informe y creación de los commits del repositorio principal.<br>**Juan Diego Mondoñedo**<br>TB1: Coordino las tareas relacionadas a la presentación y grabación de la exposición. | TB1: La comunicación constante entre los miembros fue crucial para evitar conflictos de avances y en nuestro repositorio. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Manuel Sanchez**<br>TB1: A través de reuniones logré que el equipo comunciara sus avances y los obstaculos que enfrentaban para apoyarse entre sí <br>**Diego Vicente Seminario Castillo**<br>TB1: Cumpli con el tema de entrevista y analisis, logrando que el equipo tenga una idea más clara de la problemática<br>**Bryan Ronald Espejo Gamarra**<br>TB1: Participó activamente en la planificación del Sprint 1, contribuyendo en la definición de User Stories, la asignación de Story Points y la identificación de prioridades de desarrollo.<br>**César Augusto Navarro Correa**<br>TB1: Realizó parte de la sección de las entrevistas y colaboró en las tareas relacionadas a lo User Personas y experiencia del usuario.<br>**Juan Diego Mondoñedo**<br>TB1: Participó activamente en las reuniones de planificación. Y apoyó en la realización de entrevistas. | Tuvimos complicaciones al coordinar tareas debido a que trabajamos en diferentes ritmos, pero logramos conluir en un determinado plazo anticipado. |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Manuel Sanchez**<br>TB1: Revisión de los commits hechos a las ramas del repo. Revisión de los pull-requests a la rama develop. Coordinación de tareas. <br> TP1: Coordinó las tareas del equipo, y participó en el desarrollo del Frontend. <br>**Diego Vicente Seminario Castillo**<br>TB1: Dividió el trabajo correctamente en cada sección del trabajo. <br> TP1: Participó en la organización de archivos de la entrega y revisión del informe. <br>**Bryan Ronald Espejo Gamarra**<br>TB1: Coordinó las tareas relacionadas al desarrollo del Landing Page, liderando la organización del flujo de trabajo en GitHub, y asegurando la correcta implementación de convenciones de commits y ramas Gitflow.<br> TP1: Coordinó las tareas relacionadas al desarrollo del Frontend Web Applicaction, del mismo modo que formó parte de su desarrollo. <br>**César Augusto Navarro Correa**<br>TB1: Participó en la revisión y corrección del informe y creación de los commits del repositorio principal.<br> TP1: Participó en la revisión y corrección de los repositorios y tareas adicionales a la entrega. <br>**Juan Diego Mondoñedo**<br>TB1: Coordino las tareas relacionadas a la presentación y grabación de la exposición.<br> TP1: Apoyo en el desarrollo de las funciones de la plataforma y la organización de tareas.| La comunicación constante entre los miembros fue crucial para evitar conflictos de avances y en nuestro repositorio.  |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Manuel Sanchez**<br>TB1: A través de reuniones logré que el equipo comunciara sus avances y los obstaculos que enfrentaban para apoyarse entre sí <br> TP1: Realizó las reuniones necesarias para apoyar al conocimiento y la retroalimentación de la propuesta. <br>**Diego Vicente Seminario Castillo**<br>TB1: Cumpli con el tema de entrevista y analisis, logrando que el equipo tenga una idea más clara de la problemática<br> TP1: Apoyo en las tareas faltantes de la entrega e informó los debidos cambios.<br>**Bryan Ronald Espejo Gamarra**<br>TB1: Participó activamente en la planificación del Sprint 1, contribuyendo en la definición de User Stories, la asignación de Story Points y la identificación de prioridades de desarrollo.<br> TP1: Participó activamente en la realización del Frontend, revisión de los commits de los repositorios, asignación de tareas del informe. <br>**César Augusto Navarro Correa**<br>TB1: Realizó parte de la sección de las entrevistas y colaboró en las tareas relacionadas a lo User Personas y experiencia del usuario.<br> TP1: Realizó la revisión completa del informe y comunicó las tareas faltantes. <br>**Juan Diego Mondoñedo**<br>TB1: Participó activamente en las reuniones de planificación. Y apoyó en la realización de entrevistas. <br> TP1: Participó en la realización del Frontend y  | Tuvimos complicaciones al coordinar tareas debido a que trabajamos en diferentes ritmos, pero logramos conluir en un determinado plazo anticipado.|
 
 ---
 
@@ -143,6 +220,7 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
 
 ---
 
+### 1.2 Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
 
