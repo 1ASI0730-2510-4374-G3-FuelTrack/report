@@ -255,7 +255,7 @@ El sector de distribución de combustibles enfrenta serias ineficiencias debido 
 
 #### 1.2.2 Lean UX Process
 
-##### 1.2.2.1 Lean UX Problem Statements
+#### 1.2.2.1 Lean UX Problem Statements
 
 Nuestra plataforma, FuelTracks, ofrece una solución para la gestión de pedidos de combustible entre empresas solicitantes y proveedores. El objetivo de este startup es reemplazar los métodos informales que se usan actualmente, tales como las llamadas, correos electrónicos y aplicaciones de mensajería,  por un sistema digital y centralizada que permita mejorar principalmente la trazabilidad de los pedidos en tiempo real.
 
@@ -263,11 +263,9 @@ Luego de analizar la metodología utilizada actualmente en el mercado de combust
 
 En el contexto actual donde crece cada vez más la demanda por servicios logísticos ágiles e infalibles, es necesaria una plataforma que facilite y compacte el proceso de gestión de pedidos. Con esta, las empresas evitarán pérdidas operativas y se reducirán en gran medida las malas experiencias de los clientes.
 
-El segmento inicial estará compuesto por proveedores medianos de combustible en Lima Metropolitana, quienes presentan mayor disposición al cambio digital y necesidades operativas complejas.
+¿Cómo podríamos diseñar una solución digital que centralice y automatice la gestión de pedidos de combustible, integrando a proveedores y solicitantes en una misma plataforma, para reducir errores y aumentar la eficiencia operativa?
 
-
-
-##### 1.2.2.2 Lean UX Assumptions
+#### 1.2.2.2 Lean UX Assumptions
 
 Business Assumptions
 
