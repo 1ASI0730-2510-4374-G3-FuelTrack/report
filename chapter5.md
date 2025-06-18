@@ -85,9 +85,9 @@ Gestor de paquetes:
 
 <h2>5.2. Landing Page, Services & Applications Implementation</h2>
 
-<h3>5.2.1. Sprint 1</h3>
+## 5.2.1. Sprint 1
 
-<h4>5.2.1.1. Sprint Planning 1</h4>
+### 5.2.1.1. Sprint Planning 1
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr><th><strong>Sprint #</strong></th><td>Sprint 1</td></tr>
@@ -137,7 +137,7 @@ Gestor de paquetes:
 
 ---
 
-<h4>5.2.1.2. Líderes y Colaboradores por Áreas</h4>
+### 5.2.1.2. Aspect Leaders and Collaborators
 
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
@@ -228,13 +228,13 @@ Implementar funcionalidades básicas para el registro, gestión de pedidos y aut
 </table>
 
 
-<h4>5.2.1.4. Development Evidence for Sprint Review</h4>
+### 5.2.1.4. Development Evidence for Sprint Review
 
 <p><strong>Resumen:</strong><br>
 Durante este Sprint, el equipo implementó y desplegó con éxito la versión inicial de la Landing Page de FuelTrack. Los commits relacionados con estos avances se detallan a continuación.
 </p>
 
-<h4>5.2.1.5. Tabla de Commits</h4>
+<h4>Tabla de Commits</h4>
 
 <p><strong>Resumen:</strong> Esta tabla lista los commits realizados durante los primeros sprints de desarrollo, incluyendo el trabajo en la Landing Page, documentación y configuración del proyecto.</p>
 
@@ -296,7 +296,7 @@ Durante este Sprint, el equipo implementó y desplegó con éxito la versión in
 
 ---
 
-<h3>5.2.1.5. Execution Evidence for Sprint Review</h3>
+### 5.2.1.5. Execution Evidence for Sprint Review
 
 <p><strong>Resumen:</strong><br>
 Las principales secciones de la Landing Page de FuelTrack fueron desarrolladas y desplegadas exitosamente. A continuación se presentan capturas de pantalla de las secciones implementadas.</p>
@@ -317,7 +317,7 @@ Las principales secciones de la Landing Page de FuelTrack fueron desarrolladas y
 
 <hr>
 
-<h4>5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 1, el equipo logró implementar y desplegar la Landing Page de FuelTrack, lo que representa el primer entregable visible y funcional del producto. Esta incluye secciones informativas sobre la plataforma, beneficios clave para los usuarios, diferenciación por tipo de usuario, y botones de acción que direccionan al login o registro.
 
@@ -334,7 +334,7 @@ Logros Clave:
 
 <hr>
 
-<h3>5.2.1.7. Software Deployment Evidence for Sprint Review</h3>
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 <p><strong>Resumen:</strong><br>
 El despliegue inicial de la Landing Page de FuelTrack fue realizado exitosamente utilizando GitHub Pages.</p>
@@ -353,7 +353,7 @@ El despliegue inicial de la Landing Page de FuelTrack fue realizado exitosamente
 
 <hr>
 
-<h3>5.2.1.8. Team Collaboration Insights during Sprint</h3>
+### 5.2.1.8. Team Collaboration Insights during Sprint
 
 <p><strong>Resumen:</strong><br>
 El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue de la Landing Page.</p>
@@ -372,9 +372,9 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
 </ul>
 
 
-<h3>5.2.2 Sprint 2</h3>
+## 5.2.2 Sprint 2
 
-<h4>5.2.2.1. Sprint Planning 2</h4>
+### 5.2.2.1. Sprint Planning 2
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr><th><strong>Sprint #</strong></th><td>Sprint 2</td></tr>
@@ -425,7 +425,7 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
 
 ---
 
-<h4>5.2.2.2. Líderes y Colaboradores por Áreas</h4>
+### 5.2.2.2. Aspect Leaders and Collaborators
 
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
@@ -478,6 +478,7 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
 
 
 ### 5.2.2.3. Sprint Backlog 2
+
 **Sprint Objective:**
 Implementar funcionalidades básicas para el registro, gestión de pedidos y autenticación de usuarios en FuelTrack.
 
@@ -595,13 +596,13 @@ Implementar funcionalidades básicas para el registro, gestión de pedidos y aut
   </tbody>
 </table>
 
-<h4>5.2.1.4. Development Evidence for Sprint Review</h4>
+### 5.2.2.4. Development Evidence for Sprint Review
 
 <p><strong>Resumen:</strong><br>
 
 </p>
 
-<h4>5.2.1.5. Tabla de Commits</h4>
+<h4>Tabla de Commits</h4>
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
     <tr>
@@ -705,9 +706,7 @@ Implementar funcionalidades básicas para el registro, gestión de pedidos y aut
 </tbody>
 </table>
 
----
-
-<h3>5.2.1.5. Execution Evidence for Sprint Review</h3>
+### 5.2.1.5. Execution Evidence for Sprint Review<
 
 <p><strong>Resumen:</strong><br>
 
@@ -742,17 +741,14 @@ Las principales secciones del Frontend de FuelTrack fueron desarrolladas y despl
 <p><strong>Enlace a Demo en Vivo:</strong><br>
 <a href="https://fuel-track-pro-fronted-jljq.vercel.app/" target="_blank">FuelTrack Web Applicaction</a></p>
 
-<hr>
-
-<h4>5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
 <p><strong>Resumen:</strong><br> Durante el Sprint 2, se ha logrado un buen avance en la implementación del sistema FuelTrack, centrándose en las funcionalidades más importantes tanto para los solicitantes como para los proveedores. Por un lado, se creó e integró el módulo de pedidos para solicitantes, permitiendo registrar, editar y visualizar el historial de pedidos para solicitantes. Por otro, se implementaron funcionalidades para confirmar, actualizar, despachar y conciliar pedidos para proveedores. 
 
 El proyecto fue organizado siguiendo buenas prácticas de arquitectura, empleando una estructura basada en dominios, componentes reutilizables y servicios bien definidos. Además, los commits reflejan una evolución progresiva del repositorio en la creación de los componentes, vistas y servicios de la plataforma. Todo el código fue probado localmente y versionado en GitHub.
 
 </p>
-<hr>
 
-<h3>5.2.2.7. Software Deployment Evidence for Sprint Review</h3>
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 <p><strong>Resumen:</strong><br>
 El despliegue inicial de la plataforma de FuelTrack fue realizado exitosamente utilizando GitHub Pages.</p>
@@ -771,7 +767,7 @@ El despliegue inicial de la plataforma de FuelTrack fue realizado exitosamente u
 
 <hr>
 
-<h3>5.2.1.8. Team Collaboration Insights during Sprint</h3>
+### 5.2.2.8. Team Collaboration Insights during Sprint
 <p><strong>Resumen:</strong><br>
 El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue de la Landing Page.</p>
 
@@ -793,17 +789,191 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
 
 ### 5.2.3.1. Sprint Planning 3
 
+<table border="1" cellspacing="0" cellpadding="6">
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 3</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>10/05/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>11:00 PM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Google Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Manuel Sanchez</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>
+		      Bryan Ronald Espejo Gamarra,<br>
+		      Manuel Angel Sanchez Arenas,<br>
+		      Juan Diego Javier Mondoñedo Rodríguez,<br>
+		      Diego Vicente Seminario Castillo<br>
+			  Cesar Augusto Navarro Correa
+		</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Review Summary</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Retrospective Summary</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Goal</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Velocity</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td></td>
+    </tr>
+</table>
+
 ### 5.2.3.2. Aspect Leaders and Collaborators
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Miembro del equipo (Apellido, Nombre)</th>
+      <th>Usuario de GitHub</th>
+      <th>Backend (L/C)</th>
+      <th>Frontend (L/C)</th>
+      <th>Documentación (L/C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Espejo Gamarra, Bryan Ronald</td>
+      <td>SaeBryxn</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Sanchez Arenas, Manuel Angel</td>
+      <td>manuels7a</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Mondoñedo Rodriguez, Juan Diego Javier</td>
+      <td>Jmondonedor</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Seminario Castillo, Diego Vicente</td>
+      <td>DiegoSeminario</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Navarro Correa, César Augusto</td>
+      <td>csr555-ui</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 5.2.3.3. Sprint Backlog 3
 
+<table border="1" cellspacing="0" cellpadding="6">
+<thead>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 3</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr>
+        <td>US-</td>
+        <td></td>
+        <td>W-</td>
+        <td></td>
+        <td></td>
+        <td>horas</td>
+        <td></td>
+        <td>Done</td>
+    </tr>
+</table>
+
 ### 5.2.3.4. Development Evidence for Sprint Review
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+<tbody>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+ 
+</tbody>
+</table>
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
+
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
 
 ## 5.3. Validation Interviews
 
@@ -841,7 +1011,29 @@ B. Empresas Solicitantes de Combustible:
 
 ### 5.3.2. Registro de entrevistas
 
+---
 
+#### Entrevista N°1 – Segmento: Proveedores
+- Nombres: 
+- Apellidos: 
+- Edad:
+- Distrito:
+- URL Entrevista:
+- Duración: 
+- Resumen:
+
+---
+
+#### Entrevista N°2 – Segmento: Solicitantes
+- Nombres: 
+- Apellidos: 
+- Edad:
+- Distrito:
+- URL Entrevista:
+- Duración: 
+- Resumen:
+
+---
 
 ### 5.3.3. Evaluaciones heuristicas
 
@@ -850,3 +1042,15 @@ B. Empresas Solicitantes de Combustible:
 ## 5.4. Video About-the-Product
 
 **Link:** 
+
+## Conclusiones
+
+
+
+## Bibliografia
+
+
+
+## Anexos 
+
+
