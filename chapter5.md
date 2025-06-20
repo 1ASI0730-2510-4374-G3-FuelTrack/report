@@ -294,7 +294,6 @@ Durante este Sprint, el equipo implementó y desplegó con éxito la versión in
 
 </table>
 
----
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -315,8 +314,6 @@ Las principales secciones de la Landing Page de FuelTrack fueron desarrolladas y
 <p><strong>Enlace a Demo en Vivo:</strong><br>
 <a href="https://1asi0730-2510-4374-g3-fueltrack.github.io/Landing-page/" target="_blank">FuelTrack Landing Page</a></p>
 
-<hr>
-
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 1, el equipo logró implementar y desplegar la Landing Page de FuelTrack, lo que representa el primer entregable visible y funcional del producto. Esta incluye secciones informativas sobre la plataforma, beneficios clave para los usuarios, diferenciación por tipo de usuario, y botones de acción que direccionan al login o registro.
@@ -331,8 +328,6 @@ Logros Clave:
 - Documentación del entorno y arquitectura en Structurizr y Google Docs.
 - Flujo Gitflow aplicado y validado con múltiples merges y ramas feature.
 - Participación activa de todos los miembros del equipo según el plan establecido.
-
-<hr>
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -350,8 +345,6 @@ El despliegue inicial de la Landing Page de FuelTrack fue realizado exitosamente
   <li>Configuración del repositorio con GitHub Pages.</li>
   <li>Construcción y despliegue del sitio estático generado con Vite (Vue 3) a la rama <code>gh-pages</code>.</li>
 </ul>
-
-<hr>
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -706,7 +699,7 @@ Implementar funcionalidades básicas para el registro, gestión de pedidos y aut
 </tbody>
 </table>
 
-### 5.2.1.5. Execution Evidence for Sprint Review<
+### 5.2.2.5. Execution Evidence for Sprint Review<
 
 <p><strong>Resumen:</strong><br>
 
@@ -745,6 +738,83 @@ Las principales secciones del Frontend de FuelTrack fueron desarrolladas y despl
 <p><strong>Resumen:</strong><br> Durante el Sprint 2, se ha logrado un buen avance en la implementación del sistema FuelTrack, centrándose en las funcionalidades más importantes tanto para los solicitantes como para los proveedores. Por un lado, se creó e integró el módulo de pedidos para solicitantes, permitiendo registrar, editar y visualizar el historial de pedidos para solicitantes. Por otro, se implementaron funcionalidades para confirmar, actualizar, despachar y conciliar pedidos para proveedores. 
 
 El proyecto fue organizado siguiendo buenas prácticas de arquitectura, empleando una estructura basada en dominios, componentes reutilizables y servicios bien definidos. Además, los commits reflejan una evolución progresiva del repositorio en la creación de los componentes, vistas y servicios de la plataforma. Todo el código fue probado localmente y versionado en GitHub.
+
+En esta sección, se define los Web Services que se han desarrollado para esta parte del desarrollo.
+
+<table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; text-align: center;">
+  <thead style="background-color: #f5e8b0;">
+    <tr>
+      <th>Endpoint Simulado (Fake API)</th>
+      <th>Entidad</th>
+      <th>Operaciones CRUD Soportadas</th>
+      <th>Futuro Alcance con OpenAPI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>http://localhost:3000/orders</td>
+      <td>Órdenes</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Gestión completa de pedidos: creación, consulta, edición de estado y productos, eliminación de órdenes canceladas.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/transport</td>
+      <td>Transportes</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Asignación y actualización de transporte a pedidos, consulta de estado en ruta, eliminación de asignaciones obsoletas.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/terminals</td>
+      <td>Terminales</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Gestión de terminales de despacho: creación, edición de datos geográficos y eliminación si quedan inactivas.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/providers</td>
+      <td>Proveedores</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Gestión de proveedores de combustible, actualización de combustibles ofrecidos, eliminación bajo ciertas condiciones.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/fuels</td>
+      <td>Combustibles</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Catálogo de combustibles: adición de nuevos tipos, actualización de precios, retiro de productos descontinuados.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/trucks</td>
+      <td>Camiones</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Gestión de flota: registro de nuevos camiones, actualización de estado y capacidad, baja de unidades inoperativas.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/suppliers</td>
+      <td>Usuarios Proveedores</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Autenticación, administración de credenciales y eliminación de cuentas de proveedores no activos.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/clients</td>
+      <td>Clientes</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Registro de clientes, edición de datos personales, eliminación de cuentas según políticas de retención.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/drivers</td>
+      <td>Conductores</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Gestión de conductores: alta de nuevos choferes, actualización de licencias, baja por retiro o inactividad.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/tanks</td>
+      <td>Tanques</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Administración de tanques de almacenamiento: alta de nuevos tanques, cambio de estado, eliminación por desgaste.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 </p>
 
@@ -825,18 +895,29 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
     </tr>
     <tr align="center">
         <td>Sprint 2 Review Summary</td>
-        <td></td>
+        <td>
+		<p>Desarrollo de la primera versión del frontend para la realización de pagina web</p>
+		<p>Despliegue de la pagina web con API REST funcionando y de la fake api</p>
+		<p>Resolución de las correciones de la documentación</p>
+	</td>
     </tr>
     <tr align="center">
         <td>Sprint 2 Retrospective Summary</td>
-        <td></td>
+        <td>
+		<p>Frontend y Fake API desplegadas con exito, pero algunas secciones necesitaban ser terminadas.</p>
+		<p>La documentación fue no fue realizado de manera optima y faltaron completar muchas secciones.</p>
+	</td>
     </tr>
     <tr>
         <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
     </tr>
     <tr align="center">
         <td>Sprint 3 Goal</td>
-        <td></td>
+        <td>
+		<p>Desarrollar la primera versión del backend y realizar el despligue de la misma en Swagger</p>
+		<p>Realizar cambios y correciones en la documentación relacionadas al Bounded Context y los Sprints</p>
+		<p>Refinar el codigo del frontend para tener una versión estable de la pagina web con API REST</p>
+	</td>
     </tr>
     <tr align="center">
         <td>Sprint 3 Velocity</td>
@@ -1072,11 +1153,40 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
+En esta sección, se evidencia todos los cambios realizados en la pagina web y que otras cosas se añadieron en la misma.
 
+<h5>Evidencia de Capturas:</h5>
+<strong>Solicitantes</strong>
+<ul>
+  <li><strong>Orders Client Section</strong><br><img src="./img/OrdersClient(2).png" alt="Orders Client Section"></li>
+  <li><strong>Orders Client Section 2</strong><br><img src="./img/OrdersClientCreate(2).png" alt="Features Section 1"></li>
+  <li><strong>Orders Client Section 3</strong><br><img src="./img/OrdersClientCreate2(2).png" alt="Orders Client Section 2"></li>
+  <li><strong>Orders Client Section 4</strong><br><img src="./img/OrdersClientCreate3(2).png" alt="Orders Client Section 3"></li>
+  <li><strong>Analytics Client Section</strong><br><img src="./img/AnalyticsClient(2).png" alt="Analytics Client Section"></li>
+  <li><strong>Analytics Client Section 2</strong><br><img src="./img/AnalyticsClient2(2).png" alt="Analytics Client Section 2"></li>
+  <li><strong>Terminals Client Section</strong><br><img src="./img/TerminalsClient(2).png" alt="Terminals Client Section"></li>
+   <li><strong>Terminals Client Section 2</strong><br><img src="./img/TerminalsClient2(2).png" alt="Terminals Client Section 2"></li>
+   <li><strong>Provider Client Section</strong><br><img src="./img/ProviderClient(2).png" alt="Provider Client Section"></li>
+   <li><strong>Workflows Client Section</strong><br><img src="./img/WorkflowsClient(2).png" alt="Workflows Client Section"></li>
+</ul>
+<strong>Proveedores</strong>
+<ul>
+   <li><strong>Orders Supplier Section</strong><br><img src="./img/OrdersSupplier(2).png" alt="Orders Supplier Section"></li>
+   <li><strong>Conciliations Supplier Section</strong><br><img src="./img/ConciliationsSupplier(2).png" alt="Conciliations Supplier Section"></li>
+   <li><strong>Conciliations Supplier Section 2</strong><br><img src="./img/ConciliationsSupplier2(2).png" alt="Conciliations Supplier Section 2"></li>
+   <li><strong>Dispatch Supplier Section</strong><br><img src="./img/DispatchSupplier(2).png" alt="Dispatch Supplier Section"></li>
+    <li><strong>Dispatch Supplier Section 2</strong><br><img src="./img/DispatchSupplier2(2).png" alt="Dispatch Supplier Section 2"></li>
+   <li><strong>Analytics Supplier Section</strong><br><img src="./img/AnalyticsSupplier(2).png" alt="Analytics Supplier Section"></li>
+   <li><strong>Prices Supplier Section</strong><br><img src="./img/PricesSupplier(2).png" alt="Prices Supplier Section"></li>
+   <li><strong>Clients Supplier Section</strong><br><img src="./img/ClientsSupplier(2).png" alt="Clients Supplier Section"></li>
+</ul>
+
+<p><strong>Enlace a Demo en Vivo:</strong><br>
+<a href="https://fronted-ft.vercel.app/" target="_blank">FuelTrack Web Applicaction</a></p>
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-
+En esta sección, se define los Web Services que se han desarrollado para esta parte del desarrollo.
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -1084,7 +1194,7 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
-
+Durante el Sprint 3, el equipo trabajó de forma colaborativa para cumplir con todos los objetivos planteados en esta etapa del proyecto. Sin embargo, algunos miembros asumieron un mayor protagonismo en tareas clave, como el desarrollo del Backend. En esta fase, se reflejó de manera más detallada el progreso tanto en la construcción de la página web como en la implementación de la base de datos.
 
 ## 5.3. Validation Interviews
 
@@ -1159,9 +1269,5 @@ B. Empresas Solicitantes de Combustible:
 
 
 ## Bibliografia
-
-
-
-## Anexos 
 
 
