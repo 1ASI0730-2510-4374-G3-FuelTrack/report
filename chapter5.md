@@ -948,14 +948,125 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
   </thead>
 <tbody>
 <tr>
-	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
-	<td></td>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>9653eab</td>
+	<td>feat: load API base from env and add orders store</td>
+	<td>-</td>
+	<td>03/06/2025</td>
 </tr>
- 
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>bfb4812</td>
+	<td>chore: replace console logs with logger</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>efbabd4</td>
+	<td>chore: agregar vitest y eslint</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>ca653f5</td>
+	<td>feat(i18n): add english and spanish translations</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>ae7cf9e</td>
+	<td>feat(ui): add global language toggle</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>104ebcb</td>
+	<td>feat(order): enhance payment step with bank logos and auto op number</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>1d3571c</td>
+	<td>Mejora del modal de creación de órdenes</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>952d5f8</td>
+	<td>feat: conf modal create order</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>e9445d7</td>
+	<td>style(client/orders): update component styles for dark table theme</td>
+	<td>Applied consistent dark background colors and text contrast to DataTable headers, rows, and expansion panels. Removed scoped styles to allow global theme overrides.</td>
+	<td>12/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>e0a3f21</td>
+	<td>changue fake api for live api</td>
+	<td>-</td>
+	<td>12/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>orders</td>
+	<td>18df614</td>
+	<td>feat: added command and query services</td>
+	<td>-</td>
+	<td>10/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>orders</td>
+	<td>272e82e</td>
+	<td>feat: created order resources and assembler</td>
+	<td>-</td>
+	<td>10/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>orders</td>
+	<td>33551ad</td>
+	<td>chore: added nuget dependencies</td>
+	<td>-</td>
+	<td>10/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>orders</td>
+	<td>91582e8</td>
+	<td>feat: started swagger implementation with order controller</td>
+	<td>-</td>
+	<td>10/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>orders</td>
+	<td>7dd52bf</td>
+	<td>fix: corrected IOrderCommand and Query Services</td>
+	<td>-</td>
+	<td>10/06/2025</td>
+</tr>
 </tbody>
 </table>
 
