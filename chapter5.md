@@ -739,7 +739,7 @@ Las principales secciones del Frontend de FuelTrack fueron desarrolladas y despl
 
 El proyecto fue organizado siguiendo buenas prácticas de arquitectura, empleando una estructura basada en dominios, componentes reutilizables y servicios bien definidos. Además, los commits reflejan una evolución progresiva del repositorio en la creación de los componentes, vistas y servicios de la plataforma. Todo el código fue probado localmente y versionado en GitHub.
 
-En esta sección, se define los Web Services que se han desarrollado para esta parte del desarrollo.
+En esta sección, se define los API REST que se han desarrollado para esta parte del desarrollo.
 
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; text-align: center;">
   <thead style="background-color: #f5e8b0;">
@@ -760,31 +760,31 @@ En esta sección, se define los Web Services que se han desarrollado para esta p
     <tr>
       <td>http://localhost:3000/transport</td>
       <td>Transportes</td>
-      <td>GET, POST, PUT, DELETE</td>
+      <td>GET, POST</td>
       <td>Asignación y actualización de transporte a pedidos, consulta de estado en ruta, eliminación de asignaciones obsoletas.</td>
     </tr>
     <tr>
       <td>http://localhost:3000/terminals</td>
       <td>Terminales</td>
-      <td>GET, POST, PUT, DELETE</td>
+      <td>GET, POST</td>
       <td>Gestión de terminales de despacho: creación, edición de datos geográficos y eliminación si quedan inactivas.</td>
     </tr>
     <tr>
       <td>http://localhost:3000/providers</td>
       <td>Proveedores</td>
-      <td>GET, POST, PUT, DELETE</td>
+      <td>GET, POST</td>
       <td>Gestión de proveedores de combustible, actualización de combustibles ofrecidos, eliminación bajo ciertas condiciones.</td>
     </tr>
     <tr>
       <td>http://localhost:3000/fuels</td>
       <td>Combustibles</td>
-      <td>GET, POST, PUT, DELETE</td>
+      <td>GET, POST, PUT</td>
       <td>Catálogo de combustibles: adición de nuevos tipos, actualización de precios, retiro de productos descontinuados.</td>
     </tr>
     <tr>
       <td>http://localhost:3000/trucks</td>
       <td>Camiones</td>
-      <td>GET, POST, PUT, DELETE</td>
+      <td>GET, POST</td>
       <td>Gestión de flota: registro de nuevos camiones, actualización de estado y capacidad, baja de unidades inoperativas.</td>
     </tr>
     <tr>
@@ -802,13 +802,13 @@ En esta sección, se define los Web Services que se han desarrollado para esta p
     <tr>
       <td>http://localhost:3000/drivers</td>
       <td>Conductores</td>
-      <td>GET, POST, PUT, DELETE</td>
+      <td>GET, POST</td>
       <td>Gestión de conductores: alta de nuevos choferes, actualización de licencias, baja por retiro o inactividad.</td>
     </tr>
     <tr>
       <td>http://localhost:3000/tanks</td>
       <td>Tanques</td>
-      <td>GET, POST, PUT, DELETE</td>
+      <td>GET, POST</td>
       <td>Administración de tanques de almacenamiento: alta de nuevos tanques, cambio de estado, eliminación por desgaste.</td>
     </tr>
   </tbody>
@@ -1195,6 +1195,12 @@ En esta sección, se define los Web Services que se han desarrollado para esta p
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 3, el equipo trabajó de forma colaborativa para cumplir con todos los objetivos planteados en esta etapa del proyecto. Sin embargo, algunos miembros asumieron un mayor protagonismo en tareas clave, como el desarrollo del Backend. En esta fase, se reflejó de manera más detallada el progreso tanto en la construcción de la página web como en la implementación de la base de datos.
+
+Frontend:
+<img src="./img/commitsfrontend2.png" alt="commitsfrontend2">
+
+Backend:
+<img src="./img/commitsbackend.png" alt="commitsbackend">
 
 ## 5.3. Validation Interviews
 
