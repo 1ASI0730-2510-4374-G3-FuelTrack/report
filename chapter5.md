@@ -1361,11 +1361,18 @@ En esta sección, se evidencia todos los cambios realizados en la pagina web y q
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En esta sección, se define los Web Services que se han desarrollado para esta parte del desarrollo.
+Durante el Sprint 3 se completó la documentación de los Web Services relacionados con la gestión de pedidos, integrando las funcionalidades definidas previamente en el backlog. Esta documentación corresponde a las rutas del API REST diseñadas para la plataforma FuelTrack, las cuales fueron implementadas y validadas inicialmente a través de una Fake API. Esta Fake API permitió simular y verificar las interacciones esperadas por el frontend de la aplicación antes de la integración con los servicios reales.
+
+La documentación generada sigue el estándar OpenAPI (Swagger), permitiendo una visualización clara de los endpoints, parámetros de entrada, respuestas esperadas y códigos de estado HTTP para facilitar su consumo por parte de los desarrolladores y otros stakeholders técnicos.
+
+<img src="./img/SwaggerEvidence.png">
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Este enlace proporciona acceso a la interfaz interactiva Swagger UI, desde donde es posible consultar, probar y validar cada uno de los endpoints desarrollados e implementados hasta la fecha como parte del alcance del Sprint 3.
 
+<p><strong>Enlace a Demo en Vivo:</strong><br>
+<a href="https://fueltrack-backend.onrender.com/swagger" target="_blank">FuelTrack Web Services</a></p>
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
