@@ -921,11 +921,11 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
     </tr>
     <tr align="center">
         <td>Sprint 3 Velocity</td>
-        <td></td>
+        <td>21</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td></td>
+        <td>79</td>
     </tr>
 </table>
 
@@ -1361,11 +1361,18 @@ En esta sección, se evidencia todos los cambios realizados en la pagina web y q
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En esta sección, se define los Web Services que se han desarrollado para esta parte del desarrollo.
+Durante el Sprint 3 se completó la documentación de los Web Services relacionados con la gestión de pedidos, integrando las funcionalidades definidas previamente en el backlog. Esta documentación corresponde a las rutas del API REST diseñadas para la plataforma FuelTrack, las cuales fueron implementadas y validadas inicialmente a través de una Fake API. Esta Fake API permitió simular y verificar las interacciones esperadas por el frontend de la aplicación antes de la integración con los servicios reales.
+
+La documentación generada sigue el estándar OpenAPI (Swagger), permitiendo una visualización clara de los endpoints, parámetros de entrada, respuestas esperadas y códigos de estado HTTP para facilitar su consumo por parte de los desarrolladores y otros stakeholders técnicos.
+
+<img src="./img/SwaggerEvidence.png">
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Este enlace proporciona acceso a la interfaz interactiva Swagger UI, desde donde es posible consultar, probar y validar cada uno de los endpoints desarrollados e implementados hasta la fecha como parte del alcance del Sprint 3.
 
+<p><strong>Enlace a Demo en Vivo:</strong><br>
+<a href="https://fueltrack-backend.onrender.com/swagger" target="_blank">FuelTrack Web Services</a></p>
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -1426,16 +1433,28 @@ B. Empresas Solicitantes de Combustible:
 - Resumen: 
 Zahir Ovando de 20 años trabaja en una empresa proveedora de combustible y ha estado involucrado en la industria durante 6 meses. Tras mostrarle nuestra landing page y el frontend de FuelTrack, expresó que la información presentada es clara y fácil de entender. Destacó la facilidad de navegación y la organización de las secciones principales del dashboard, especialmente en lo que respecta a pedidos y pagos. Sin embargo, sugirió que sería útil recibir notificaciones sobre cambios en los pedidos. También mencionó que le gustaría ver más detalles sobre las empresas solicitantes, como su historial de pedidos y consumo mensual.
 ---
-
-#### Entrevista N°2 – Segmento: Solicitantes
-- Nombres: 
-- Apellidos: 
-- Edad:
-- Distrito:
-- URL Entrevista:
-- Duración: 
-- Resumen:
-
+#### Entrevista N°2
+- Nombres: Ana Patricia
+- Apellidos: Leyton Moncada
+- Edad:25
+- Distrito:Piura
+- URL Entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202412591_upc_edu_pe/Ee95CcX1wkFBol1AFwWDv7cB2lxFMjTVk5EzZEC84gk9iA?e=ReeXyH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración: 3:02
+- Resumen:Patricia, de 25 años y trabajadora en una empresa de proveedores de combustible, opina que la plataforma FuelTrack es clara y fácil de usar, pero sugiere mejorar la visibilidad de ciertos enlaces y agregar ejemplos visuales o una guía interactiva. Propone incluir un video o una sección de preguntas frecuentes en la página principal.
+  En el front-end, destaca la facilidad para encontrar secciones, pero considera que algunas funciones, como las notificaciones y el historial de pedidos, deberían ser más visibles. También sugiere agregar un sistema de calificación de proveedores y la opción de exportar datos a Excel. Además, le gustaría que los campos del registro de despachos se autocompleten y que los gráficos de ventas puedan filtrarse por tipo de combustible o terminal.
+  <img src="./img/5.png" alt="entrevista2">
+- 
+#### Entrevista N°3 – Segmento: Solicitantes
+- Nombres:  Bernando
+- Apellidos: Garcia
+- Edad:42
+- Distrito:Piura
+- URL Entrevista:https://upcedupe-my.sharepoint.com/personal/u202310129_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310129%5Fupc%5Fedu%5Fpe%2FDocuments%2FentrevistaValidaci%C3%B3n%5Fsolicitante%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E76470699%2D4566%2D499c%2D90e1%2Df089fd5f6176
+- Duración: 24:40
+- Resumen: En la entrevista, César Navarro, estudiante de Ingeniería de Software, presentó los prototipos de una plataforma de gestión de pedidos de combustible. Explicó las funcionalidades, como la visualización de órdenes, el análisis de consumo, un mapa de terminales, notificaciones, y la sección de proveedores. También mencionó la opción de seguir el flujo de trabajo en tiempo real para monitorear el estado y la ruta de los pedidos.
+El entrevistado sugirió mejoras, como la inclusión de una sección para visualizar los costos del combustible por terminal y la opción de mostrar precios unitarios negociados. También propuso que se incorporen filtros y opciones de exportación a Excel para facilitar el control y análisis de los datos. Además, recomendó que se permita el registro de nuevos contactos y que los usuarios puedan gestionar la base de datos internamente.
+Se habló sobre la posibilidad de integrar la plataforma con otras herramientas mediante un servicio web, para que los datos de seguimiento y pedidos puedan ser gestionados directamente desde otros sistemas de la empresa. En general, el entrevistado consideró que la idea es buena, pero sugirió mejoras adicionales para hacer la plataforma más robusta.
+  <img src="/img/6.png" alt="entrevista3">
 ---
 
 ### 5.3.3. Evaluaciones heuristicas
