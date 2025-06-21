@@ -1416,14 +1416,15 @@ B. Empresas Solicitantes de Combustible:
 ---
 
 #### Entrevista N°1 – Segmento: Proveedores
-- Nombres: 
-- Apellidos: 
-- Edad:
-- Distrito:
-- URL Entrevista:
-- Duración: 
-- Resumen:
-
+- Nombres: Zahir Emmanuel
+- Apellidos: Ovando Acosta
+- Edad: 20
+- Distrito: San Martín de Porres
+- URL Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201817507_upc_edu_pe/EVC9BfTZRt5KpkQumoaNLkYBqa4kb9P9J_CqmsQUWxhDRw?e=hlecVF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración: 4:13
+- Captura: <img src="img/entrevista2_1.png" alt="entrevista2_segmento1_1" /></p>
+- Resumen: 
+Zahir Ovando de 20 años trabaja en una empresa proveedora de combustible y ha estado involucrado en la industria durante 6 meses. Tras mostrarle nuestra landing page y el frontend de FuelTrack, expresó que la información presentada es clara y fácil de entender. Destacó la facilidad de navegación y la organización de las secciones principales del dashboard, especialmente en lo que respecta a pedidos y pagos. Sin embargo, sugirió que sería útil recibir notificaciones sobre cambios en los pedidos. También mencionó que le gustaría ver más detalles sobre las empresas solicitantes, como su historial de pedidos y consumo mensual.
 ---
 
 #### Entrevista N°2 – Segmento: Solicitantes
