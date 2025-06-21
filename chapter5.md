@@ -821,11 +821,11 @@ En esta sección, se define los API REST que se han desarrollado para esta parte
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 <p><strong>Resumen:</strong><br>
-El despliegue inicial de la plataforma de FuelTrack fue realizado exitosamente utilizando GitHub Pages.</p>
+El despliegue inicial de la plataforma de FuelTrack fue realizado exitosamente utilizando Vercel.</p>
 
 <h5>Detalles del Despliegue:</h5>
 <ul>
-  <li><strong>URL de la pagina web:</strong> <a href="https://fuel-track-pro-fronted-jljq.vercel.app/" target="_blank">https://fuel-track-pro-fronted-jljq.vercel.app/</a></li>
+  <li><strong>URL de la pagina web:</strong> <a href="https://fronted-ft.vercel.app/" target="_blank">https://fronted-ft.vercel.app/</a></li>
   <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0730-2510-4374-G3-FuelTrack/Fornted/" target="_blank">https://github.com/1ASI0730-2510-4374-G3-FuelTrack/Fornted/</a></li>
 </ul>
 
