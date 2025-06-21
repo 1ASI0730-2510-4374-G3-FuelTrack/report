@@ -1425,16 +1425,28 @@ B. Empresas Solicitantes de Combustible:
 - Resumen:
 
 ---
-
-#### Entrevista N°2 – Segmento: Solicitantes
-- Nombres: 
-- Apellidos: 
-- Edad:
-- Distrito:
-- URL Entrevista:
-- Duración: 
-- Resumen:
-
+#### Entrevista N°2
+- Nombres: Ana Patricia
+- Apellidos: Leyton Moncada
+- Edad:25
+- Distrito:Piura
+- URL Entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202412591_upc_edu_pe/Ee95CcX1wkFBol1AFwWDv7cB2lxFMjTVk5EzZEC84gk9iA?e=ReeXyH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración: 3:02
+- Resumen:Patricia, de 25 años y trabajadora en una empresa de proveedores de combustible, opina que la plataforma FuelTrack es clara y fácil de usar, pero sugiere mejorar la visibilidad de ciertos enlaces y agregar ejemplos visuales o una guía interactiva. Propone incluir un video o una sección de preguntas frecuentes en la página principal.
+  En el front-end, destaca la facilidad para encontrar secciones, pero considera que algunas funciones, como las notificaciones y el historial de pedidos, deberían ser más visibles. También sugiere agregar un sistema de calificación de proveedores y la opción de exportar datos a Excel. Además, le gustaría que los campos del registro de despachos se autocompleten y que los gráficos de ventas puedan filtrarse por tipo de combustible o terminal.
+  <img src="./img/5.png" alt="entrevista2">
+- 
+#### Entrevista N°3 – Segmento: Solicitantes
+- Nombres:  Bernando
+- Apellidos: Garcia
+- Edad:42
+- Distrito:Piura
+- URL Entrevista:https://upcedupe-my.sharepoint.com/personal/u202310129_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310129%5Fupc%5Fedu%5Fpe%2FDocuments%2FentrevistaValidaci%C3%B3n%5Fsolicitante%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E76470699%2D4566%2D499c%2D90e1%2Df089fd5f6176
+- Duración: 24:40
+- Resumen: En la entrevista, César Navarro, estudiante de Ingeniería de Software, presentó los prototipos de una plataforma de gestión de pedidos de combustible. Explicó las funcionalidades, como la visualización de órdenes, el análisis de consumo, un mapa de terminales, notificaciones, y la sección de proveedores. También mencionó la opción de seguir el flujo de trabajo en tiempo real para monitorear el estado y la ruta de los pedidos.
+El entrevistado sugirió mejoras, como la inclusión de una sección para visualizar los costos del combustible por terminal y la opción de mostrar precios unitarios negociados. También propuso que se incorporen filtros y opciones de exportación a Excel para facilitar el control y análisis de los datos. Además, recomendó que se permita el registro de nuevos contactos y que los usuarios puedan gestionar la base de datos internamente.
+Se habló sobre la posibilidad de integrar la plataforma con otras herramientas mediante un servicio web, para que los datos de seguimiento y pedidos puedan ser gestionados directamente desde otros sistemas de la empresa. En general, el entrevistado consideró que la idea es buena, pero sugirió mejoras adicionales para hacer la plataforma más robusta.
+  <img src="/img/6.png" alt="entrevista3">
 ---
 
 ### 5.3.3. Evaluaciones heuristicas
