@@ -921,11 +921,11 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
     </tr>
     <tr align="center">
         <td>Sprint 3 Velocity</td>
-        <td></td>
+        <td>21</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td></td>
+        <td>79</td>
     </tr>
 </table>
 
