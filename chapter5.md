@@ -983,35 +983,210 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
 ### 5.2.3.3. Sprint Backlog 3
 
 <table border="1" cellspacing="0" cellpadding="6">
-<thead>
-    <tr align="center">
-        <td colspan="2"><strong>Sprint #</strong></td>
-        <td colspan="6"><strong>Sprint 3</strong></td>
-    </tr>
-    <tr align="center">
-        <td colspan="2"><strong>User Story</strong></td>
-        <td colspan="6"><strong>Work-Item / Task</strong></td>
-    </tr>
-    <tr align="center">
-        <td><strong>Id</strong></td>
-        <td><strong>Title</strong></td>
-        <td><strong>Id</strong></td>
-        <td><strong>Title</strong></td>
-        <td><strong>Description</strong></td>
-        <td><strong>Estimation (Hours)</strong></td>
-        <td><strong>Assigned to</strong></td>
-        <td><strong>Status (To do / In process / To review / Done)</strong></td>
-    </tr>
-    <tr>
-        <td>US-</td>
-        <td></td>
-        <td>W-</td>
-        <td></td>
-        <td></td>
-        <td>horas</td>
-        <td></td>
-        <td>Done</td>
-    </tr>
+  <thead>
+      <tr align="center">
+          <td><strong>Historia de usuario</strong></td>
+          <td><strong>Title</strong></td>
+          <td><strong>Descripción</strong></td>
+          <td><strong>Estimacion (Horas)</strong></td>
+          <td><strong>Asignado</strong></td>
+          <td><strong>Estado</strong></td>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>US18</td>
+          <td>Implementar validación de stock</td>
+          <td>Desarrollar la lógica que valida el stock antes de aprobar un pedido.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td>Mostrar formulario de motivo de rechazo</td>
+          <td>Desplegar un campo de texto si el proveedor decide no aprobar el pedido.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US19</td>
+          <td>Agregar accióde despachar pedido</td>
+          <td>Permitir que el proveedor marque un pedido como despachado solo si está aprobado.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US20</td>
+          <td>Implementar cierre de pedido</td>
+          <td>Permitir cerrar el pedido solo si el solicitante confirmó la entrega.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US21</td>
+          <td>Generar archivo de reporte</td>
+          <td>Crear función para generar archivo con datos de ventas según rango de fechas.</td>
+          <td>5</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US22</td>
+          <td>Diseñar dashboard de resumen</td>
+          <td>Mostrar KPIs de estados de pedidos para solicitante.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US23</td>
+          <td>Diseñar dashboard proveedor</td>
+          <td>Mostrar KPIs de pedidos gestionados para proveedor.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>TS05</td>
+          <td>Crear endpoint de autenticación</td>
+          <td>Desarrollar endpoint para recibir credenciales y devolver token JWT.</td>
+          <td>5</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>TS06</td>
+          <td>Desarrollar endpoint recuperación</td>
+          <td>Implementar envío de correo con enlace de recuperación de contraseña.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>TS07</td>
+          <td>Crear endpoint logout</td>
+          <td>Desarrollar endpoint para invalidar sesión del usuario.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US24</td>
+          <td>Implementar asignación de vehículo</td>
+          <td>Permitir asignar un vehículo disponible a un pedido aprobado.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US25</td>
+          <td>Desarrollar asignación de conductor</td>
+          <td>Permitir asignar conductor libre a pedido con vehículo asignado.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>        
+      <tr>
+          <td>US26</td>
+          <td>Implementar validación de disponibilidad</td>
+          <td>Verificar que los vehículos no estén ocupados antes de asignarlos.</td>
+          <td>3</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US27</td>
+          <td>Diseñar vista de perfil</td>
+          <td>Mostrar datos del usuario logueado.</td>
+          <td>3</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US28</td>
+          <td>Implementar edición de perfil</td>
+          <td>Permitir editar y guardar datos de perfil del usuario.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US29</td>
+          <td>Desarrollar búsqueda de pedidos</td>
+          <td>Permitir buscar pedidos mediante código único.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US30</td>
+          <td>Implementar filtro de pedidos</td>
+          <td>Permitir filtrar pedidos por estado: pendiente, aprobado, entregado.</td>
+          <td>3</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US31</td>
+          <td>Desarrollar sistema de notificaciones</td>
+          <td>Enviar notificaciones al solicitante cuando su pedido sea aprobado/rechazado.</td>
+          <td>4</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US32</td>
+          <td>Implementar notificación de despacho</td>
+          <td>Notificar al solicitante cuando el pedido se marque como despachado.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US33</td>
+          <td>Diseñar módulo de empresas</td>
+          <td>Mostrar listado de empresas solicitantes al proveedor.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US34</td>
+          <td>Mostrar detalle de empresa</td>
+          <td>Permitir ver historial de pedidos de cada empresa.</td>
+          <td>3</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US35</td>
+          <td>Desarrollar gráfico de consumo</td>
+          <td>Mostrar gráfico mensual de galones consumidos por solicitante.</td>
+          <td>4</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US36</td>
+          <td>Desarrollar gráfico de ventas</td>
+          <td>Mostrar gráfico mensual de ventas del proveedor.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US37</td>
+          <td>Implementar descarga de reportes</td>
+          <td>Generar y permitir la descarga de reporte en formato PDF.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+  </tbody>
 </table>
 
 ### 5.2.3.4. Development Evidence for Sprint Review
