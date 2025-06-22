@@ -2,26 +2,29 @@
 
 ## 5.1.1. Software Development Environment Configuration
 
-**Project Management:**
-- **WhatsApp**: Aplicación de mensajería instantánea propiedad de Meta, utilizada para coordinar tareas del equipo y facilitar el intercambio de ideas y apoyo continuo durante el desarrollo del proyecto.
-- **Google Meet**: Herramienta de videoconferencias de Google, usada para mantener reuniones virtuales, planificación de tareas y comunicación directa.
-- **Google Drive**: Servicio de almacenamiento en la nube para compartir archivos relevantes y documentación del proyecto entre los miembros del equipo.
+### Project Management
+- **WhatsApp**: Aplicación de mensajería instantánea de Meta, utilizada para coordinar tareas, compartir ideas y brindar soporte continuo durante el desarrollo del proyecto.
+- **Google Meet**: Plataforma de videoconferencias empleada para reuniones virtuales, planificación colaborativa y comunicación directa entre los miembros del equipo.
+- **Google Drive**: Servicio de almacenamiento en la nube que permite compartir documentos, archivos clave y recursos del proyecto de forma organizada.
 
-**Requirements Management:**
-- **UXPressia**: Utilizada para la creación de User Personas, User Journey Maps e Impact Maps, mejorando la comprensión de las necesidades del usuario.
-- **Zoom**: Empleada para la realización de entrevistas de necesidad y validación de usuarios potenciales.
+### Requirements Management
+- **UXPressia**: Herramienta especializada en la creación de User Personas, User Journey Maps e Impact Maps, que facilita una mejor comprensión de las necesidades y expectativas de los usuarios.
+- **Zoom**: Utilizada para realizar entrevistas de exploración y validación con usuarios potenciales, recopilando información valiosa para definir requerimientos.
 
-**Product UX/UI Design:**
-- **Figma**: Plataforma colaborativa para el diseño de wireframes, wireflows, mockups y prototipos interactivos.
+### Product UX/UI Design
+- **Figma**: Plataforma colaborativa para el diseño de interfaces, wireframes, wireflows, mockups y prototipos interactivos, promoviendo una visión compartida del producto final.
 
-**Software Development:**
-- **Vertabelo**: Herramienta para el diseño del modelo de base de datos, asegurando una estructura visual clara de entidades y relaciones.
-- **Google Chrome**: Navegador utilizado para realizar pruebas de compatibilidad y funcionalidad de la Landing Page y Web Application.
-- **Visual Studio Code**: Editor de código para programar en JavaScript, Vue.js, y gestionar el control de versiones mediante GitHub.
+### Software Deployment
+- **GitHub**: Plataforma de control de versiones basada en Git, utilizada para alojar el repositorio del proyecto, gestionar ramas de desarrollo, automatizar despliegues y realizar seguimiento de issues.
 
-**Software Documentation:**
-- **Google Docs**: Documentos colaborativos para registrar decisiones, avances y acuerdos del proyecto.
-- **Structurizr**: Herramienta para diseñar diagramas C4, representando arquitecturas de software a distintos niveles de abstracción.
+### Software Development
+- **JetBrains WebStorm** (o IntelliJ IDEA, según el stack): Entorno de desarrollo integrado empleado para programar y mantener todo el código del proyecto, incluyendo frontend, backend y lógica de negocio, con integración a GitHub para control de versiones.
+- **Vertabelo**: Herramienta para modelado visual de bases de datos, que permite definir entidades, relaciones y estructuras de datos de manera clara y eficiente.
+- **Google Chrome**: Navegador principal para realizar pruebas de compatibilidad, rendimiento y funcionalidad de la aplicación web.
+
+### Software Documentation
+- **Google Docs**: Herramienta de edición colaborativa para documentar decisiones, avances técnicos, acuerdos del equipo y requisitos funcionales.
+- **Structurizr**: Plataforma para el modelado de arquitecturas de software utilizando diagramas C4, que representan visualmente los diferentes niveles de abstracción del sistema.
 
 ## 5.1.2. Source Code Management
 
@@ -82,9 +85,9 @@ Gestor de paquetes:
 
 <h2>5.2. Landing Page, Services & Applications Implementation</h2>
 
-<h3>5.2.1. Sprint 1</h3>
+## 5.2.1. Sprint 1
 
-<h4>5.2.1.1. Sprint Planning 1</h4>
+### 5.2.1.1. Sprint Planning 1
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr><th><strong>Sprint #</strong></th><td>Sprint 1</td></tr>
@@ -134,7 +137,7 @@ Gestor de paquetes:
 
 ---
 
-<h4>5.2.1.2. Líderes y Colaboradores por Áreas</h4>
+### 5.2.1.2. Aspect Leaders and Collaborators
 
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
@@ -225,13 +228,13 @@ Implementar funcionalidades básicas para el registro, gestión de pedidos y aut
 </table>
 
 
-<h4>5.2.1.4. Development Evidence for Sprint Review</h4>
+### 5.2.1.4. Development Evidence for Sprint Review
 
 <p><strong>Resumen:</strong><br>
 Durante este Sprint, el equipo implementó y desplegó con éxito la versión inicial de la Landing Page de FuelTrack. Los commits relacionados con estos avances se detallan a continuación.
 </p>
 
-<h4>5.2.1.5. Tabla de Commits</h4>
+<h4>Tabla de Commits</h4>
 
 <p><strong>Resumen:</strong> Esta tabla lista los commits realizados durante los primeros sprints de desarrollo, incluyendo el trabajo en la Landing Page, documentación y configuración del proyecto.</p>
 
@@ -291,9 +294,8 @@ Durante este Sprint, el equipo implementó y desplegó con éxito la versión in
 
 </table>
 
----
 
-<h3>5.2.1.5. Execution Evidence for Sprint Review</h3>
+### 5.2.1.5. Execution Evidence for Sprint Review
 
 <p><strong>Resumen:</strong><br>
 Las principales secciones de la Landing Page de FuelTrack fueron desarrolladas y desplegadas exitosamente. A continuación se presentan capturas de pantalla de las secciones implementadas.</p>
@@ -312,15 +314,22 @@ Las principales secciones de la Landing Page de FuelTrack fueron desarrolladas y
 <p><strong>Enlace a Demo en Vivo:</strong><br>
 <a href="https://1asi0730-2510-4374-g3-fueltrack.github.io/Landing-page/" target="_blank">FuelTrack Landing Page</a></p>
 
-<hr>
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-<h4>5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
+Durante el Sprint 1, el equipo logró implementar y desplegar la Landing Page de FuelTrack, lo que representa el primer entregable visible y funcional del producto. Esta incluye secciones informativas sobre la plataforma, beneficios clave para los usuarios, diferenciación por tipo de usuario, y botones de acción que direccionan al login o registro.
 
-<!-- Puedes agregar contenido adicional aquí -->
+Además, se configuró el entorno de desarrollo, se definieron los flujos de trabajo con Gitflow y se establecieron las convenciones de codificación. Los avances fueron registrados mediante commits con convenciones semánticas y organizados a través de su propio repositorio.
 
-<hr>
+Logros Clave:
+- Desarrollo completo de la Landing Page (HTML, CSS, Vue 3).
+- Implementación de componentes reutilizables en PrimeVue.
+- Diseño responsive validado en Chrome y Firefox.
+- Despliegue exitoso en GitHub Pages: fueltrack.github.io
+- Documentación del entorno y arquitectura en Structurizr y Google Docs.
+- Flujo Gitflow aplicado y validado con múltiples merges y ramas feature.
+- Participación activa de todos los miembros del equipo según el plan establecido.
 
-<h3>5.2.1.7. Software Deployment Evidence for Sprint Review</h3>
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 <p><strong>Resumen:</strong><br>
 El despliegue inicial de la Landing Page de FuelTrack fue realizado exitosamente utilizando GitHub Pages.</p>
@@ -337,9 +346,7 @@ El despliegue inicial de la Landing Page de FuelTrack fue realizado exitosamente
   <li>Construcción y despliegue del sitio estático generado con Vite (Vue 3) a la rama <code>gh-pages</code>.</li>
 </ul>
 
-<hr>
-
-<h3>5.2.1.8. Team Collaboration Insights during Sprint</h3>
+### 5.2.1.8. Team Collaboration Insights during Sprint
 
 <p><strong>Resumen:</strong><br>
 El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue de la Landing Page.</p>
@@ -356,4 +363,1112 @@ El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividade
   <li>WhatsApp (comunicación diaria y aclaraciones rápidas)</li>
   <li>Google Meet (reuniones de planificación de sprint)</li>
 </ul>
+
+
+## 5.2.2 Sprint 2
+
+### 5.2.2.1. Sprint Planning 2
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr><th><strong>Sprint #</strong></th><td>Sprint 2</td></tr>
+  <tr><th><strong>Resumen del Sprint Planning</strong></th><td>---</td></tr>
+  <tr><th><strong>Fecha</strong></th><td>2025-05-09</td></tr>
+  <tr><th><strong>Hora</strong></th><td>11:00 PM</td></tr>
+  <tr><th><strong>Ubicación</strong></th><td>Google Meet</td></tr>
+  <tr><th><strong>Preparado por</strong></th><td>Manuel Angel Sanchez Arenas</td></tr>
+  <tr><th><strong>Asistentes a la reunión de planificación</strong></th>
+    <td>
+      Bryan Ronald Espejo Gamarra,<br>
+      Manuel Angel Sanchez Arenas,<br>
+      Juan Diego Javier Mondoñedo Rodríguez,<br>
+      Diego Vicente Seminario Castillo<br>
+	  Cesar Augusto Navarro Correa
+    </td>
+  </tr>
+  <tr><th><strong>Resumen del Sprint 1 (Revisión)</strong></th><td>Creación de un nuevo repositorio para el Frontend y asignación de tareas para implementar sus funciones para los solicitantes y proveedores</td></tr>
+  <tr><th><strong>Resumen del Sprint 1 (Retrospectiva)</strong></th><td>Realización de la primera versión del Landing y documentación de las tareas y los cambios realizados</td></tr>
+</table>
+
+<hr>
+
+<h4>Objetivo del Sprint y User Stories</h4>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th><strong>Ítem</strong></th>
+    <th><strong>Descripción</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Objetivo del Sprint 2</strong></td>
+    <td>
+      Nuestro enfoque está en implementar la versión inicial del Frontend de la pagina web de FuelTrack.<br>
+      Creemos que esto será un aproximado de como los usuarios van a interactuar y a utilizar la plataforma.<br>
+      Esto se confirmará cuando la pagina web esté desplegada en vivo en GitHub Pages y accesible desde cualquier dispositivo.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Velocidad del Sprint 2</strong></td>
+    <td>55 Story Points</td>
+  </tr>
+  <tr>
+    <td><strong>Suma de Story Points</strong></td>
+    <td>55</td>
+  </tr>
+</table>
+
+---
+
+### 5.2.2.2. Aspect Leaders and Collaborators
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Miembro del equipo (Apellido, Nombre)</th>
+      <th>Usuario de GitHub</th>
+      <th>Frontend Client (L/C)</th>
+      <th>Frontend Supplier (L/C)</th>
+      <th>Documentación (L/C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Espejo Gamarra, Bryan Ronald</td>
+      <td>SaeBryxn</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Sanchez Arenas, Manuel Angel</td>
+      <td>manuels7a</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Mondoñedo Rodriguez, Juan Diego Javier</td>
+      <td>Jmondonedor</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Seminario Castillo, Diego Vicente</td>
+      <td>DiegoSeminario</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Navarro Correa, César Augusto</td>
+      <td>csr555-ui</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### 5.2.2.3. Sprint Backlog 2
+
+**Sprint Objective:**
+Implementar funcionalidades básicas para el registro, gestión de pedidos y autenticación de usuarios en FuelTrack.
+
+
+<h4>Tabla de Sprint Backlog</h4>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Historia de Usuario</th>
+      <th>Elemento de trabajo / Tarea</th>
+      <th>Descripción</th>
+      <th>Estimación (Horas)</th>
+      <th>Asignado a</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Crear nuevo pedido</td>
+      <td>Como usuario de una empresa solicitante, quiero poder registrar un pedido directamente desde la plataforma agilizar el proceso y evitar llamadas.</td>
+      <td>6</td>
+      <td>Bryan Ronald Espejo Gamarra</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Consultar historial de pedidos</td>
+      <td>Como solicitante, quiero poder consultar mi historial de pedidos anteriores, y poder ver cada uno con información detallada. Además, debo ser capaz de filtrar y ordenar el historial según características específicas de los pedidos.</td>
+      <td>4</td>
+      <td>Bryan Ronald Espejo Gamarra</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+       <td>US03</td>
+      <td>Editar pedidos</td>
+      <td>Como solicitante, quiero tener la posibilidad de editar parámetros, como el monto o dirección de entrega, de mis pedidos siempre y cuando estos todavía no hayan sido confirmados por el rpoovedor</td>
+      <td>5</td>
+      <td>Bryan Ronald Espejo Gamarra</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Confirmar pedido recibido</td>
+      <td>Como proveedor, quiero revisar y confirmar los datos del pedido desde mi panel para asegurar que el pedido será atendido correctamente.</td>
+      <td>5</td>
+      <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+       <td>US05</td>
+      <td>Actualización de un pedido</td>
+      <td>Como proveedor de combustible, quiero poder actualizar el estado e información de los pedidos en tiempo real, para mantener a mis clientes informados y organizar mejor mis entregas.</td>
+      <td>4</td>
+      <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+       <td>US06</td>
+      <td>Notificaciones a clientes sobre cambios</td>
+      <td>Como proovedor, quiero que mis clientes reciban notificaciones automáticas cuando actualizo un pedido, para que estén al tanto del progreso sin tener que llamarlos.</td>
+      <td>4</td>
+      <td>Bryan Ronald Espejo Gamarra</td>
+      <td>En Proceso</td>
+    </tr>
+    <tr>
+       <td>US07</td>
+      <td>Cancelación o rechazo de pedidos</td>
+      <td>Como proveedor de combustible, quiero poder rechazar o cancelar un pedido y enviar un mensaje al cliente explicando los motivos, para mantener una comunicación clara y evitar confusiones.</td>
+      <td>5</td>
+      <td>Bryan Ronald Espejo Gamarra</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Inicio de sesión</td>
+      <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura.</td>
+      <td>4</td>
+      <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Registro de cuenta nueva</td>
+      <td>Como visitante, Quiero crear una cuenta con correo, contraseña y rol (cliente o proveedor), Para acceder y comenzar a utilizar la plataforma.</td>
+      <td>4</td>
+      <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Recuperación de contraseña</td>
+      <td>Como usuario, Quiero tener la posibilidad de recuperar mi contraseña mediante correo electrónico, Para no perder el acceso a mi cuenta en caso la olvide.</td>
+      <td>5</td>
+      <td>Bryan Ronald Espejo GamarraEP03</td>
+      <td>En Proceso</td>
+    </tr>
+    <tr>
+      <td>US11</td>
+      <td>Acceso restringido por roles</td>
+      <td>Como administrador de la plataforma, Quiero que los usuarios solo accedan a las secciones según su tipo de cuenta, Para evitar errores en el sistema</td></td>
+      <td>4</td>
+      <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+      <td>US12</td>
+      <td>Autenticación MFA para realizar pedidos</td>
+      <td>Como empresa solicitante, Quiero que se me solicite una autenticación multifactor al momento de realizar un pedido, Para asegurar que solo personal autorizado pueda emitir órdenes de compra</td>
+      <td>5</td>
+      <td>Bryan Ronald Espejo Gamarra</td>
+      <td>En Proceso</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.2.4. Development Evidence for Sprint Review
+
+<p><strong>Resumen:</strong><br>
+
+</p>
+
+<h4>Tabla de Commits</h4>
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+<tbody>
+  <tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>a08bbae</td><td>Primer commit de mi proyecto frontend</td><td></td><td>10/05/2025</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>04ab76a</td><td>feat: reorganize and refactor project structure</td><td>
+<p>- Moved and renamed files for improved clarity (e.g., <code>api.js</code>, <code>authService.js</code>, <code>index.js</code>)</p>
+<p>- Added and updated Vue components for client and supplier (<code>LoginClient.vue</code>, <code>LoginSupplier.vue</code>, <p><code>OrderDetails.vue</code>, <code>OrdersList.vue</code>, <code>SupplierOrders.vue</code>, <code>Dispatch.vue</code>)</p>
+<p>- Updated service logic (<code>fuelService.js</code>, <code>api.ts</code>)</p>
+<p>- Updated project metadata (<code>package.json</code>, <code>package-lock.json</code>)</p>
+<p>- Minor updates to <code>index.html</code> and <code>main.js</code></p>
+<p>- Added mock data file <code>db.json</code></p></td><td>13/05/2025</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>685ee5f</td><td>feat: add analytics and order modules with components, services, and models</td><td>
+<p>- Added analytics module: views, components, models, and services (<code>AnalyticsDashboard.vue</code>, <code>AnalyticsHeader.vue</code>, <code>analyticsService.js</code>, etc.)</p>
+<p>- Integrated new order management components and models (<code>OrderDetails.vue</code>, <code>CreateOrderModal.vue</code>, <code>StepConfirmOrder.vue</code>, etc.)</p>
+<p>- Refactored and organized client order and supplier views</p>
+<p>- Updated shared enums, pagination, filters, and progress stepper</p>
+<p>- Included mock data and updated package files (<code>db.json</code>, <code>package.json</code>, etc.)</p>
+<p>- Improved file naming for consistency (<code>authService</code>, <code>index.js</code>)</p></td><td>13/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>ff26968</td><td>chore: update routing, client login, and project metadata</td><td>
+<p>- Updated <code>index.js</code> for routing improvements</p>
+<p>- Refined client login component (<code>LoginClient.vue</code>) for better UI/UX</p>
+<p>- Added mock data file (<code>db.json</code>) for development purposes</p>
+<p>- Updated project metadata with changes to <code>package.json</code> and <code>package-lock.json</code></p></td><td>13/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>3c9986b</td><td>feat: add provider and terminal modules with components and services</td><td>
+<p>- Added provider dashboard, stats, and workflow components (<code>ProviderDashboard.vue</code>, <code>ProviderList.vue</code>, <code>ProviderStats.vue</code>`, etc.) </p>
+<p>- Integrated terminal management components and services (<code>TerminalComparisonChart.vue</code>, <code>TerminalsDashboard.vue</code>, <code>TruckMap.vue</code>, etc.) </p>
+<p>- Updated provider and terminal models, including services for data handling (<code>providerService.js</code>, <code>terminalService.js</code>, <code>Truck.js</code>, etc.)</p>
+<p>- Added workflow and map components for managing operations (<code>WorkflowMap.vue</code>, <code>WorkflowDashboard.vue</code>, etc.)</p>
+<p>- Implemented new store logic with <code>useProviderStore.js</code></p></td><td>13/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>2678f3d</td><td>Updated components and pages for supplier views</td><td></td><td>13/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>d759683</td><td>feat(orders-management): add supplier order management view with filters, table, pagination and services</td><td></td><td>13/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>22103a2</td><td>feat(supplier): add login logic, dashboard layout, routing and sidebar component</td><td></td><td>13/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>fd43fc2</td><td>feat(router): add new routes and update db.json with matching mock data</td><td></td><td>13/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>614b7f6</td><td>feat(conciliations): implement supplier reconciliation dashboard with table, models, actions and detailed views</td><td></td><td>13/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>2b16d9c</td><td>feat: implement full conciliation and dispatch flows + UI enhancements and API integration</td><td><ul>
+  <li>Added full conciliation module for suppliers:
+    <ul>
+      <li>Models: <code>ConciliationOrder.js</code></li>
+      <li>Services: <code>conciliationService.js</code></li>
+      <li>Components: <code>ConciliationRow.vue</code>, <code>ConciliationsHeader.vue</code>, <code>ConciliationTable.vue</code></li>
+      <li>Views: <code>ConciliationsDashboard.vue</code></li>
+    </ul>
+  </li>
+  <li>Implemented dispatch header and integration for supplier flow (<code>DispatchHeader.vue</code>)</li>
+  <li>Added document upload modal (<code>LoadDocumentModal.vue</code>) and styled file drop zone</li>
+  <li>Improved <code>CreateOrderModal.vue</code> behavior and validation</li>
+  <li>Refined client and supplier login pages (<code>LoginClient.vue</code>, <code>LoginSupplier.vue</code>)</li>
+  <li>Updated global styles and toolbar alignment (<code>global.css</code>)</li>
+  <li>Enhanced routing (<code>index.js</code> and API communication (<code>api.js</code>, <code>fuelService.js</code>, <code>orderService.js</code>, <code>analyticsService.js</code>)</li>
+  <li>Updated JSON structure in <code>db.json</code> with conciliation and dispatch data</li>
+  <li>Minor UI improvements and responsive adjustments across order and conciliation tables</li>
+</ul>
+<p>This commit brings together UI, backend service, and API updates to enable a complete workflow for order conciliation, document upload, and dispatch assignment.</p>
+</td><td>14/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>orders</td><td>4a5090c</td><td>feat: add supplier analytics, client management, and dispatch modules with components and services</td><td><ul>
+  <li>Implemented Supplier Analytics module:
+    <ul>
+      <li>Service: <code>analyticsService.js</code></li>
+      <li>Components: <code>AnalyticsSummaryCard.vue</code>, <code>BarChartFuel.vue</code></li>
+      <li>Utils: <code>chartUtils.js</code></li>
+      <li>Routing support added in <code>index.js</code></li>
+    </ul>
+  </li>
+  <li>Added Supplier Clients management:
+    <ul>
+      <li>View: <code>ClientsDashboard.vue</code></li>
+      <li>Components: <code>ClientList.vue</code></li>
+      <li>Service: <code>clientService.js</code></li>
+      <li>Utilities: <code>clientUtils.js</code></li>
+    </ul>
+  </li>
+  <li>Developed full Dispatch management module:
+    <ul>
+      <li>Views: <code>DispatchDashboard.vue</code></li>
+      <li>Components: <code>AssignCargoModal.vue</code>, <code>DispatchRow.vue</code>, <code>DispatchTable.vue</code></li>
+      <li>Services: <code>dispatchService.js</code></li>
+      <li>Models: <code>DispatchOrder.js</code>, <code>Driver.js</code></li>
+    </ul>
+  </li>
+  <li>Included missing model and utilities for dispatch and analytics workflows</li>
+  <li>All components are fully integrated with the fake API and styled to match the supplier dashboard</li>
+</ul>
+<p>This commit delivers a full set of supplier-side tools for operational management: dashboards, dispatch planning, analytics tracking, and client coordination.</p>
+</td><td>14/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>supplier</td><td>a08bbae</td><td>Primer commit de mi proyecto frontend</td><td></td><td>10/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>supplier</td><td>3e5ef93</td><td>fix: fixed route for login and added paths</td><td></td><td>13/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>supplier</td><td>7b93a96</td><td>fix: corrected login href</td><td></td><td>13/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>supplier</td><td>fb9c7c1</td><td>feat: added supplier login, sidebar and order-management</td><td></td><td>13/05/25</td></tr>
+<tr><td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td><td>supplier</td><td>f14c700</td><td>fix: sidebar gap between items</td><td></td><td>13/05/25</td></tr>
+
+ 
+</tbody>
+</table>
+
+### 5.2.2.5. Execution Evidence for Sprint Review<
+
+<p><strong>Resumen:</strong><br>
+
+Las principales secciones del Frontend de FuelTrack fueron desarrolladas y desplegadas exitosamente. A continuación se presentan capturas de pantalla de las secciones implementadas.
+
+<h5>Evidencia de Capturas:</h5>
+<strong>Solicitantes</strong>
+<ul>
+  <li><strong>Orders Client Section</strong><br><img src="./img/OrdersClient.png" alt="Orders Client Section"></li>
+  <li><strong>Orders Client Section 2</strong><br><img src="./img/OrdersClientCreate.png" alt="Features Section 1"></li>
+  <li><strong>Orders Client Section 3</strong><br><img src="./img/OrdersClientCreate2.png" alt="Orders Client Section 2"></li>
+  <li><strong>Orders Client Section 4</strong><br><img src="./img/OrdersClientCreate3.png" alt="Orders Client Section 3"></li>
+  <li><strong>Analytics Client Section</strong><br><img src="./img/AnalyticsClient.png" alt="Analytics Client Section"></li>
+  <li><strong>Analytics Client Section 2</strong><br><img src="./img/AnalyticsClient2.png" alt="Analytics Client Section 2"></li>
+  <li><strong>Terminals Client Section</strong><br><img src="./img/TerminalsClient.png" alt="Terminals Client Section"></li>
+   <li><strong>Terminals Client Section 2</strong><br><img src="./img/TerminalsClient2.png" alt="Terminals Client Section 2"></li>
+   <li><strong>Provider Client Section</strong><br><img src="./img/ProviderClient.png" alt="Provider Client Section"></li>
+   <li><strong>Workflows Client Section</strong><br><img src="./img/WorkflowsClient.png" alt="Workflows Client Section"></li>
+</ul>
+<strong>Proveedores</strong>
+<ul>
+   <li><strong>Orders Supplier Section</strong><br><img src="./img/OrdersSupplier.png" alt="Orders Supplier Section"></li>
+   <li><strong>Conciliations Supplier Section</strong><br><img src="./img/ConciliationsSupplier.png" alt="Conciliations Supplier Section"></li>
+   <li><strong>Conciliations Supplier Section 2</strong><br><img src="./img/ConciliationsSupplier2.png" alt="Conciliations Supplier Section 2"></li>
+   <li><strong>Dispatch Supplier Section</strong><br><img src="./img/DispatchSupplier.png" alt="Dispatch Supplier Section"></li>
+    <li><strong>Dispatch Supplier Section 2</strong><br><img src="./img/DispatchSupplier2.png" alt="Dispatch Supplier Section 2"></li>
+   <li><strong>Analytics Supplier Section</strong><br><img src="./img/AnalyticsSupplier.png" alt="Analytics Supplier Section"></li>
+   <li><strong>Prices Supplier Section</strong><br><img src="./img/PricesSupplier.png" alt="Prices Supplier Section"></li>
+   <li><strong>Clients Supplier Section</strong><br><img src="./img/ClientsSupplier.png" alt="Clients Supplier Section"></li>
+</ul>
+
+<p><strong>Enlace a Demo en Vivo:</strong><br>
+<a href="https://fuel-track-pro-fronted-jljq.vercel.app/" target="_blank">FuelTrack Web Applicaction</a></p>
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+<p><strong>Resumen:</strong><br> Durante el Sprint 2, se ha logrado un buen avance en la implementación del sistema FuelTrack, centrándose en las funcionalidades más importantes tanto para los solicitantes como para los proveedores. Por un lado, se creó e integró el módulo de pedidos para solicitantes, permitiendo registrar, editar y visualizar el historial de pedidos para solicitantes. Por otro, se implementaron funcionalidades para confirmar, actualizar, despachar y conciliar pedidos para proveedores. 
+
+El proyecto fue organizado siguiendo buenas prácticas de arquitectura, empleando una estructura basada en dominios, componentes reutilizables y servicios bien definidos. Además, los commits reflejan una evolución progresiva del repositorio en la creación de los componentes, vistas y servicios de la plataforma. Todo el código fue probado localmente y versionado en GitHub.
+
+En esta sección, se define los API REST que se han desarrollado para esta parte del desarrollo.
+
+<table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; text-align: center;">
+  <thead style="background-color: #f5e8b0;">
+    <tr>
+      <th>Endpoint Simulado (Fake API)</th>
+      <th>Entidad</th>
+      <th>Operaciones CRUD Soportadas</th>
+      <th>Futuro Alcance con OpenAPI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>http://localhost:3000/orders</td>
+      <td>Órdenes</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Gestión completa de pedidos: creación, consulta, edición de estado y productos, eliminación de órdenes canceladas.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/transport</td>
+      <td>Transportes</td>
+      <td>GET, POST</td>
+      <td>Asignación y actualización de transporte a pedidos, consulta de estado en ruta, eliminación de asignaciones obsoletas.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/terminals</td>
+      <td>Terminales</td>
+      <td>GET, POST</td>
+      <td>Gestión de terminales de despacho: creación, edición de datos geográficos y eliminación si quedan inactivas.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/providers</td>
+      <td>Proveedores</td>
+      <td>GET, POST</td>
+      <td>Gestión de proveedores de combustible, actualización de combustibles ofrecidos, eliminación bajo ciertas condiciones.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/fuels</td>
+      <td>Combustibles</td>
+      <td>GET, POST, PUT</td>
+      <td>Catálogo de combustibles: adición de nuevos tipos, actualización de precios, retiro de productos descontinuados.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/trucks</td>
+      <td>Camiones</td>
+      <td>GET, POST</td>
+      <td>Gestión de flota: registro de nuevos camiones, actualización de estado y capacidad, baja de unidades inoperativas.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/suppliers</td>
+      <td>Usuarios Proveedores</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Autenticación, administración de credenciales y eliminación de cuentas de proveedores no activos.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/clients</td>
+      <td>Clientes</td>
+      <td>GET, POST, PUT, DELETE</td>
+      <td>Registro de clientes, edición de datos personales, eliminación de cuentas según políticas de retención.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/drivers</td>
+      <td>Conductores</td>
+      <td>GET, POST</td>
+      <td>Gestión de conductores: alta de nuevos choferes, actualización de licencias, baja por retiro o inactividad.</td>
+    </tr>
+    <tr>
+      <td>http://localhost:3000/tanks</td>
+      <td>Tanques</td>
+      <td>GET, POST</td>
+      <td>Administración de tanques de almacenamiento: alta de nuevos tanques, cambio de estado, eliminación por desgaste.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+</p>
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+<p><strong>Resumen:</strong><br>
+El despliegue inicial de la plataforma de FuelTrack fue realizado exitosamente utilizando Vercel.</p>
+
+<h5>Detalles del Despliegue:</h5>
+<ul>
+  <li><strong>URL de la pagina web:</strong> <a href="https://fronted-ft.vercel.app/" target="_blank">https://fronted-ft.vercel.app/</a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0730-2510-4374-G3-FuelTrack/Fornted/" target="_blank">https://github.com/1ASI0730-2510-4374-G3-FuelTrack/Fornted/</a></li>
+</ul>
+
+<h5>Actividades de Despliegue:</h5>
+<ul>
+  <li>Configuración del repositorio con GitHub Pages.</li>
+  <li>Construcción y despliegue del sitio estático generado con Vite (Vue 3) a la rama <code>gh-pages</code>.</li>
+</ul>
+
+<hr>
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+<p><strong>Resumen:</strong><br>
+El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue de la Landing Page.</p>
+
+<h5>Evidencia de Colaboración:</h5>
+<ul>
+  <li>Captura de pantalla de commits en GitHub mostrando contribuciones del equipo.</li>
+  <li>Conversaciones de WhatsApp sobre coordinación de secciones y ajustes de diseño.</li>
+</ul>
+
+<h5>Principales Herramientas de Comunicación:</h5>
+<ul>
+  <li>GitHub (control de versiones y manejo de issues)</li>
+  <li>WhatsApp (comunicación diaria y aclaraciones rápidas)</li>
+  <li>Google Meet (reuniones de planificación de sprint)</li>
+</ul>
+
+
+## 5.2.3. Sprint 3
+
+### 5.2.3.1. Sprint Planning 3
+
+<table border="1" cellspacing="0" cellpadding="6">
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 3</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>10/05/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>11:00 PM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Google Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Manuel Sanchez</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>
+		      Bryan Ronald Espejo Gamarra,<br>
+		      Manuel Angel Sanchez Arenas,<br>
+		      Juan Diego Javier Mondoñedo Rodríguez,<br>
+		      Diego Vicente Seminario Castillo<br>
+			  Cesar Augusto Navarro Correa
+		</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Review Summary</td>
+        <td>
+		<p>Desarrollo de la primera versión del frontend para la realización de pagina web</p>
+		<p>Despliegue de la pagina web con API REST funcionando y de la fake api</p>
+		<p>Resolución de las correciones de la documentación</p>
+	</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Retrospective Summary</td>
+        <td>
+		<p>Frontend y Fake API desplegadas con exito, pero algunas secciones necesitaban ser terminadas.</p>
+		<p>La documentación fue no fue realizado de manera optima y faltaron completar muchas secciones.</p>
+	</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Goal</td>
+        <td>
+		<p>Desarrollar la primera versión del backend y realizar el despligue de la misma en Swagger</p>
+		<p>Realizar cambios y correciones en la documentación relacionadas al Bounded Context y los Sprints</p>
+		<p>Refinar el codigo del frontend para tener una versión estable de la pagina web con API REST</p>
+	</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Velocity</td>
+        <td>21</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>79</td>
+    </tr>
+</table>
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Miembro del equipo (Apellido, Nombre)</th>
+      <th>Usuario de GitHub</th>
+      <th>Backend (L/C)</th>
+      <th>Frontend (L/C)</th>
+      <th>Documentación (L/C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Espejo Gamarra, Bryan Ronald</td>
+      <td>SaeBryxn</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Sanchez Arenas, Manuel Angel</td>
+      <td>manuels7a</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Mondoñedo Rodriguez, Juan Diego Javier</td>
+      <td>Jmondonedor</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Seminario Castillo, Diego Vicente</td>
+      <td>DiegoSeminario</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Navarro Correa, César Augusto</td>
+      <td>csr555-ui</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.3.3. Sprint Backlog 3
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+      <tr align="center">
+          <td><strong>Historia de usuario</strong></td>
+          <td><strong>Title</strong></td>
+          <td><strong>Descripción</strong></td>
+          <td><strong>Estimacion (Horas)</strong></td>
+          <td><strong>Asignado</strong></td>
+          <td><strong>Estado</strong></td>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>US18</td>
+          <td>Implementar validación de stock</td>
+          <td>Desarrollar la lógica que valida el stock antes de aprobar un pedido.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td></td>
+          <td>Mostrar formulario de motivo de rechazo</td>
+          <td>Desplegar un campo de texto si el proveedor decide no aprobar el pedido.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US19</td>
+          <td>Agregar accióde despachar pedido</td>
+          <td>Permitir que el proveedor marque un pedido como despachado solo si está aprobado.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US20</td>
+          <td>Implementar cierre de pedido</td>
+          <td>Permitir cerrar el pedido solo si el solicitante confirmó la entrega.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US21</td>
+          <td>Generar archivo de reporte</td>
+          <td>Crear función para generar archivo con datos de ventas según rango de fechas.</td>
+          <td>5</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US22</td>
+          <td>Diseñar dashboard de resumen</td>
+          <td>Mostrar KPIs de estados de pedidos para solicitante.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US23</td>
+          <td>Diseñar dashboard proveedor</td>
+          <td>Mostrar KPIs de pedidos gestionados para proveedor.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>TS05</td>
+          <td>Crear endpoint de autenticación</td>
+          <td>Desarrollar endpoint para recibir credenciales y devolver token JWT.</td>
+          <td>5</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>TS06</td>
+          <td>Desarrollar endpoint recuperación</td>
+          <td>Implementar envío de correo con enlace de recuperación de contraseña.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>TS07</td>
+          <td>Crear endpoint logout</td>
+          <td>Desarrollar endpoint para invalidar sesión del usuario.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US24</td>
+          <td>Implementar asignación de vehículo</td>
+          <td>Permitir asignar un vehículo disponible a un pedido aprobado.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US25</td>
+          <td>Desarrollar asignación de conductor</td>
+          <td>Permitir asignar conductor libre a pedido con vehículo asignado.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>        
+      <tr>
+          <td>US26</td>
+          <td>Implementar validación de disponibilidad</td>
+          <td>Verificar que los vehículos no estén ocupados antes de asignarlos.</td>
+          <td>3</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US27</td>
+          <td>Diseñar vista de perfil</td>
+          <td>Mostrar datos del usuario logueado.</td>
+          <td>3</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US28</td>
+          <td>Implementar edición de perfil</td>
+          <td>Permitir editar y guardar datos de perfil del usuario.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US29</td>
+          <td>Desarrollar búsqueda de pedidos</td>
+          <td>Permitir buscar pedidos mediante código único.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US30</td>
+          <td>Implementar filtro de pedidos</td>
+          <td>Permitir filtrar pedidos por estado: pendiente, aprobado, entregado.</td>
+          <td>3</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US31</td>
+          <td>Desarrollar sistema de notificaciones</td>
+          <td>Enviar notificaciones al solicitante cuando su pedido sea aprobado/rechazado.</td>
+          <td>4</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US32</td>
+          <td>Implementar notificación de despacho</td>
+          <td>Notificar al solicitante cuando el pedido se marque como despachado.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US33</td>
+          <td>Diseñar módulo de empresas</td>
+          <td>Mostrar listado de empresas solicitantes al proveedor.</td>
+          <td>3</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US34</td>
+          <td>Mostrar detalle de empresa</td>
+          <td>Permitir ver historial de pedidos de cada empresa.</td>
+          <td>3</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US35</td>
+          <td>Desarrollar gráfico de consumo</td>
+          <td>Mostrar gráfico mensual de galones consumidos por solicitante.</td>
+          <td>4</td>
+          <td>Juan Diego Javier Mondoñedo Rodriguez</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US36</td>
+          <td>Desarrollar gráfico de ventas</td>
+          <td>Mostrar gráfico mensual de ventas del proveedor.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+      <tr>
+          <td>US37</td>
+          <td>Implementar descarga de reportes</td>
+          <td>Generar y permitir la descarga de reporte en formato PDF.</td>
+          <td>4</td>
+          <td>Bryan Ronald Espejo Gamarra</td>
+          <td>Finalizado</td>
+      </tr>
+  </tbody>
+</table>
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+<tbody>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>9653eab</td>
+	<td>feat: load API base from env and add orders store</td>
+	<td>-</td>
+	<td>03/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>bfb4812</td>
+	<td>chore: replace console logs with logger</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>efbabd4</td>
+	<td>chore: agregar vitest y eslint</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>ca653f5</td>
+	<td>feat(i18n): add english and spanish translations</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>ae7cf9e</td>
+	<td>feat(ui): add global language toggle</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>104ebcb</td>
+	<td>feat(order): enhance payment step with bank logos and auto op number</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>1d3571c</td>
+	<td>Mejora del modal de creación de órdenes</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>952d5f8</td>
+	<td>feat: conf modal create order</td>
+	<td>-</td>
+	<td>04/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>e9445d7</td>
+	<td>style(client/orders): update component styles for dark table theme</td>
+	<td>Applied consistent dark background colors and text contrast to DataTable headers, rows, and expansion panels. Removed scoped styles to allow global theme overrides.</td>
+	<td>12/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/Frontend</td>
+	<td>orders</td>
+	<td>e0a3f21</td>
+	<td>changue fake api for live api</td>
+	<td>-</td>
+	<td>12/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>orders</td>
+	<td>18df614</td>
+	<td>feat: added command and query services</td>
+	<td>-</td>
+	<td>10/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>orders</td>
+	<td>272e82e</td>
+	<td>feat: created order resources and assembler</td>
+	<td>-</td>
+	<td>10/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>orders</td>
+	<td>33551ad</td>
+	<td>chore: added nuget dependencies</td>
+	<td>-</td>
+	<td>10/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>orders</td>
+	<td>91582e8</td>
+	<td>feat: started swagger implementation with order controller</td>
+	<td>-</td>
+	<td>10/06/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>orders</td>
+	<td>7dd52bf</td>
+	<td>fix: corrected IOrderCommand and Query Services</td>
+	<td>-</td>
+	<td>10/06/2025</td>
+</tr>
+</tbody>
+</table>
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+En esta sección, se evidencia todos los cambios realizados en la pagina web y que otras cosas se añadieron en la misma.
+
+<h5>Evidencia de Capturas:</h5>
+<strong>Solicitantes</strong>
+<ul>
+  <li><strong>Orders Client Section</strong><br><img src="./img/OrdersClient(2).png" alt="Orders Client Section"></li>
+  <li><strong>Orders Client Section 2</strong><br><img src="./img/OrdersClientCreate(2).png" alt="Features Section 1"></li>
+  <li><strong>Orders Client Section 3</strong><br><img src="./img/OrdersClientCreate2(2).png" alt="Orders Client Section 2"></li>
+  <li><strong>Orders Client Section 4</strong><br><img src="./img/OrdersClientCreate3(2).png" alt="Orders Client Section 3"></li>
+  <li><strong>Analytics Client Section</strong><br><img src="./img/AnalyticsClient(2).png" alt="Analytics Client Section"></li>
+  <li><strong>Analytics Client Section 2</strong><br><img src="./img/AnalyticsClient2(2).png" alt="Analytics Client Section 2"></li>
+  <li><strong>Terminals Client Section</strong><br><img src="./img/TerminalsClient(2).png" alt="Terminals Client Section"></li>
+   <li><strong>Terminals Client Section 2</strong><br><img src="./img/TerminalsClient2(2).png" alt="Terminals Client Section 2"></li>
+   <li><strong>Provider Client Section</strong><br><img src="./img/ProviderClient(2).png" alt="Provider Client Section"></li>
+   <li><strong>Workflows Client Section</strong><br><img src="./img/WorkflowsClient(2).png" alt="Workflows Client Section"></li>
+</ul>
+<strong>Proveedores</strong>
+<ul>
+   <li><strong>Orders Supplier Section</strong><br><img src="./img/OrdersSupplier(2).png" alt="Orders Supplier Section"></li>
+   <li><strong>Conciliations Supplier Section</strong><br><img src="./img/ConciliationsSupplier(2).png" alt="Conciliations Supplier Section"></li>
+   <li><strong>Conciliations Supplier Section 2</strong><br><img src="./img/ConciliationsSupplier2(2).png" alt="Conciliations Supplier Section 2"></li>
+   <li><strong>Dispatch Supplier Section</strong><br><img src="./img/DispatchSupplier(2).png" alt="Dispatch Supplier Section"></li>
+    <li><strong>Dispatch Supplier Section 2</strong><br><img src="./img/DispatchSupplier2(2).png" alt="Dispatch Supplier Section 2"></li>
+   <li><strong>Analytics Supplier Section</strong><br><img src="./img/AnalyticsSupplier(2).png" alt="Analytics Supplier Section"></li>
+   <li><strong>Prices Supplier Section</strong><br><img src="./img/PricesSupplier(2).png" alt="Prices Supplier Section"></li>
+   <li><strong>Clients Supplier Section</strong><br><img src="./img/ClientsSupplier(2).png" alt="Clients Supplier Section"></li>
+</ul>
+
+<p><strong>Enlace a Demo en Vivo:</strong><br>
+<a href="https://fronted-ft.vercel.app/" target="_blank">FuelTrack Web Applicaction</a></p>
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3 se completó la documentación de los Web Services relacionados con la gestión de pedidos, integrando las funcionalidades definidas previamente en el backlog. Esta documentación corresponde a las rutas del API REST diseñadas para la plataforma FuelTrack, las cuales fueron implementadas y validadas inicialmente a través de una Fake API. Esta Fake API permitió simular y verificar las interacciones esperadas por el frontend de la aplicación antes de la integración con los servicios reales.
+
+La documentación generada sigue el estándar OpenAPI (Swagger), permitiendo una visualización clara de los endpoints, parámetros de entrada, respuestas esperadas y códigos de estado HTTP para facilitar su consumo por parte de los desarrolladores y otros stakeholders técnicos.
+
+<img src="./img/SwaggerEvidence.png">
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Este enlace proporciona acceso a la interfaz interactiva Swagger UI, desde donde es posible consultar, probar y validar cada uno de los endpoints desarrollados e implementados hasta la fecha como parte del alcance del Sprint 3.
+
+<p><strong>Enlace a Demo en Vivo:</strong><br>
+<a href="https://fueltrack-backend.onrender.com/swagger" target="_blank">FuelTrack Web Services</a></p>
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, el equipo trabajó de forma colaborativa para cumplir con todos los objetivos planteados en esta etapa del proyecto. Sin embargo, algunos miembros asumieron un mayor protagonismo en tareas clave, como el desarrollo del Backend. En esta fase, se reflejó de manera más detallada el progreso tanto en la construcción de la página web como en la implementación de la base de datos.
+
+Frontend:
+<img src="./img/commitsfrontend2.png" alt="commitsfrontend2">
+
+Backend:
+<img src="./img/commitsbackend.png" alt="commitsbackend">
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de entrevistas
+
+#### Preguntas relacionadas al Landing Page
+
+1. ¿La información presentada en la pagina principal le resulta clara y fácil de entender para su negocio?
+2. ¿Cómo calificarías la facilidad de navegación de la plataforma?
+3. ¿Consideras que se deberia añadir alguna información adicional?
+
+#### Preguntas relacionadas al Fronted
+A. Proveedores de Combustible
+
+1. ¿Consideras que el listado de las secciones principales en el dashboard adecuadas?
+2. ¿Te resultó clara la información de pedidos de las empresas solicitantes?
+3. ¿Te parecio adecuada la organización de los pagos de los pedidos?
+4. ¿El proceso del registro de despachos es lo suficientente intuitiva para usted?
+5. ¿La funcionalidad para ver el gráfico de ventas mensuales fue comprensible?
+6. ¿Te gustaría recibir notificaciones cuando un pedido de una empresa haya sido aprobado, modificado o cancelado?
+7. ¿La información de cada empresa te pareció suficiente para evaluar a tus clientes?
+8. ¿Hubo alguna función que esperabas encontrar y que no estaba disponible o no funcionaba como esperabas?
+
+
+B. Empresas Solicitantes de Combustible:
+
+1. ¿Consideras que el listado de las secciones principales en el dashboard adecuadas?
+2. ¿Te resultó clara la información de pedidos realizados como solicitante?
+3. ¿Que opina sobre el proceso de registro de nuevas ordenes de pedidos?
+4. ¿Considera que la organización de terminales le proporciona los datos suficientes?
+5. ¿Considera el gráfico de consumo mensual y volumen total ideal para conocer su actividad?
+7. ¿La grafica y el mapa le proporcionan la información adecuada para conocer el flujo de sus ordenes?
+8. ¿La información de cada empresa te pareció suficiente para evaluar a tus clientes?
+9. ¿Hubo alguna función que esperabas encontrar y que no estaba disponible o no funcionaba como esperabas?
+
+### 5.3.2. Registro de entrevistas
+
+---
+
+#### Entrevista N°1 – Segmento: Proveedores
+- Nombres: Zahir Emmanuel
+- Apellidos: Ovando Acosta
+- Edad: 20
+- Distrito: San Martín de Porres
+- URL Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201817507_upc_edu_pe/EVC9BfTZRt5KpkQumoaNLkYBqa4kb9P9J_CqmsQUWxhDRw?e=hlecVF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración: 4:13
+- Captura: <img src="img/entrevista2_1.png" alt="entrevista2_segmento1_1" /></p>
+- Resumen: 
+Zahir Ovando de 20 años trabaja en una empresa proveedora de combustible y ha estado involucrado en la industria durante 6 meses. Tras mostrarle nuestra landing page y el frontend de FuelTrack, expresó que la información presentada es clara y fácil de entender. Destacó la facilidad de navegación y la organización de las secciones principales del dashboard, especialmente en lo que respecta a pedidos y pagos. Sin embargo, sugirió que sería útil recibir notificaciones sobre cambios en los pedidos. También mencionó que le gustaría ver más detalles sobre las empresas solicitantes, como su historial de pedidos y consumo mensual.
+---
+#### Entrevista N°2
+- Nombres: Ana Patricia
+- Apellidos: Leyton Moncada
+- Edad:25
+- Distrito:Piura
+- URL Entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202412591_upc_edu_pe/Ee95CcX1wkFBol1AFwWDv7cB2lxFMjTVk5EzZEC84gk9iA?e=ReeXyH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Duración: 3:02
+- Resumen:Patricia, de 25 años y trabajadora en una empresa de proveedores de combustible, opina que la plataforma FuelTrack es clara y fácil de usar, pero sugiere mejorar la visibilidad de ciertos enlaces y agregar ejemplos visuales o una guía interactiva. Propone incluir un video o una sección de preguntas frecuentes en la página principal.
+  En el front-end, destaca la facilidad para encontrar secciones, pero considera que algunas funciones, como las notificaciones y el historial de pedidos, deberían ser más visibles. También sugiere agregar un sistema de calificación de proveedores y la opción de exportar datos a Excel. Además, le gustaría que los campos del registro de despachos se autocompleten y que los gráficos de ventas puedan filtrarse por tipo de combustible o terminal.
+  <img src="./img/5.png" alt="entrevista2">
+- 
+#### Entrevista N°3 – Segmento: Solicitantes
+- Nombres:  Bernando
+- Apellidos: Garcia
+- Edad:42
+- Distrito:Piura
+- URL Entrevista:https://upcedupe-my.sharepoint.com/personal/u202310129_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202310129%5Fupc%5Fedu%5Fpe%2FDocuments%2FentrevistaValidaci%C3%B3n%5Fsolicitante%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E76470699%2D4566%2D499c%2D90e1%2Df089fd5f6176
+- Duración: 24:40
+- Resumen: En la entrevista, César Navarro, estudiante de Ingeniería de Software, presentó los prototipos de una plataforma de gestión de pedidos de combustible. Explicó las funcionalidades, como la visualización de órdenes, el análisis de consumo, un mapa de terminales, notificaciones, y la sección de proveedores. También mencionó la opción de seguir el flujo de trabajo en tiempo real para monitorear el estado y la ruta de los pedidos.
+El entrevistado sugirió mejoras, como la inclusión de una sección para visualizar los costos del combustible por terminal y la opción de mostrar precios unitarios negociados. También propuso que se incorporen filtros y opciones de exportación a Excel para facilitar el control y análisis de los datos. Además, recomendó que se permita el registro de nuevos contactos y que los usuarios puedan gestionar la base de datos internamente.
+Se habló sobre la posibilidad de integrar la plataforma con otras herramientas mediante un servicio web, para que los datos de seguimiento y pedidos puedan ser gestionados directamente desde otros sistemas de la empresa. En general, el entrevistado consideró que la idea es buena, pero sugirió mejoras adicionales para hacer la plataforma más robusta.
+  <img src="/img/6.png" alt="entrevista3">
+---
+
+### 5.3.3. Evaluaciones heuristicas
+
+
+
+## 5.4. Video About-the-Product
+
+**Link:** 
+
+## Conclusiones
+
+
+
+## Bibliografia
+
 
