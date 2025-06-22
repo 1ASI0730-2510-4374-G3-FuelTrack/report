@@ -55,6 +55,7 @@
 |-------------|-------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | TB1       | 26/04/2025  | - Bryan Ronald Espejo Gamarra  <br> - Manuel Ángel Sánchez Arenas  <br> - Juan Diego Javier Mondoñedo Rodríguez <br> - Diego Vicente Seminario Castillo <br> - César Augusto Navarro Correa | Se incluyeron los siguientes capítulos: <br>• Estructura del informe <br>• Capítulo I: Introducción <br>• Capítulo II: Requirements Elicitation & Analysis <br>• Capítulo III: Requirements Specification <br>• Capítulo IV: Product Design <br>• Capítulo V: Product Implementation, Validation & Deployment <br>• Configuración inicial del repositorio y del Landing Page <br>• Aplicación de GitFlow y convenciones de commits |
 | TP1       | 26/04/2025  | - Bryan Ronald Espejo Gamarra  <br> - Manuel Ángel Sánchez Arenas  <br> - Juan Diego Javier Mondoñedo Rodríguez <br> - Diego Vicente Seminario Castillo <br> - César Augusto Navarro Correa | Se incluyeron los siguientes capítulos: <br>• Cambios y mejoras del informe de la anterior versión <br>• Capítulo V: Product Implementation, Validation & Deployment (Sprint 2)<br>• Frontend  <br>• Configuración del repositorio Frontend <br>• Aplicación de GitFlow y convenciones de commits |
+| TB2       | 21/06/2025  | - Bryan Ronald Espejo Gamarra  <br> - Manuel Ángel Sánchez Arenas  <br> - Juan Diego Javier Mondoñedo Rodríguez <br> - Diego Vicente Seminario Castillo <br> - César Augusto Navarro Correa | Se incluyeron los siguientes capítulos: <br>• Coordinacion de avance del backend, correcciones de Frontend. <br>• Entrevista a segmento proveedor y modulo Princing del backend <br>• Evaluaciones Heuristicas, video y conclusiones<br>• <br>• Implementation, Validation & Deployment, Actualización de las evidencias colaborativas. |
 
 ---
 ## Project Report Collaboration Insights
@@ -164,23 +165,40 @@ El siguiente gráfico muestra una línea de tiempo con la evolución de los comm
     - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1 Sprint 1](#521-sprint-1)
-      - [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.1 Sprint Planning](#5211-sprint-planning-1)
       - [5.2.1.2 Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-      - [5.2.1.3 Sprint Backlog 1](#5213-sprint-backlog-2)
+      - [5.2.1.3 Sprint Backlog 1](#5213-sprint-backlog-1)
       - [5.2.1.4 Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
       - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
     - [5.2.2 Sprint 2](#522-sprint-2)
-      - [5.2.2.1 Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.1 Sprint Planning](#5221-sprint-planning-2)
       - [5.2.2.2 Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
-      - [5.2.2.3 Sprint Backlog 1](#5223-sprint-backlog-2)
+      - [5.2.2.3 Sprint Backlog 2](#5223-sprint-backlog-2)
       - [5.2.2.4 Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
       - [5.2.2.5 Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
       - [5.2.2.6 Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7 Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8 Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3 Sprint 3](#523-sprint-3)
+      - [5.2.3.1 Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2 Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3 Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4 Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5 Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6 Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8 Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+      - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+      - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones heuristicas](#533-evaluaciones-heuristicas)
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
+  - [Conclusiones](#conclusiones)
+  - [Bibliografia](#bibliografia)
+  - [Anexos](#anexos)
 
 ---
 
@@ -190,8 +208,8 @@ El siguiente gráfico muestra una línea de tiempo con la evolución de los comm
 
 | **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**  |
 |---|---|---|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Manuel Sanchez**<br>TB1: Revisión de los commits hechos a las ramas del repo. Revisión de los pull-requests a la rama develop. Coordinación de tareas. <br> TP1: Coordinó las tareas del equipo, y participó en el desarrollo del Frontend. <br>**Diego Vicente Seminario Castillo**<br>TB1: Dividió el trabajo correctamente en cada sección del trabajo. <br> TP1: Participó en la organización de archivos de la entrega y revisión del informe. <br>**Bryan Ronald Espejo Gamarra**<br>TB1: Coordinó las tareas relacionadas al desarrollo del Landing Page, liderando la organización del flujo de trabajo en GitHub, y asegurando la correcta implementación de convenciones de commits y ramas Gitflow.<br> TP1: Coordinó las tareas relacionadas al desarrollo del Frontend Web Applicaction, del mismo modo que formó parte de su desarrollo. <br>**César Augusto Navarro Correa**<br>TB1: Participó en la revisión y corrección del informe y creación de los commits del repositorio principal.<br> TP1: Participó en la revisión y corrección de los repositorios y tareas adicionales a la entrega. <br>**Juan Diego Mondoñedo**<br>TB1: Coordino las tareas relacionadas a la presentación y grabación de la exposición.<br> TP1: Apoyo en el desarrollo de las funciones de la plataforma y la organización de tareas.| La comunicación constante entre los miembros fue crucial para evitar conflictos de avances y en nuestro repositorio.  |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Manuel Sanchez**<br>TB1: A través de reuniones logré que el equipo comunciara sus avances y los obstaculos que enfrentaban para apoyarse entre sí <br> TP1: Realizó las reuniones necesarias para apoyar al conocimiento y la retroalimentación de la propuesta. <br>**Diego Vicente Seminario Castillo**<br>TB1: Cumpli con el tema de entrevista y analisis, logrando que el equipo tenga una idea más clara de la problemática<br> TP1: Apoyo en las tareas faltantes de la entrega e informó los debidos cambios.<br>**Bryan Ronald Espejo Gamarra**<br>TB1: Participó activamente en la planificación del Sprint 1, contribuyendo en la definición de User Stories, la asignación de Story Points y la identificación de prioridades de desarrollo.<br> TP1: Participó activamente en la realización del Frontend, revisión de los commits de los repositorios, asignación de tareas del informe. <br>**César Augusto Navarro Correa**<br>TB1: Realizó parte de la sección de las entrevistas y colaboró en las tareas relacionadas a lo User Personas y experiencia del usuario.<br> TP1: Realizó la revisión completa del informe y comunicó las tareas faltantes. <br>**Juan Diego Mondoñedo**<br>TB1: Participó activamente en las reuniones de planificación. Y apoyó en la realización de entrevistas. <br> TP1: Participó en la realización del Frontend y  | Tuvimos complicaciones al coordinar tareas debido a que trabajamos en diferentes ritmos, pero logramos conluir en un determinado plazo anticipado.|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Manuel Sanchez**<br>TB1: Revisión de los commits hechos a las ramas del repo. Revisión de los pull-requests a la rama develop. Coordinación de tareas. <br> TP1: Coordinó las tareas del equipo, y participó en el desarrollo del Frontend. <br>TB2: Se solicitó feeback para la funcionalidad del modulo Princing para mantener la integridad del flujo del sistema. <br>**Diego Vicente Seminario Castillo**<br>TB1: Dividió el trabajo correctamente en cada sección del trabajo. <br> TP1: Participó en la organización de archivos de la entrega y revisión del informe. <br>TB2: Ayudo en la retroalimentacion del trabajo asi mismo se reunia con el equipo para poder coordinarse. <br> **Bryan Ronald Espejo Gamarra**<br>TB1: Coordinó las tareas relacionadas al desarrollo del Landing Page, liderando la organización del flujo de trabajo en GitHub, y asegurando la correcta implementación de convenciones de commits y ramas Gitflow.<br> TP1: Coordinó las tareas relacionadas al desarrollo del Frontend Web Applicaction, del mismo modo que formó parte de su desarrollo. <br>TB2: Coordinación con el equipo para la distribución del desarrollo del backend. <br>**César Augusto Navarro Correa**<br>TB1: Participó en la revisión y corrección del informe y creación de los commits del repositorio principal.<br> TP1: Participó en la revisión y corrección de los repositorios y tareas adicionales a la entrega. <br> TB2: Se comunicó continuamente con los miembros del equipo para el seguimiento de las tareas para realizar una pequeña retroalimentación y realizar la documentación. <br>**Juan Diego Mondoñedo**<br>TB1: Coordino las tareas relacionadas a la presentación y grabación de la exposición.<br> TP1: Apoyo en el desarrollo de las funciones de la plataforma y la organización de tareas. <br> TB2: Realicé la organización de las primeras reuniones de sprint planning del desarrollo de esta entrega. | La comunicación constante entre los miembros fue crucial para evitar conflictos de avances y en nuestro repositorio. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Manuel Sanchez**<br>TB1: A través de reuniones logré que el equipo comunciara sus avances y los obstaculos que enfrentaban para apoyarse entre sí <br> TP1: Realizó las reuniones necesarias para apoyar al conocimiento y la retroalimentación de la propuesta. <br>TB2: Se coordinó horarios para reunirse con el equipo y ayudar con los avances en el informe  <br>**Diego Vicente Seminario Castillo**<br>TB1: Cumpli con el tema de entrevista y analisis, logrando que el equipo tenga una idea más clara de la problemática<br> TP1: Apoyo en las tareas faltantes de la entrega e informó los debidos cambios.<br> TB2: Trabajo en la parte del backend ,ayudo tambien en la elaboracion de la actulizacion del informe. <br>**Bryan Ronald Espejo Gamarra**<br>TB1: Participó activamente en la planificación del Sprint 1, contribuyendo en la definición de User Stories, la asignación de Story Points y la identificación de prioridades de desarrollo.<br> TP1: Participó activamente en la realización del Frontend, revisión de los commits de los repositorios, asignación de tareas del informe. <br> TB2: Proporcioné feedback a los avances de mis commpañeros.  <br>**César Augusto Navarro Correa**<br>TB1: Realizó parte de la sección de las entrevistas y colaboró en las tareas relacionadas a lo User Personas y experiencia del usuario.<br> TP1: Realizó la revisión completa del informe y comunicó las tareas faltantes. <br> TB2: Coordinó para la realización de las tareas a realizar para el desarrollo de los Web Services y apoyo en la documentación de toda la fase del Sprint 3, incluido sus evidencia. <br>**Juan Diego Mondoñedo**<br>TB1: Participó activamente en las reuniones de planificación. Y apoyó en la realización de entrevistas. <br> TP1: Participó en la realización del Frontend <br> TB2: Participe comunicándome activamente con mis compañeros para la delegación de tareas a realizar para el sprint 3. <br>| Tuvimos complicaciones al coordinar tareas debido a que trabajamos en diferentes ritmos, pero logramos conluir en un determinado plazo anticipado.|
 
 ---
 
@@ -255,7 +273,7 @@ El sector de distribución de combustibles enfrenta serias ineficiencias debido 
 
 #### 1.2.2 Lean UX Process
 
-##### 1.2.2.1 Lean UX Problem Statements
+#### 1.2.2.1 Lean UX Problem Statements
 
 Nuestra plataforma, FuelTracks, ofrece una solución para la gestión de pedidos de combustible entre empresas solicitantes y proveedores. El objetivo de este startup es reemplazar los métodos informales que se usan actualmente, tales como las llamadas, correos electrónicos y aplicaciones de mensajería,  por un sistema digital y centralizada que permita mejorar principalmente la trazabilidad de los pedidos en tiempo real.
 
@@ -263,11 +281,9 @@ Luego de analizar la metodología utilizada actualmente en el mercado de combust
 
 En el contexto actual donde crece cada vez más la demanda por servicios logísticos ágiles e infalibles, es necesaria una plataforma que facilite y compacte el proceso de gestión de pedidos. Con esta, las empresas evitarán pérdidas operativas y se reducirán en gran medida las malas experiencias de los clientes.
 
-El segmento inicial estará compuesto por proveedores medianos de combustible en Lima Metropolitana, quienes presentan mayor disposición al cambio digital y necesidades operativas complejas.
+¿Cómo podríamos diseñar una solución digital que centralice y automatice la gestión de pedidos de combustible, integrando a proveedores y solicitantes en una misma plataforma, para reducir errores y aumentar la eficiencia operativa?
 
-
-
-##### 1.2.2.2 Lean UX Assumptions
+#### 1.2.2.2 Lean UX Assumptions
 
 Business Assumptions
 
