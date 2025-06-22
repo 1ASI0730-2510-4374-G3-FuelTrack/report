@@ -1467,7 +1467,7 @@ Se habló sobre la posibilidad de integrar la plataforma con otras herramientas 
 
 ## Conclusiones
 
-
+El desarrollo del proyecto FuelTrack demostró un avance significativo en la implementación de una plataforma integral para la gestión de pedidos de combustible. A lo largo de los sprints, se lograron hitos clave como el despliegue exitoso de la Landing Page, el desarrollo del frontend y backend, y la integración de funcionalidades esenciales para solicitantes y proveedores. Las entrevistas de validación confirmaron la utilidad de la plataforma, aunque también destacaron áreas de mejora, como la optimización de notificaciones y la inclusión de filtros avanzados. En general, el proyecto cumplió con sus objetivos iniciales y sentó las bases para futuras iteraciones que refinen la experiencia del usuario y amplíen las funcionalidades.
 
 ## Bibliografia
 
