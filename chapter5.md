@@ -1460,6 +1460,93 @@ Se habló sobre la posibilidad de integrar la plataforma con otras herramientas 
 ### 5.3.3. Evaluaciones heuristicas
 
 
+## UX Heuristics & Principles Evaluation
+**Usability – Inclusive Design – Information Architecture**
+
+---
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Aplicaciones Web  
+**SECCIÓN:** 4374 
+**PROFESORES:** Todos  
+**AUDITOR:** khipuLab  
+**CLIENTE(S):** [Nombres de las personas que participan en la evaluación]  
+
+---
+
+> **NOTA:** Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.
+
+---
+
+## SITE o APP A EVALUAR:  FuelTrack
+  
+  
+---
+
+## TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Publicación de un post
+3. Búsqueda de un paquete turístico
+4. Reserva de un viaje
+5. Cancelación de una reserva
+6. Agregar ítems a un pedido
+7. Pago de un paquete turístico
+8. Etc.
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas:**
+
+1. Compartir reservas entre usuarios
+2. Presentar ofertas de último minuto
+3. Administrar puntos del programa de fidelización de viajes
+4. Guardar "alerta de paquetes"
+5. Etc.
+
+---
+
+## ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| **1** | **Problema superficial:** puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | **Problema menor:** puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| **3** | **Problema mayor:** ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | **Problema muy grave:** un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+## TABLA RESUMEN:
+
+| # | Problema | Escala de Severidad | Heurística/Principio violado(s) |
+|---|----------|--------------------|---------------------------------|
+| 1 | No hay un control que permita regresar a la tienda durante el trámite de compra | 3 | Usability: Libertad y control del usuario |
+| 2 | Se cargan constantemente algunas opciones | 2 | Usability: Consistencia y estándares; Inclusive Design: Información comprensible |
+| 3 | Imágenes sin atributo "alt" | 2 | Inclusive Design: Información comprensible |
+| 4 | Botón "Ver más" pero no existe información adicional | 1 | Information Architecture: Jerarquías comprensibles |
+| 5 | No incluye información de los planes de servicio | 4 | Information Architecture: Es fácil encontrar |
+| Etc. |
+
+---
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+### PROBLEMA #1: No hay un control que permita regresar a la tienda durante el trámite de compra
+
+**Severidad:** 3  
+**Heurística Violada:** Usability - Libertad y control del usuario
+
+**Problema:**
+
+Al momento de ingresar nuestros datos, no podemos regresar a la tienda en caso en una voz el cliente para el trámite de compra, en caso de que esté aquel registro a la tienda, no hay un botón que le devolve hacia la web. lo cual nos obliga a regresar al cliente y al momento de regresar productos, lamentablemente se la cantidad de artículos del cliente.
+(incluir además una captura de pantalla ilustrando el problema)
+
+**Recomendación:**
+
+La más práctica es que al momento que queramos realizar dicho trámite, al navegador le ditto en una ventana aparte para no perder los cambios realizados en nuestro carrito de compras.
 
 ## 5.4. Video About-the-Product
 
