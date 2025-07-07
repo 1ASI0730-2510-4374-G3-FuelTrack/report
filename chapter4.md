@@ -394,4 +394,4 @@ Descripción: Define los perfiles de usuario y sus permisos.
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![DD](img/databasediagram.png)
+![DD](img/DataBaseDiagram.png)
