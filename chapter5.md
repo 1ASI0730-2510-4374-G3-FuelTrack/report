@@ -1384,6 +1384,347 @@ Frontend:
 Backend:
 <img src="./img/commitsbackend.png" alt="commitsbackend">
 
+## 5.2.4. Sprint 4
+
+### 5.2.4.1 Sprint Planning 4
+
+<table border="1" cellspacing="0" cellpadding="6">
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 4</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>1/07/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>11:00 PM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Google Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Bryan Espejo</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>
+		      Bryan Ronald Espejo Gamarra,<br>
+		      Manuel Angel Sanchez Arenas,<br>
+		      Juan Diego Javier Mondoñedo Rodríguez,<br>
+		      Diego Vicente Seminario Castillo<br>
+			  Cesar Augusto Navarro Correa
+		</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Review Summary</td>
+        <td>
+		<p>Desarrollar la primera versión del backend y desplegarla utilizando Swagger para la documentación interactiva.</p>
+        <p>Implementar cambios y correcciones en la documentación, enfocándose en el Bounded Context y la planificación de los Sprints.</p>
+        <p>Refinar el código del frontend para lograr una versión estable de la página web que consuma la API REST.</p>
+	</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Retrospective Summary</td>
+        <td>
+		<p>Se realizaron los cambios en el diseño de la plataforma y desarrollo del frontend en base a las validaciones de los usuarios.</p>
+		<p>Faltaron añadir algunos puntos en la documentación como las evidencias y actualizar los Sprint Backlogs.</p>
+        <p>Se realizaron exitosamente los despliegues de la pagina y los servicios web, pero es necesario continuar la refinación de estas.</p>
+        </td>
+	</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 4 Goal</td>
+        <td>
+		<p>Completar la implementación y prueba de nuevas funcionalidades del backend, aplicar un metodo de seguridad con autenticación JWT, y avanzar en la integración con el frontend para asegurar una experiencia fluida del usuario.</p>
+        </td>
+	</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 4 Velocity</td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td></td>
+    </tr>
+</table>
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Miembro del equipo (Apellido, Nombre)</th>
+      <th>Usuario de GitHub</th>
+      <th>Backend (L/C)</th>
+      <th>Frontend (L/C)</th>
+      <th>Documentación (L/C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Espejo Gamarra, Bryan Ronald</td>
+      <td>SaeBryxn</td>
+      <td>L</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Sanchez Arenas, Manuel Angel</td>
+      <td>manuels7a</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Mondoñedo Rodriguez, Juan Diego Javier</td>
+      <td>Jmondonedor</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Seminario Castillo, Diego Vicente</td>
+      <td>DiegoSeminario</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Navarro Correa, César Augusto</td>
+      <td>csr555-ui</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.3. Sprint Backlog 4
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr align="center">
+      <td><strong>Historia de usuario</strong></td>
+      <td><strong>Title</strong></td>
+      <td><strong>Descripción</strong></td>
+      <td><strong>Estimacion (Horas)</strong></td>
+      <td><strong>Asignado</strong></td>
+      <td><strong>Estado</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+      <td>TS01</td>
+      <td>Implementar endpoint REST para pedidos</td>
+      <td>Como desarrollador, quiero implementar un endpoint RESTful para registrar pedidos, para que la aplicación frontend pueda enviar solicitudes válidas al backend.</td>
+      <td>6</td>
+      <td>Bryan Ronald Espejo Gamarra</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+      <td>Servicio de autenticación y token</td>
+      <td>Como desarrollador, quiero implementar un servicio de autenticación con generación de tokens, para proteger las rutas privadas de la plataforma.</td>
+      <td>5</td>
+      <td>Diego Vicente Seminario Castillo</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+      <td>TS03</td>
+      <td>Envío de notificaciones por cambios de estado</td>
+      <td>Como desarrollador, quiero implementar un servicio que envíe notificaciones automáticas cuando un pedido cambie de estado, para mantener informados a los usuarios.</td>
+      <td>4</td>
+      <td>César Augusto Navarro Correa</td>
+      <td>Finalizado</td>
+    </tr>
+    <tr>
+      <td>TS04</td>
+      <td>Registro y validación de ubicación GPS</td>
+      <td>Como desarrollador, quiero permitir que los pedidos en ruta envíen coordenadas GPS, para poder visualizar la trazabilidad del transporte en tiempo real.</td>
+      <td>5</td>
+      <td>Manuel Angel Sanchez Arenas</td>
+      <td>Finalizado</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### 5.2.4.4 Development Evidence for Sprint Review
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+<tbody>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>analytics/auth</td>
+	<td>ca12c7d</td>
+	<td>analytics/auth</td>
+	<td>-</td>
+	<td>07/07/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>operators</td>
+	<td>6497162</td>
+	<td>feat: added operator services</td>
+	<td>-</td>
+	<td>07/07/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>operators</td>
+	<td>c993413</td>
+	<td>feat: added operator DTOs</td>
+	<td>-</td>
+	<td>07/07/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>operators</td>
+	<td>ab7e0b0</td>
+	<td>feat: added operator controller</td>
+	<td>-</td>
+	<td>07/07/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>payments</td>
+	<td>36ca3f4</td>
+	<td>feat: added payment services</td>
+	<td>-</td>
+	<td>07/07/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>payments</td>
+	<td>ae6278d</td>
+	<td>feat: added payment and payment method DTO</td>
+	<td>-</td>
+	<td>07/07/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>payments</td>
+	<td>651b67b</td>
+	<td>feat: added CreatePaymentMethod and ProcessPayment DTOs</td>
+	<td>-</td>
+	<td>07/07/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>payments</td>
+	<td>93b90a2</td>
+	<td>feat: added payments controller</td>
+	<td>-</td>
+	<td>07/07/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>users-notifications</td>
+	<td>93b90a2</td>
+	<td>feat: add users and notifications bounded files</td>
+	<td>-</td>
+	<td>07/07/2025</td>
+</tr>
+<tr>
+	<td>1ASI0730-2510-4374-G3-FuelTrack/backend</td>
+	<td>vehicles-orderss</td>
+	<td>00554be</td>
+	<td>feat: vehicles and orders bundle-context added</td>
+	<td>-</td>
+	<td>07/07/2025</td>
+</tr>
+</tbody>
+</table>
+
+### 5.2.4.5 Execution Evidence for Sprint Review
+
+Durante el Sprint 4, se centro principalmente en la finalización de los Web Services y la integración con el backend mediante la Fake API autenticadas con JWT. A pesar de eso se realizo la estabilización de la interfaz de usuario, y se mejoró la experiencia de navegación con vistas más intuitivas y responsivas, asegurando una visualización coherente en diferentes dispositivos.
+
+A continuación, se mostrarán capturas de los cambios realizados en la plataforma
+
+<img src="./img/evidenceFrontEndSprint4.png" alt="Evidencia Front-End Sprint 4 - 1">
+<img src="./img/evidenceFrontEndSprint4_2.png" alt="Evidencia Front-End Sprint 4 - 2">
+<img src="./img/evidenceFrontEndSprint4_3.png" alt="Evidencia Front-End Sprint 4 - 3">
+<img src="./img/evidenceFrontEndSprint4_4.png" alt="Evidencia Front-End Sprint 4 - 4">
+<img src="./img/evidenceFrontEndSprint4_5.png" alt="Evidencia Front-End Sprint 4 - 5">
+<img src="./img/evidenceFrontEndSprint4_6.png" alt="Evidencia Front-End Sprint 4 - 6">
+<img src="./img/evidenceFrontEndSprint4_7.png" alt="Evidencia Front-End Sprint 4 - 7">
+<img src="./img/evidenceFrontEndSprint4_8.png" alt="Evidencia Front-End Sprint 4 - 8">
+<img src="./img/evidenceFrontEndSprint4_9.png" alt="Evidencia Front-End Sprint 4 - 9">
+<img src="./img/evidenceFrontEndSprint4_10.png" alt="Evidencia Front-End Sprint 4 - 10">
+<img src="./img/evidenceFrontEndSprint4_11.png" alt="Evidencia Front-End Sprint 4 - 11">
+<img src="./img/evidenceFrontEndSprint4_12.png" alt="Evidencia Front-End Sprint 4 - 12">
+<img src="./img/evidenceFrontEndSprint4_13.png" alt="Evidencia Front-End Sprint 4 - 13">
+<img src="./img/evidenceFrontEndSprint4_14.png" alt="Evidencia Front-End Sprint 4 - 14">
+<img src="./img/evidenceFrontEndSprint4_15.png" alt="Evidencia Front-End Sprint 4 - 15">
+<img src="./img/evidenceFrontEndSprint4_16.png" alt="Evidencia Front-End Sprint 4 - 16">
+<img src="./img/evidenceFrontEndSprint4_17.png" alt="Evidencia Front-End Sprint 4 - 17">
+
+
+Además se implementaron algunos cambios en el Landing Page de elementos faltantes como lo son los videos sobre el equipo y la plataforma.
+
+
+<img src="./img/evidenceLandingSprint4.png" alt="Evidencia Landing Page Sprint 4">
+
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3 se completó la documentación de los Web Services relacionados a la autenticación y autorización en el sistema, además del envío de notificaciones y rastreo de vehículos previamente listadas en el product backlog. Estos nuevos services fueron implementados y validados inicialmente a través de una Fake API, permitiendo simular y verificar las interacciones esperadas por el frontend de la aplicación antes de la integración con los servicios reales. 
+
+Así como el sprint anterior, la documentación generada sigue el estándar OpenAPI (Swagger).
+
+<img src="./img/sprint4-services_documentation-evidence1.png">
+<img src="./img/sprint4-services_documentation-evidence2.png">
+<img src="./img/sprint4-services_documentation-evidence3.png">
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+<p><strong>Resumen:</strong><br>
+Para este Sprint, desplegamos los servicios web con Render y nuestra landing page nuevamente con la nueva sección About the Product.</p>
+
+<h5>Detalles del Despliegue:</h5>
+<ul>
+  <li><strong>URL de Web Services:</strong> <a href="https://back-end-qzwq.onrender.com/swagger/index.html" target="_blank">https://back-end-qzwq.onrender.com/swagger/index.html</a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0730-2510-4374-G3-FuelTrack/Landing-page" target="_blank">https://github.com/1ASI0730-2510-4374-G3-FuelTrack/Landing-page</a></li>
+</ul>
+
+<h5>Actividades de Despliegue:</h5>
+<ul>
+  <li>Despliegue de la base de datos en PostgreSQL</li>
+  <li>Configuración del backend con Render que consume de la bd en PostgreSQL</li>
+  <li>Despliegue del frontend en Vercel</li>
+</ul>
+
+### 5.2.4.8 Team Collaboration Insights during Sprint
+
+Durante el Sprint 4, el equipo llevó a cabo un esfuerzo conjunto y bien coordinado para diseñar y construir una arquitectura sólida y bien definida. Este trabajo se plasmó en la creación de Bounded Contexts, que fueron desarrollados cuidadosamente por cada uno de los integrantes, asegurando así una estructura modular y coherente que facilitará el desarrollo y mantenimiento del proyecto.
+
+A continuación, se mostrarán capturas de la actividad de cada miembro en los repositorios de Github del proyecto:
+
+<img src="./img/commitsLandingSprint4.png">
+
+<img src="./img/commitsBackEndSprint4.png">
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de entrevistas
@@ -1470,39 +1811,43 @@ Se habló sobre la posibilidad de integrar la plataforma con otras herramientas 
 **SECCIÓN:** 4374 
 **PROFESORES:** Todos  
 **AUDITOR:** khipuLab  
-**CLIENTE(S):** [Nombres de las personas que participan en la evaluación]  
+**CLIENTE(S):**   Zahir Emmanuel, Ana Patricia, Bernando García
 
 ---
-
-> **NOTA:** Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.
-
----
-
 ## SITE o APP A EVALUAR:  FuelTrack
-  
-  
+
 ---
 
 ## TAREAS A EVALUAR:
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. Registro de un usuario nuevo
-2. Publicación de un post
-3. Búsqueda de un paquete turístico
-4. Reserva de un viaje
-5. Cancelación de una reserva
-6. Agregar ítems a un pedido
-7. Pago de un paquete turístico
-8. Etc.
+1. Visualización del landing page informativo
+2. Registro de cuenta nueva (cliente/proveedor)
+3. Inicio de sesión
+4. Recuperación de contraseña
+5. Creación de nuevo pedido
+6. Consulta de historial de pedidos
+7. Edición de pedidos no confirmados
+8. Confirmación de pedido recibido (proveedor)
+9. Actualización de estado de pedido
+10. Envío de notificaciones por cambios de estado
+11. Cancelación o rechazo de pedidos
+12. Seguimiento en tiempo real del pedido
+13. Autenticación multifactor para pedidos
+14. Visualización de ubicación GPS en pedidos en ruta
+15. Confirmación de entrega con firma digital
 
 **No están incluidas en esta versión de la evaluación las siguientes tareas:**
 
-1. Compartir reservas entre usuarios
-2. Presentar ofertas de último minuto
-3. Administrar puntos del programa de fidelización de viajes
-4. Guardar "alerta de paquetes"
-5. Etc.
+1. Gestión de múltiples proveedores por cliente
+2. Integración con sistemas de facturación externos
+3. Reportes y análisis de datos históricos
+4. Configuración avanzada de notificaciones
+5. Gestión de inventario de combustible
+6. Integración con sistemas de pago
+7. Funcionalidades de administrador del sistema
+8. Soporte técnico y chat en vivo
 
 ---
 
@@ -1523,34 +1868,71 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 | # | Problema | Escala de Severidad | Heurística/Principio violado(s) |
 |---|----------|--------------------|---------------------------------|
-| 1 | No hay un control que permita regresar a la tienda durante el trámite de compra | 3 | Usability: Libertad y control del usuario |
-| 2 | Se cargan constantemente algunas opciones | 2 | Usability: Consistencia y estándares; Inclusive Design: Información comprensible |
-| 3 | Imágenes sin atributo "alt" | 2 | Inclusive Design: Información comprensible |
-| 4 | Botón "Ver más" pero no existe información adicional | 1 | Information Architecture: Jerarquías comprensibles |
-| 5 | No incluye información de los planes de servicio | 4 | Information Architecture: Es fácil encontrar |
-| Etc. |
+| 1 | No hay confirmación visual después de crear un pedido | 3 | Usability: Visibilidad del estado del sistema |
+| 2 | El formulario de registro no valida campos obligatorios en tiempo real | 2 | Usability: Prevención de errores |
+| 3 | Falta de indicadores de progreso en el proceso de autenticación MFA | 2 | Usability: Visibilidad del estado del sistema |
+| 4 | Los botones de acción principal no tienen suficiente contraste | 2 | Inclusive Design: Información comprensible |
 
 ---
 
 ## DESCRIPCIÓN DE PROBLEMAS:
 
-### PROBLEMA #1: No hay un control que permita regresar a la tienda durante el trámite de compra
+### PROBLEMA #1: No hay confirmación visual después de crear un pedido
 
 **Severidad:** 3  
-**Heurística Violada:** Usability - Libertad y control del usuario
+**Heurística Violada:** Usability - Visibilidad del estado del sistema
 
 **Problema:**
 
-Al momento de ingresar nuestros datos, no podemos regresar a la tienda en caso en una voz el cliente para el trámite de compra, en caso de que esté aquel registro a la tienda, no hay un botón que le devolve hacia la web. lo cual nos obliga a regresar al cliente y al momento de regresar productos, lamentablemente se la cantidad de artículos del cliente.
-(incluir además una captura de pantalla ilustrando el problema)
+Al completar el formulario de creación de pedido y hacer clic en "Enviar pedido", el usuario no recibe una confirmación clara de que el pedido se ha registrado exitosamente. La página se mantiene en el mismo formulario sin mostrar ningún mensaje de éxito, número de pedido generado, o redirección a una página de confirmación. Esto genera incertidumbre en el usuario sobre si el pedido fue procesado correctamente.
 
 **Recomendación:**
 
-La más práctica es que al momento que queramos realizar dicho trámite, al navegador le ditto en una ventana aparte para no perder los cambios realizados en nuestro carrito de compras.
+Implementar una página de confirmación dedicada que muestre el número de pedido generado, un resumen de los datos enviados, y el estado inicial del pedido. Alternativamente, mostrar un mensaje de éxito prominente con la información del pedido creado y opciones para ver el historial o crear un nuevo pedido.
+
+### PROBLEMA #2: El formulario de registro no valida campos obligatorios en tiempo real
+
+**Severidad:** 2  
+**Heurística Violada:** Usability - Prevención de errores
+
+**Problema:**
+
+Durante el proceso de registro de nueva cuenta, los campos obligatorios no muestran validación en tiempo real. El usuario debe completar todo el formulario y hacer clic en "Registrar" para descubrir que faltan campos requeridos o que el formato de email es incorrecto. Esto genera frustración y obliga al usuario a revisar todo el formulario nuevamente.
+
+**Recomendación:**
+
+Implementar validación en tiempo real que muestre mensajes de error específicos debajo de cada campo cuando pierde el foco o mientras el usuario escribe. Usar indicadores visuales (colores, iconos) para mostrar claramente qué campos son válidos y cuáles requieren corrección.
+
+### PROBLEMA #3: Falta de indicadores de progreso en el proceso de autenticación MFA
+
+**Severidad:** 2  
+**Heurística Violada:** Usability - Visibilidad del estado del sistema
+
+**Problema:**
+
+Cuando el usuario solicita un pedido y se activa la autenticación multifactor, no hay indicadores visuales que muestren el progreso del proceso. El usuario no sabe si debe esperar un código, cuánto tiempo puede tardar en llegar, o en qué paso del proceso se encuentra. La pantalla de espera no proporciona información suficiente.
+
+**Recomendación:**
+
+Agregar un indicador de progreso que muestre los pasos del proceso MFA: 1) Generación del código, 2) Envío del código, 3) Validación del código. Incluir mensajes informativos sobre el tiempo estimado de espera y opciones para reenviar el código si es necesario.
+
+### PROBLEMA #4: Los botones de acción principal no tienen suficiente contraste
+
+**Severidad:** 2  
+**Heurística Violada:** Inclusive Design - Información comprensible
+
+**Problema:**
+
+Los botones principales como "Crear pedido", "Confirmar" y "Actualizar estado" no tienen suficiente contraste con el fondo, especialmente en condiciones de luz intensa o para usuarios con problemas de visión. El texto de los botones es difícil de leer y puede pasar desapercibido.
+
+**Recomendación:**
+
+Ajustar la paleta de colores para cumplir con los estándares WCAG 2.1 AA, asegurando una relación de contraste mínima de 4.5:1 entre el texto y el fondo. Considerar usar colores más saturados para los botones principales y agregar bordes o sombras para mejorar la definición visual.
+
 
 ## 5.4. Video About-the-Product
 
-**Link:** 
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213278_upc_edu_pe/EW9ZHcBl2HJFjj3PJDHAJnkBZE4yWYInxoMNEI-5kvQX9g?e=PfpJdd
 
 ## Conclusiones
 
@@ -1559,7 +1941,7 @@ El desarrollo del proyecto FuelTrack demostró un avance significativo en la imp
 ## Anexos
 
 - Enlace del despliegue del Landing Page: https://1asi0730-2510-4374-g3-fueltrack.github.io/Landing-page/
-- Enlace del despliegue del Front-end: https://front-end-six-livid.vercel.app/ 
+- Enlace del despliegue del Front-end: https://front-end-six-livid.vercel.app/
 - Enlace del despliegue del Back-end: https://back-end-qzwq.onrender.com/swagger/
 
 
