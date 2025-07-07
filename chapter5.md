@@ -1357,7 +1357,7 @@ En esta sección, se evidencia todos los cambios realizados en la pagina web y q
 </ul>
 
 <p><strong>Enlace a Demo en Vivo:</strong><br>
-<a href="https://fronted-ft.vercel.app/" target="_blank">FuelTrack Web Applicaction</a></p>
+<a href="https://front-end-six-livid.vercel.app/" target="_blank">FuelTrack Web Applicaction</a></p>
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -1372,7 +1372,7 @@ La documentación generada sigue el estándar OpenAPI (Swagger), permitiendo una
 Este enlace proporciona acceso a la interfaz interactiva Swagger UI, desde donde es posible consultar, probar y validar cada uno de los endpoints desarrollados e implementados hasta la fecha como parte del alcance del Sprint 3.
 
 <p><strong>Enlace a Demo en Vivo:</strong><br>
-<a href="https://fueltrack-backend.onrender.com/swagger" target="_blank">FuelTrack Web Services</a></p>
+<a href="https://back-end-qzwq.onrender.com/swagger/" target="_blank">FuelTrack Web Services</a></p>
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -1556,6 +1556,11 @@ La más práctica es que al momento que queramos realizar dicho trámite, al nav
 
 El desarrollo del proyecto FuelTrack demostró un avance significativo en la implementación de una plataforma integral para la gestión de pedidos de combustible. A lo largo de los sprints, se lograron hitos clave como el despliegue exitoso de la Landing Page, el desarrollo del frontend y backend, y la integración de funcionalidades esenciales para solicitantes y proveedores. Las entrevistas de validación confirmaron la utilidad de la plataforma, aunque también destacaron áreas de mejora, como la optimización de notificaciones y la inclusión de filtros avanzados. En general, el proyecto cumplió con sus objetivos iniciales y sentó las bases para futuras iteraciones que refinen la experiencia del usuario y amplíen las funcionalidades.
 
-## Bibliografia
+## Anexos
+
+- Enlace del despliegue del Landing Page: https://1asi0730-2510-4374-g3-fueltrack.github.io/Landing-page/
+- Enlace del despliegue del Front-end: https://front-end-six-livid.vercel.app/ 
+- Enlace del despliegue del Back-end: https://back-end-qzwq.onrender.com/swagger/
+
 
 
