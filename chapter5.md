@@ -1451,11 +1451,11 @@ Backend:
     </tr>
     <tr align="center">
         <td>Sprint 4 Velocity</td>
-        <td></td>
+        <td>11</td>
     </tr>
     <tr align="center">
         <td>Sum of Story Point</td>
-        <td></td>
+        <td>21</td>
     </tr>
 </table>
 
