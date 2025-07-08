@@ -293,7 +293,7 @@ Este bounded context sirve para alojar el feature de ordenes que se realicen, es
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-![Request](img/DiagramaUML.png)
+![Request](img/DiagramadeClase.jpg)
 #### Order request
 ![Request](img/order-request.png)
 Este diagrama de clases organiza el sistema de monitoreo de pedidos de combustible. Clientes representa a quienes solicitan el combustible, Orders gestiona cada pedido realizado, Suppliers identifica a los proveedores que atienden esos pedidos, e Inventory controla el stock disponible. Las relaciones permiten ver claramente cómo un cliente genera un pedido, que es atendido por un proveedor en función del inventario actual.
@@ -394,4 +394,4 @@ Descripción: Define los perfiles de usuario y sus permisos.
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-![DD](img/databasediagram.png)
+![DD](img/DataBaseDiagram.png)
