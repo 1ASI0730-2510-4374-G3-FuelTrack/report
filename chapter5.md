@@ -1334,15 +1334,23 @@ En esta sección, se evidencia todos los cambios realizados en la pagina web y q
 <strong>Solicitantes</strong>
 <ul>
   <li><strong>Orders Client Section</strong><br><img src="./img/OrdersClient(2).png" alt="Orders Client Section"></li>
+  <li><strong>Orders Client Section 2</strong><br><img src="./img/OrdersClientCreate(2).png" alt="Features Section 1"></li>
+  <li><strong>Orders Client Section 3</strong><br><img src="./img/OrdersClientCreate2(2).png" alt="Orders Client Section 2"></li>
+  <li><strong>Orders Client Section 4</strong><br><img src="./img/OrdersClientCreate3(2).png" alt="Orders Client Section 3"></li>
   <li><strong>Analytics Client Section</strong><br><img src="./img/AnalyticsClient(2).png" alt="Analytics Client Section"></li>
+  <li><strong>Analytics Client Section 2</strong><br><img src="./img/AnalyticsClient2(2).png" alt="Analytics Client Section 2"></li>
   <li><strong>Terminals Client Section</strong><br><img src="./img/TerminalsClient(2).png" alt="Terminals Client Section"></li>
+   <li><strong>Terminals Client Section 2</strong><br><img src="./img/TerminalsClient2(2).png" alt="Terminals Client Section 2"></li>
+   <li><strong>Provider Client Section</strong><br><img src="./img/ProviderClient(2).png" alt="Provider Client Section"></li>
    <li><strong>Workflows Client Section</strong><br><img src="./img/WorkflowsClient(2).png" alt="Workflows Client Section"></li>
 </ul>
 <strong>Proveedores</strong>
 <ul>
    <li><strong>Orders Supplier Section</strong><br><img src="./img/OrdersSupplier(2).png" alt="Orders Supplier Section"></li>
    <li><strong>Conciliations Supplier Section</strong><br><img src="./img/ConciliationsSupplier(2).png" alt="Conciliations Supplier Section"></li>
+   <li><strong>Conciliations Supplier Section 2</strong><br><img src="./img/ConciliationsSupplier2(2).png" alt="Conciliations Supplier Section 2"></li>
    <li><strong>Dispatch Supplier Section</strong><br><img src="./img/DispatchSupplier(2).png" alt="Dispatch Supplier Section"></li>
+    <li><strong>Dispatch Supplier Section 2</strong><br><img src="./img/DispatchSupplier2(2).png" alt="Dispatch Supplier Section 2"></li>
    <li><strong>Analytics Supplier Section</strong><br><img src="./img/AnalyticsSupplier(2).png" alt="Analytics Supplier Section"></li>
    <li><strong>Prices Supplier Section</strong><br><img src="./img/PricesSupplier(2).png" alt="Prices Supplier Section"></li>
    <li><strong>Clients Supplier Section</strong><br><img src="./img/ClientsSupplier(2).png" alt="Clients Supplier Section"></li>
